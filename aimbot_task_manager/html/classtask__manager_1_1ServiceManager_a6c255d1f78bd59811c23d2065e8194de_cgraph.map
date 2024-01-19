@@ -1,0 +1,8 @@
+<map id="task_manager::ServiceManager::set_user_command_callback" name="task_manager::ServiceManager::set_user_command_callback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,233,145"/>
+<area shape="rect" id="node2" href="$classtask__manager_1_1ServiceManager.html#a7cd9f7302f46aa779cddacba4412bf82" title=" " alt="" coords="281,104,509,145"/>
+<area shape="rect" id="node3" href="$classtask__manager_1_1ServiceManager.html#ab906a813b6ee01c8541361ce5b1d5a36" title="현재 작업을 얻어옴" alt="" coords="557,5,785,47"/>
+<area shape="rect" id="node4" href="$classtask__manager_1_1ServiceManager.html#abc0f71385973cb8aee65f37735d6f327" title="작업 대기 큐에 남은 작업의 수를 얻어옴" alt="" coords="557,71,785,112"/>
+<area shape="rect" id="node5" href="$classtask__manager_1_1ServiceManager.html#acd9b6d123cbc9a267c5352804ca0bc2b" title=" " alt="" coords="557,136,785,177"/>
+<area shape="rect" id="node6" href="$classtask__manager_1_1ServiceManager.html#a406846453f7d16e5071fd522cce7b860" title=" " alt="" coords="557,201,785,243"/>
+</map>

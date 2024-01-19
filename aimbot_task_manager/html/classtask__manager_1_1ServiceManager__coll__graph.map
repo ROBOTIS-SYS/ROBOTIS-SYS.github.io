@@ -1,0 +1,5 @@
+<map id="task_manager::ServiceManager" name="task_manager::ServiceManager">
+<area shape="rect" id="node1" title=" " alt="" coords="36,95,264,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node3" href="$classtask__manager_1_1ExecutionTimer.html" title="Measures execution time of code between calls to start and end." alt="" coords="133,5,357,32"/>
+</map>
