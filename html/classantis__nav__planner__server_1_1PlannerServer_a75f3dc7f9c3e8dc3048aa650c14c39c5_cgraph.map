@@ -1,0 +1,12 @@
+<map id="antis_nav_planner_server::PlannerServer::computePathThroughGoalsStepByStep" name="antis_nav_planner_server::PlannerServer::computePathThroughGoalsStepByStep">
+<area shape="rect" id="node1" title="The action server callback which calls planner to get the path from a pose to another pose." alt="" coords="5,275,273,331"/>
+<area shape="rect" id="node2" href="$classantis__nav__planner__server_1_1PlannerServer.html#a943c81a75a09b4e142ea4009d5e1f2e9" title="Method to get plan from the desired plugin." alt="" coords="353,5,543,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__planner__server_1_1PlannerServer.html#ae6c810a83f4bd6873ecec4467db18ec3" title="Check if an action server has a preemption request and replaces the goal with the new preemption goal..." alt="" coords="323,71,573,127"/>
+<area shape="rect" id="node4" href="$classantis__nav__planner__server_1_1PlannerServer.html#a28edd356dafeb4fbd73b32d617a3dbfc" title="Get the starting pose from costmap or message, if valid." alt="" coords="342,152,554,193"/>
+<area shape="rect" id="node5" href="$classantis__nav__planner__server_1_1PlannerServer.html#a8da286a6164e5604c1b3dee139299bd1" title="Check if an action server has a cancellation request pending." alt="" coords="321,217,575,259"/>
+<area shape="rect" id="node6" href="$classantis__nav__planner__server_1_1PlannerServer.html#a8f63580f73db4fb827cba793f8c915b6" title="Check if an action server is valid / active." alt="" coords="331,283,565,324"/>
+<area shape="rect" id="node7" href="$classantis__nav__planner__server_1_1PlannerServer.html#a811d60aeebfd0fe48467764af5019649" title="Publish a path for visualization purposes." alt="" coords="346,348,550,389"/>
+<area shape="rect" id="node8" href="$classantis__nav__planner__server_1_1PlannerServer.html#a2070c34591f93582fb2e0cab31d8529b" title="Transform start and goal poses into the costmap global frame for path planning plugins to utilize." alt="" coords="333,414,563,470"/>
+<area shape="rect" id="node9" href="$classantis__nav__planner__server_1_1PlannerServer.html#ac7164605e50feaf4724c859d2ee0b4d5" title="Validate that the path contains a meaningful path." alt="" coords="343,495,553,536"/>
+<area shape="rect" id="node10" href="$classantis__nav__planner__server_1_1PlannerServer.html#aa6fdc0b4cfa8b5cddb62074811959fdf" title="Wait for costmap to be valid with updated sensor data or repopulate after a clearing recovery...." alt="" coords="331,560,565,601"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="gc_knock_control::GcKnockMotionControl" name="gc_knock_control::GcKnockMotionControl">
+<area shape="rect" id="node1" title=" " alt="" coords="259,335,459,376"/>
+<area shape="rect" id="node2" href="$classrm2__control__module_1_1ControlModule.html" title=" " alt="" coords="194,222,350,263"/>
+<area shape="rect" id="node3" title=" " alt="" coords="47,109,106,136"/>
+<area shape="rect" id="node4" href="$classrm2__common_1_1TaskValues.html" title=" " alt="" coords="426,229,620,256"/>
+<area shape="rect" id="node5" href="$classrm2__common_1_1Twist.html" title=" " alt="" coords="426,109,580,136"/>
+<area shape="rect" id="node6" href="$classrm2__common_1_1Vector.html" title=" " alt="" coords="422,5,584,32"/>
+<area shape="rect" id="node7" href="$classrm2__common_1_1Wrench.html" title=" " alt="" coords="604,109,773,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="antis_nav_costmap_2d::toPointVector" name="antis_nav_costmap_2d::toPointVector">
+<area shape="rect" id="node1" title="Convert Polygon msg to vector of Points." alt="" coords="584,53,755,94"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1FootprintSubscriber.html#a4c5407dfdde3781a04ae09b443fc13dc" title=" " alt="" coords="322,5,493,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a1e065baad620f75f927242a193092f6a" title="Set the footprint of the robot to be the given polygon, padded by footprint_padding." alt="" coords="279,85,536,141"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a0756dd21b8ee3d1edd8a68b7603b5839" title=" " alt="" coords="5,93,231,134"/>
+</map>

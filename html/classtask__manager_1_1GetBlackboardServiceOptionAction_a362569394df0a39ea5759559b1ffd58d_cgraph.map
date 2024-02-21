@@ -1,0 +1,4 @@
+<map id="task_manager::GetBlackboardServiceOptionAction::tick" name="task_manager::GetBlackboardServiceOptionAction::tick">
+<area shape="rect" id="node1" title="category, type, floor, location(옵션), key를 조합하여 필요한 값을 blackboard에서 읽어옴" alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$classtask__manager_1_1RosTreeNode.html#a1e83c0d83fffebd71bebbe3d07a07150" title=" " alt="" coords="272,5,480,47"/>
+</map>

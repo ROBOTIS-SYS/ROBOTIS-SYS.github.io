@@ -1,0 +1,13 @@
+<map id="antis_nav_costmap_2d::LayeredCostmap::updateMap" name="antis_nav_costmap_2d::LayeredCostmap::updateMap">
+<area shape="rect" id="node1" title="Update the underlying costmap with new data. If you want to update the map outside of the update loop..." alt="" coords="5,267,227,308"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#af4c8d73bb0c8d69df5937980d13e9fb1" title=" " alt="" coords="308,5,484,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a37d4f473425a6f7e047ac107e85cda1c" title="Accessor for the x size of the costmap in cells." alt="" coords="289,71,503,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a8c65f7217e2e39bdb4477cb99d76d6be" title="Accessor for the y size of the costmap in cells." alt="" coords="289,136,503,177"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a085e022d6311fd5422bf34439ec4952a" title="Accessor for the x size of the costmap in meters." alt="" coords="282,201,510,243"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a29a2bef8a7ba3e6f88ec779cc3ce6851" title="Accessor for the y size of the costmap in meters." alt="" coords="283,267,509,308"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#ae894a66fe4b192cd656735f62dc6414c" title="Checks if the robot is outside the bounds of its costmap in the case of poorly configured setups." alt="" coords="275,332,517,373"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a66e1ddbfba9ca61c88865ad80f22d087" title=" " alt="" coords="309,397,483,439"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#afee0d365426428de0240d3b8b4aadb7a" title="Move the origin of the costmap to a new location.... keeping data when it can." alt="" coords="297,463,495,504"/>
+<area shape="rect" id="node11" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a0c45db5e0a27b04fd5171df4e44853e5" title="Convert from world coordinates to map coordinates, constraining results to legal bounds." alt="" coords="275,529,517,585"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aad815ad1433b2111c1816d710bec1486" title="Convert from world coordinates to map coordinates." alt="" coords="565,332,757,373"/>
+</map>

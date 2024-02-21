@@ -1,0 +1,4 @@
+<map id="antis_nav_costmap_2d::LayeredCostmap::setFootprint" name="antis_nav_costmap_2d::LayeredCostmap::setFootprint">
+<area shape="rect" id="node1" title="Updates the stored footprint, updates the circumscribed and inscribed radii, and calls onFootprintCha..." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__costmap__2d.html#a1b132cb6f0d39eb8f4753f35babf0ae8" title="Calculate the extreme distances for the footprint." alt="" coords="280,5,511,47"/>
+</map>

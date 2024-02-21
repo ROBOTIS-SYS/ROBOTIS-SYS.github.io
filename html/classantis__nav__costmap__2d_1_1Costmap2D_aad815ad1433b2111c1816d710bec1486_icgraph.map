@@ -1,0 +1,12 @@
+<map id="antis_nav_costmap_2d::Costmap2D::worldToMap" name="antis_nav_costmap_2d::Costmap2D::worldToMap">
+<area shape="rect" id="node1" title="Convert from world coordinates to map coordinates." alt="" coords="1400,136,1592,177"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a9ab886fa513a4c884501c71b43e470c0" title=" " alt="" coords="1123,5,1330,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#ae894a66fe4b192cd656735f62dc6414c" title="Checks if the robot is outside the bounds of its costmap in the case of poorly configured setups." alt="" coords="1105,71,1348,112"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a524a3da71f8c9ca0045e725133e0613b" title="Clear freespace based on one observation." alt="" coords="1101,136,1352,177"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ae213e695f082852e3b694db16decf78e" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="829,165,1053,207"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#ada77348088a721b74e512d77bd6da539" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="1131,253,1323,295"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a6c864dcdb0b0972cf4f362f3b25a3809" title="Update the underlying costmap with new data. If you want to update the map outside of the update loop..." alt="" coords="831,71,1052,112"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a0a1ec4a74960f725e5bff4a4b3406b79" title=" " alt="" coords="567,71,781,112"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#aa71bd682bcbb2c4eeff3881903ffae2b" title=" " alt="" coords="271,71,519,112"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a2be53bb0ce95cbe2f25f9cae395b0b2d" title=" " alt="" coords="5,71,223,112"/>
+</map>

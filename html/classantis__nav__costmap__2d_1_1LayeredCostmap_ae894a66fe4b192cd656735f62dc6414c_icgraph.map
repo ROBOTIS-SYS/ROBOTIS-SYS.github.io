@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::LayeredCostmap::isOutofBounds" name="antis_nav_costmap_2d::LayeredCostmap::isOutofBounds">
+<area shape="rect" id="node1" title="Checks if the robot is outside the bounds of its costmap in the case of poorly configured setups." alt="" coords="1099,5,1341,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a6c864dcdb0b0972cf4f362f3b25a3809" title="Update the underlying costmap with new data. If you want to update the map outside of the update loop..." alt="" coords="829,5,1051,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a0a1ec4a74960f725e5bff4a4b3406b79" title=" " alt="" coords="567,5,781,47"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#aa71bd682bcbb2c4eeff3881903ffae2b" title=" " alt="" coords="271,5,519,47"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a2be53bb0ce95cbe2f25f9cae395b0b2d" title=" " alt="" coords="5,5,223,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="antis_nav_lifecycle_manager::LifecycleManager::managerCallback" name="antis_nav_lifecycle_manager::LifecycleManager::managerCallback">
+<area shape="rect" id="node1" title="Lifecycle node manager callback function." alt="" coords="5,165,216,221"/>
+<area shape="rect" id="node2" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a1a0e59118a791136cb7284614ee677c3" title="Pause all the managed nodes." alt="" coords="523,5,733,61"/>
+<area shape="rect" id="node6" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a1a10ba9fa93935cbba100c8bd45847b9" title="Reset all the managed nodes." alt="" coords="523,85,733,141"/>
+<area shape="rect" id="node7" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#ac63034fe25947c3458c43a32dd7fa2cf" title="Resume all the managed nodes." alt="" coords="523,165,733,221"/>
+<area shape="rect" id="node8" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#abe584e9bfa71f796d5d01e4b573375c7" title="Deactivate, clean up and shut down all the managed nodes." alt="" coords="264,359,475,415"/>
+<area shape="rect" id="node11" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a9588b7548d6c2f951d6032d573d6bafe" title="Start up managed nodes." alt="" coords="523,245,733,301"/>
+<area shape="rect" id="node3" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a530e1138dd57442d3c3ee25494e716d7" title="For each node in the map, transition to the new target state." alt="" coords="791,147,1002,203"/>
+<area shape="rect" id="node5" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a330be08c7d21dc4150294d3dc2fc29f0" title="Helper function to highlight the output on the console." alt="" coords="1319,237,1529,293"/>
+<area shape="rect" id="node4" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#ae3d6c696b05fda00418f27f0b502ab38" title="For a node, transition to the new target state." alt="" coords="1060,147,1271,203"/>
+<area shape="rect" id="node9" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#ab70f37d8ab94ede30ad032257d892dd9" title="Destroy all the lifecycle service clients." alt="" coords="781,379,1012,435"/>
+<area shape="rect" id="node10" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a6dd41c4a9861ebf71f63f3ac354ee3b3" title="Support function for shutdown." alt="" coords="523,325,733,381"/>
+</map>

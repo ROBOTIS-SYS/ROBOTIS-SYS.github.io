@@ -1,0 +1,6 @@
+<map id="manipulator_gui::RosNode::set_goal_joint_angle_minimum_jerk" name="manipulator_gui::RosNode::set_goal_joint_angle_minimum_jerk">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,200,141"/>
+<area shape="rect" id="node2" href="$classmanipulator__gui_1_1RosNode.html#a41afe07743298d9e2369aa19a7567d36" title=" " alt="" coords="248,5,443,61"/>
+<area shape="rect" id="node3" href="$classmanipulator__gui_1_1RosNode.html#ad47430b899ed0f5cbeaf5ba18f845f6e" title=" " alt="" coords="248,85,443,141"/>
+<area shape="rect" id="node4" href="$classmanipulator__gui_1_1RosNode.html#ad9d2e6b762418e80268ec976ccc7c5ce" title=" " alt="" coords="248,165,443,221"/>
+</map>

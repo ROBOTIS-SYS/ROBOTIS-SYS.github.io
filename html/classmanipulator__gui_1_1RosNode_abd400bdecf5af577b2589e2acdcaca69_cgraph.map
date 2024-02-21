@@ -1,0 +1,10 @@
+<map id="manipulator_gui::RosNode::call_tracking_action" name="manipulator_gui::RosNode::call_tracking_action">
+<area shape="rect" id="node1" title="BT action &#45; tracking action." alt="" coords="5,71,200,112"/>
+<area shape="rect" id="node2" href="$classmanipulator__gui_1_1RosNode.html#a3550049149f4ddb1ba3570d921498cad" title=" " alt="" coords="248,5,459,47"/>
+<area shape="rect" id="node3" href="$classmanipulator__gui_1_1RosNode.html#a4baafa472cfc9c0384295702731f371b" title=" " alt="" coords="248,71,459,112"/>
+<area shape="rect" id="node4" href="$classmanipulator__gui_1_1RosNode.html#a6dd67938fba8b81512405d300a620b53" title=" " alt="" coords="256,136,451,177"/>
+<area shape="rect" id="node5" href="$classmanipulator__gui_1_1RosNode.html#a2ef4a53d6ba82aaeb9846abf2271007e" title="BT action &#45; gc push target action." alt="" coords="507,136,713,177"/>
+<area shape="rect" id="node6" href="$classmanipulator__gui_1_1RosNode.html#a6f6b5cb7261325d2e03938eb0f0cd229" title=" " alt="" coords="761,49,957,105"/>
+<area shape="rect" id="node7" href="$classmanipulator__gui_1_1RosNode.html#ace17559bd1a8760486b74172f14a5722" title=" " alt="" coords="762,129,957,185"/>
+<area shape="rect" id="node8" href="$classmanipulator__gui_1_1RosNode.html#ae66fef89194dd6207151e372d6985a48" title=" " alt="" coords="762,209,957,265"/>
+</map>

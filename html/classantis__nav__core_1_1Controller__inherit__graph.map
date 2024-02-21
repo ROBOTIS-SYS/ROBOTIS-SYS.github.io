@@ -1,0 +1,4 @@
+<map id="antis_nav_core::Controller" name="antis_nav_core::Controller">
+<area shape="rect" id="node1" title="controller interface that acts as a virtual base class for all controller plugins" alt="" coords="45,5,237,32"/>
+<area shape="rect" id="node2" href="$classantis__nav__ev__rpp__controller__plugin_1_1ElevatorRegulatedPurePursuitController.html" title="Regulated pure pursuit controller plugin." alt="" coords="5,80,276,136"/>
+</map>

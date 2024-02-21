@@ -1,0 +1,4 @@
+<map id="antis_nav_controller_server::SimpleProgressChecker" name="antis_nav_controller_server::SimpleProgressChecker">
+<area shape="rect" id="node1" title="This plugin is used to check the position of the robot to make sure that it is actually progressing t..." alt="" coords="5,95,236,136"/>
+<area shape="rect" id="node2" href="$classantis__nav__core_1_1ProgressChecker.html" title="This class defines the plugin interface used to check the position of the robot to make sure that it ..." alt="" coords="29,5,213,47"/>
+</map>

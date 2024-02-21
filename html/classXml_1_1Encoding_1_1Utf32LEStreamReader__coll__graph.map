@@ -1,0 +1,4 @@
+<map id="Xml::Encoding::Utf32LEStreamReader" name="Xml::Encoding::Utf32LEStreamReader">
+<area shape="rect" id="node1" title="UTF&#45;32 (little endian) characters reader from the input stream." alt="" coords="5,95,227,136"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1CharactersReader.html" title="Abstract class for reading characters from XML documents." alt="" coords="19,5,213,47"/>
+</map>

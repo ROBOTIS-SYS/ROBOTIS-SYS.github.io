@@ -1,0 +1,4 @@
+<map id="antis_nav_controller_server::SimpleGoalChecker::initialize" name="antis_nav_controller_server::SimpleGoalChecker::initialize">
+<area shape="rect" id="node1" title="Initialize any parameters from the NodeHandle." alt="" coords="267,5,472,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1StoppedGoalChecker.html#ac970ffed44372ee0302b148f07e8733a" title="Initialize any parameters from the NodeHandle." alt="" coords="5,5,219,61"/>
+</map>

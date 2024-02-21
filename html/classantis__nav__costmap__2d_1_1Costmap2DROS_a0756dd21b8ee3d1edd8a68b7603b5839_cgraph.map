@@ -1,0 +1,26 @@
+<map id="antis_nav_costmap_2d::Costmap2DROS::on_configure" name="antis_nav_costmap_2d::Costmap2DROS::on_configure">
+<area shape="rect" id="node1" title=" " alt="" coords="5,335,231,376"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#ac324662b756ca9d9b5d1238bdb33bc16" title=" " alt="" coords="301,5,513,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a60f7eceb0fa3a5acab0ee887cf126624" title=" " alt="" coords="294,71,521,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#afa391f81246875d2c3c52bc01ccf2b3a" title=" " alt="" coords="289,188,526,229"/>
+<area shape="rect" id="node7" href="$namespaceantis__nav__costmap__2d.html#a9aca3428a141be6491812308dd01b277" title="Make the footprint from the given string." alt="" coords="615,129,810,171"/>
+<area shape="rect" id="node9" href="$classantis__nav__util_1_1LifecycleNode.html#a94728991133c77b268818a6735740f98" title=" " alt="" coords="623,364,802,405"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a26ee1b006f374050099573e762d72045" title=" " alt="" coords="292,335,523,376"/>
+<area shape="rect" id="node11" href="$namespaceantis__nav__costmap__2d.html#a4bbd57d7d37881d94a70997203f014c3" title="Create a circular footprint from a given radius." alt="" coords="307,400,508,441"/>
+<area shape="rect" id="node12" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a869be77dcb822f99a000835fd6466a24" title=" " alt="" coords="291,254,523,310"/>
+<area shape="rect" id="node13" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a68c627bd07292efa4083141dbed29781" title=" " alt="" coords="300,517,515,559"/>
+<area shape="rect" id="node18" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a378078900c7dfc1afff0b2d75e48f83f" title="Set the footprint of the robot to be the given set of points, padded by footprint_padding." alt="" coords="584,583,841,624"/>
+<area shape="rect" id="node22" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a1e065baad620f75f927242a193092f6a" title="Set the footprint of the robot to be the given polygon, padded by footprint_padding." alt="" coords="279,634,536,690"/>
+<area shape="rect" id="node5" href="$namespaceantis__nav__util.html#aa78463f255967d605285003ec354c5a9" title=" " alt="" coords="901,247,1105,288"/>
+<area shape="rect" id="node6" href="$namespaceantis__nav__util.html#af22622d82bae6c599398841eec7c38aa" title=" " alt="" coords="635,247,790,288"/>
+<area shape="rect" id="node8" href="$namespaceantis__nav__costmap__2d.html#a02eaae86f91c54e7a2ca71df2e0af06f" title="Parse a vector of vectors of floats from a string." alt="" coords="917,129,1088,171"/>
+<area shape="rect" id="node14" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#af4c8d73bb0c8d69df5937980d13e9fb1" title=" " alt="" coords="625,517,801,559"/>
+<area shape="rect" id="node15" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a80cd8b0613b8a398282b7646e2184505" title=" " alt="" coords="622,452,803,493"/>
+<area shape="rect" id="node16" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ab30d5e0fae0e2b28243f7cffcdb1b563" title="Deletes the costmap, static_map, and markers data structures." alt="" coords="907,452,1098,493"/>
+<area shape="rect" id="node17" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aed8eb7340ca23ae02a22e1ad0efa0e21" title=" " alt="" coords="1166,452,1393,493"/>
+<area shape="rect" id="node19" href="$namespaceantis__nav__costmap__2d.html#a961ac787a43b27e1571465e3ed47ff72" title="Adds the specified amount of padding to the footprint (in place)" alt="" coords="917,517,1088,559"/>
+<area shape="rect" id="node20" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a06ddda8be66303b4485c45a6c8dd8763" title="Updates the stored footprint, updates the circumscribed and inscribed radii, and calls onFootprintCha..." alt="" coords="889,583,1116,624"/>
+<area shape="rect" id="node21" href="$namespaceantis__nav__costmap__2d.html#a1b132cb6f0d39eb8f4753f35babf0ae8" title="Calculate the extreme distances for the footprint." alt="" coords="1164,583,1395,624"/>
+<area shape="rect" id="node23" href="$namespaceantis__nav__costmap__2d.html#ae9e68bbc6338e3a1453101ce1d9c9e4f" title="Convert Polygon msg to vector of Points." alt="" coords="627,648,798,689"/>
+<area shape="rect" id="node24" href="$namespaceantis__nav__costmap__2d.html#a0f988345c37fbe9b73b276f8c4a40623" title="Convert Point32 to Point." alt="" coords="917,648,1088,689"/>
+</map>

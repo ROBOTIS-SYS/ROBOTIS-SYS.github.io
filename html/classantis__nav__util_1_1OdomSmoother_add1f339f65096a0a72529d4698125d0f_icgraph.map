@@ -1,0 +1,4 @@
+<map id="antis_nav_util::OdomSmoother::odomCallback" name="antis_nav_util::OdomSmoother::odomCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__util_1_1OdomSmoother.html#a0b41af90590edaa8f0179e9acc693ada" title="Constructor that subscribes to an Odometry topic." alt="" coords="5,5,228,47"/>
+</map>

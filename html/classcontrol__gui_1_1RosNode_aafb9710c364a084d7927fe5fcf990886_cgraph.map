@@ -1,0 +1,10 @@
+<map id="control_gui::RosNode::send_nav_goal" name="control_gui::RosNode::send_nav_goal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,188,165,229"/>
+<area shape="rect" id="node2" href="$classcontrol__gui_1_1RosNode.html#a2598e23010c9e1245cd36d841b32934e" title=" " alt="" coords="241,5,401,47"/>
+<area shape="rect" id="node3" href="$classcontrol__gui_1_1RosNode.html#a841aaa96500cbdbe32c139f47b0df855" title=" " alt="" coords="477,261,665,287"/>
+<area shape="rect" id="node4" href="$classcontrol__gui_1_1RosNode.html#ad1686517186d3703f42b580524efbeb4" title=" " alt="" coords="236,123,407,164"/>
+<area shape="rect" id="node5" href="$classcontrol__gui_1_1RosNode.html#a02b51f2c2d69b4e5811f6dec4302c047" title=" " alt="" coords="238,188,405,229"/>
+<area shape="rect" id="node6" href="$classcontrol__gui_1_1RosNode.html#af02e526a7ec49c2c9be4c8a27e6be4cb" title=" " alt="" coords="230,253,413,295"/>
+<area shape="rect" id="node7" href="$classcontrol__gui_1_1RosNode.html#ae967f96b78e306def68b4356ad66db53" title=" " alt="" coords="213,319,429,360"/>
+<area shape="rect" id="node8" href="$classcontrol__gui_1_1RosNode.html#aeb7c74cce5627bfb56fe22d1ea64ce18" title=" " alt="" coords="241,384,401,425"/>
+</map>

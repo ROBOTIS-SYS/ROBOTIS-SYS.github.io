@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::laserScanValidInfCallback" name="antis_nav_costmap_2d::ObstacleLayer::laserScanValidInfCallback">
+<area shape="rect" id="node1" title="A callback to handle buffering LaserScan messages which need filtering to turn Inf values into range_..." alt="" coords="485,5,712,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#acc538dff6619a3c640a36b827d18fc2f" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="235,13,437,54"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a4bef041c6fdd160a9ae19167963a36ea" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="5,13,187,54"/>
+</map>

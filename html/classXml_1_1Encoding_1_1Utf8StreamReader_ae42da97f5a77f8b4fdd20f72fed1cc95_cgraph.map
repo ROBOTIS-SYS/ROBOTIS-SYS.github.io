@@ -1,0 +1,4 @@
+<map id="Xml::Encoding::Utf8StreamReader::ReadCharacter" name="Xml::Encoding::Utf8StreamReader::ReadCharacter">
+<area shape="rect" id="node1" title="Reads one Unicode character." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1Utf8ReaderBase.html#a1f468c84a27fe0f052033dea67d33963" title="Gets the bytes count of UTF&#45;8 encoded character." alt="" coords="252,5,449,47"/>
+</map>

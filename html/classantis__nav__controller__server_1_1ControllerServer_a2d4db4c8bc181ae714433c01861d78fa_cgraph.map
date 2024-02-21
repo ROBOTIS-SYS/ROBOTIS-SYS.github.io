@@ -1,0 +1,6 @@
+<map id="antis_nav_controller_server::ControllerServer::isGoalReached" name="antis_nav_controller_server::ControllerServer::isGoalReached">
+<area shape="rect" id="node1" title="Checks if goal is reached." alt="" coords="5,45,189,101"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#a83e5e00dfa810237164ca128138b0ee4" title="Obtain current pose of the robot." alt="" coords="237,5,421,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__controller__server_1_1ControllerServer.html#a4c95426b5487ba3e21a8c7227d5d2f1e" title="get the thresholded Twist" alt="" coords="237,85,421,141"/>
+<area shape="rect" id="node4" href="$classantis__nav__controller__server_1_1ControllerServer.html#ad95240101d2b1ed9f6b76e7bd9d83c2f" title="get the thresholded velocity" alt="" coords="469,85,653,141"/>
+</map>

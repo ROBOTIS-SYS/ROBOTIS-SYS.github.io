@@ -1,0 +1,13 @@
+<map id="antis_nav_costmap_2d::StaticLayer::matchSize" name="antis_nav_costmap_2d::StaticLayer::matchSize">
+<area shape="rect" id="node1" title="Implement this to make this layer match the size of the parent costmap." alt="" coords="5,235,184,276"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a60f7eceb0fa3a5acab0ee887cf126624" title=" " alt="" coords="232,5,459,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a1c02ec430db5dfc872d88e9bf20b8e06" title="Accessor for the x origin of the costmap." alt="" coords="254,71,437,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a8eb0b06c34ad7dc571735174099f46da" title="Accessor for the y origin of the costmap." alt="" coords="254,136,437,177"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ad0cf3f95949e95a025fcf6e1844fa0df" title="Accessor for the resolution of the costmap." alt="" coords="243,201,447,243"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a37d4f473425a6f7e047ac107e85cda1c" title="Accessor for the x size of the costmap in cells." alt="" coords="238,267,453,308"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a8c65f7217e2e39bdb4477cb99d76d6be" title="Accessor for the y size of the costmap in cells." alt="" coords="238,332,453,373"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a884fe8bf692ccbd06f8dde6a0bf23053" title=" " alt="" coords="243,397,447,439"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a80cd8b0613b8a398282b7646e2184505" title=" " alt="" coords="255,463,436,504"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ab30d5e0fae0e2b28243f7cffcdb1b563" title="Deletes the costmap, static_map, and markers data structures." alt="" coords="507,463,697,504"/>
+<area shape="rect" id="node11" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aed8eb7340ca23ae02a22e1ad0efa0e21" title=" " alt="" coords="745,463,972,504"/>
+</map>

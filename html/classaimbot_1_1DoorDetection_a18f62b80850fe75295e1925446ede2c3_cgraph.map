@@ -1,0 +1,10 @@
+<map id="aimbot::DoorDetection::on_configure" name="aimbot::DoorDetection::on_configure">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,176,120"/>
+<area shape="rect" id="node2" href="$classaimbot_1_1DoorDetection.html#ab11a6be6e9d8bdc895116479ff996f57" title=" " alt="" coords="224,5,431,47"/>
+<area shape="rect" id="node3" href="$classaimbot_1_1DoorDetection.html#af6e831e2a3fb196b3c14767727321413" title=" " alt="" coords="242,71,413,127"/>
+<area shape="rect" id="node4" href="$classaimbot_1_1DoorDetection.html#ae4868b796894ac3050ee32f2c541f060" title=" " alt="" coords="242,152,413,193"/>
+<area shape="rect" id="node5" href="$classaimbot_1_1DoorDetection.html#ad50e1f8df528b5fbb61ec24a65ceb576" title=" " alt="" coords="479,152,649,193"/>
+<area shape="rect" id="node6" href="$classaimbot_1_1DoorDetection.html#a840cd532a3b05cfcd5ce3e5138f518ec" title=" " alt="" coords="697,87,868,128"/>
+<area shape="rect" id="node7" href="$classaimbot_1_1DoorDetection.html#af2a1325447f4ce51f4d6565773e8d083" title=" " alt="" coords="697,152,868,193"/>
+<area shape="rect" id="node8" href="$classaimbot_1_1DoorDetection.html#a8e913a4b4b1ace140de8445b322313fc" title=" " alt="" coords="697,217,868,259"/>
+</map>

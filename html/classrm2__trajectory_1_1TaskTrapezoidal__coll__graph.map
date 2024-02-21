@@ -1,0 +1,8 @@
+<map id="rm2_trajectory::TaskTrapezoidal" name="rm2_trajectory::TaskTrapezoidal">
+<area shape="rect" id="node1" title=" " alt="" coords="828,56,1057,83"/>
+<area shape="rect" id="node2" href="$classrm2__trajectory_1_1VelocityProfile.html" title=" " alt="" coords="489,5,636,32"/>
+<area shape="rect" id="node3" href="$classrm2__trajectory_1_1LinearTrapezoidal.html" title=" " alt="" coords="443,56,683,83"/>
+<area shape="rect" id="node4" href="$classrm2__trajectory_1_1SingleTrapezoidal.html" title=" " alt="" coords="5,79,245,105"/>
+<area shape="rect" id="node5" href="$classrm2__trajectory_1_1RotationalTrapezoidal.html" title=" " alt="" coords="467,107,659,149"/>
+<area shape="rect" id="node6" href="$classrm2__common_1_1Rotation.html" title=" " alt="" coords="38,235,213,261"/>
+</map>

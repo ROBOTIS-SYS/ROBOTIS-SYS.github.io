@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::FootprintSubscriber::getFootprint" name="antis_nav_costmap_2d::FootprintSubscriber::getFootprint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,176,61"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__costmap__2d.html#ae9e68bbc6338e3a1453101ce1d9c9e4f" title="Convert Polygon msg to vector of Points." alt="" coords="224,13,395,54"/>
+<area shape="rect" id="node3" href="$namespaceantis__nav__costmap__2d.html#a0f988345c37fbe9b73b276f8c4a40623" title="Convert Point32 to Point." alt="" coords="443,13,613,54"/>
+</map>

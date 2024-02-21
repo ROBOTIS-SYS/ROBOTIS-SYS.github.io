@@ -1,0 +1,4 @@
+<map id="antis_nav_costmap_2d::LayeredCostmap::isOutofBounds" name="antis_nav_costmap_2d::LayeredCostmap::isOutofBounds">
+<area shape="rect" id="node1" title="Checks if the robot is outside the bounds of its costmap in the case of poorly configured setups." alt="" coords="5,5,248,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aad815ad1433b2111c1816d710bec1486" title="Convert from world coordinates to map coordinates." alt="" coords="296,5,488,47"/>
+</map>

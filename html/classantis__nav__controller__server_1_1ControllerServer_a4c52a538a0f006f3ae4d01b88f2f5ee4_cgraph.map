@@ -1,0 +1,5 @@
+<map id="antis_nav_controller_server::ControllerServer::on_deactivate" name="antis_nav_controller_server::ControllerServer::on_deactivate">
+<area shape="rect" id="node1" title="Deactivates member variables." alt="" coords="5,5,189,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#a37b32cf5fbc6dd84d53056f497d54110" title="Calls velocity publisher to publish zero velocity." alt="" coords="237,5,421,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__controller__server_1_1ControllerServer.html#ac6492b53489b1873f8f22b550f434ddc" title="Calls velocity publisher to publish the velocity on &quot;cmd_vel&quot; topic." alt="" coords="469,5,653,61"/>
+</map>

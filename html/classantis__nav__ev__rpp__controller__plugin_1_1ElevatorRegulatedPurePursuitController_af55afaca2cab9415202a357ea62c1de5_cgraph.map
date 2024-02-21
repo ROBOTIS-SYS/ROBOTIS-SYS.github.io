@@ -1,0 +1,7 @@
+<map id="antis_nav_ev_rpp_controller_plugin::ElevatorRegulatedPurePursuitController::transformGlobalPlan" name="antis_nav_ev_rpp_controller_plugin::ElevatorRegulatedPurePursuitController::transformGlobalPlan">
+<area shape="rect" id="node1" title="Transforms global plan into same frame as pose, clips far away poses and possibly prunes passed poses..." alt="" coords="5,97,276,153"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ad0cf3f95949e95a025fcf6e1844fa0df" title="Accessor for the resolution of the costmap." alt="" coords="329,5,533,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a37d4f473425a6f7e047ac107e85cda1c" title="Accessor for the x size of the costmap in cells." alt="" coords="324,71,539,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a8c65f7217e2e39bdb4477cb99d76d6be" title="Accessor for the y size of the costmap in cells." alt="" coords="324,136,539,177"/>
+<area shape="rect" id="node5" href="$namespaceantis__nav__ev__rpp__controller__plugin.html#afccd3f06e05475ce0194bb2643ff366e" title=" " alt="" coords="329,225,534,267"/>
+</map>

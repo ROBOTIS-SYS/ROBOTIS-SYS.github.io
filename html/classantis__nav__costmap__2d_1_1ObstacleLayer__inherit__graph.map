@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer" name="antis_nav_costmap_2d::ObstacleLayer">
+<area shape="rect" id="node1" title=" " alt="" coords="103,184,273,225"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html" title=" " alt="" coords="103,273,273,315"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html" title=" " alt="" coords="103,95,273,136"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Layer.html" title=" " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2D.html" title="A 2D costmap provides a mapping between points in the world and their associated &quot;costs&quot;." alt="" coords="200,5,371,47"/>
+</map>

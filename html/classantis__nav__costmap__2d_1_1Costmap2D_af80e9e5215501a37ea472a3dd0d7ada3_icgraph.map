@@ -1,0 +1,4 @@
+<map id="antis_nav_costmap_2d::Costmap2D::setCost" name="antis_nav_costmap_2d::Costmap2D::setCost">
+<area shape="rect" id="node1" title="Set the cost of a cell in the costmap." alt="" coords="245,5,416,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#ada77348088a721b74e512d77bd6da539" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="5,5,197,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::resetBuffersLastUpdated" name="antis_nav_costmap_2d::ObstacleLayer::resetBuffersLastUpdated">
+<area shape="rect" id="node1" title="triggers the update of observations buffer" alt="" coords="456,31,667,87"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a31f8ef6caca162e8bbc76ba5aa4230e6" title="Stop publishers." alt="" coords="224,5,408,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ae1e24a9c0bea346471a99ae8907f10bd" title="Restart publishers if they&#39;ve been stopped." alt="" coords="231,71,401,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#ab5a754db248cae08cc40cc8960c956df" title="Restart publishers if they&#39;ve been stopped." alt="" coords="5,71,176,112"/>
+</map>

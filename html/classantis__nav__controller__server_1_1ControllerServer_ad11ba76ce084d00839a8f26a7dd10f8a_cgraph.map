@@ -1,0 +1,8 @@
+<map id="antis_nav_controller_server::ControllerServer::computeAndPublishVelocity" name="antis_nav_controller_server::ControllerServer::computeAndPublishVelocity">
+<area shape="rect" id="node1" title="Calculates velocity and publishes to &quot;cmd_vel&quot; topic." alt="" coords="5,111,217,167"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__util_1_1geometry__utils.html#afd9158a142be6eaa0cb0b40e370ffd79" title=" " alt="" coords="265,5,456,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__controller__server_1_1ControllerServer.html#a83e5e00dfa810237164ca128138b0ee4" title="Obtain current pose of the robot." alt="" coords="269,71,453,127"/>
+<area shape="rect" id="node4" href="$classantis__nav__controller__server_1_1ControllerServer.html#a4c95426b5487ba3e21a8c7227d5d2f1e" title="get the thresholded Twist" alt="" coords="269,151,453,207"/>
+<area shape="rect" id="node6" href="$classantis__nav__controller__server_1_1ControllerServer.html#ac6492b53489b1873f8f22b550f434ddc" title="Calls velocity publisher to publish the velocity on &quot;cmd_vel&quot; topic." alt="" coords="269,231,453,287"/>
+<area shape="rect" id="node5" href="$classantis__nav__controller__server_1_1ControllerServer.html#ad95240101d2b1ed9f6b76e7bd9d83c2f" title="get the thresholded velocity" alt="" coords="504,151,688,207"/>
+</map>

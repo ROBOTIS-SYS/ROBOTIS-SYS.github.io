@@ -1,0 +1,6 @@
+<map id="manipulator_gui::RosNode::set_goal_joint_angle_trapezoidal" name="manipulator_gui::RosNode::set_goal_joint_angle_trapezoidal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,200,141"/>
+<area shape="rect" id="node2" href="$classmanipulator__gui_1_1RosNode.html#aa8019a3f256d0b37c12a9509225957bf" title=" " alt="" coords="248,5,449,61"/>
+<area shape="rect" id="node3" href="$classmanipulator__gui_1_1RosNode.html#ae0fb9c906919b318d9ba74abaf35f5a8" title=" " alt="" coords="249,85,449,141"/>
+<area shape="rect" id="node4" href="$classmanipulator__gui_1_1RosNode.html#ac65895ea889cce1b63bd4dbcf0537157" title=" " alt="" coords="251,165,446,221"/>
+</map>

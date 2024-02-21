@@ -1,0 +1,5 @@
+<map id="Xml::Inspector::ParseCharacterReference" name="Xml::Inspector::ParseCharacterReference">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,228,80"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1CharactersReader.html#ae2f176abb3e3c6f04c04e0ef17967ec4" title="Gets the value represented by hexadecimal character." alt="" coords="276,5,469,47"/>
+<area shape="rect" id="node3" href="$classXml_1_1Encoding_1_1CharactersReader.html#a08e3006516a9ac8e216e4305eb23370a" title="Checks if character is allowed in XML document." alt="" coords="276,71,469,112"/>
+</map>

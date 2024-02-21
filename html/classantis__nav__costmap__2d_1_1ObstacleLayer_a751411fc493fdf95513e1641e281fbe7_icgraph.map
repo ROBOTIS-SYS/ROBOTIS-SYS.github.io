@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::getMarkingObservations" name="antis_nav_costmap_2d::ObstacleLayer::getMarkingObservations">
+<area shape="rect" id="node1" title="Get the observations used to mark space." alt="" coords="277,31,483,87"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#af0924f39ff3d0a3120e15abe4f88d9d9" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="16,5,219,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ae213e695f082852e3b694db16decf78e" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="5,71,229,112"/>
+</map>

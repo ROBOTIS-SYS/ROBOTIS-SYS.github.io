@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::updateCosts" name="antis_nav_costmap_2d::ObstacleLayer::updateCosts">
+<area shape="rect" id="node1" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="5,108,217,149"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ac42da36dc72e62235e8006464411a1b1" title="Sets the cost of a convex polygon to a desired value." alt="" coords="269,5,533,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a3542a8688affdc03f1b0982971c1d612" title=" " alt="" coords="283,71,518,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#ac240b17eda3a1c9952ce5fd4b4648c52" title=" " alt="" coords="283,137,518,193"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#ae933e64cd1014fb0138b462b30b8d1b8" title=" " alt="" coords="265,217,536,259"/>
+</map>

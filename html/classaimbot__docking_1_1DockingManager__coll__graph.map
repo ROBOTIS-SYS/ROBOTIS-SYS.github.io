@@ -1,0 +1,7 @@
+<map id="aimbot_docking::DockingManager" name="aimbot_docking::DockingManager">
+<area shape="rect" id="node1" title=" " alt="" coords="379,216,623,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="49,5,164,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="77,180,136,207"/>
+<area shape="rect" id="node4" href="$classaimbot__docking_1_1PerceptionParams.html" title=" " alt="" coords="5,231,208,273"/>
+<area shape="rect" id="node5" href="$classaimbot__docking_1_1PlanningTrackingParams.html" title=" " alt="" coords="11,297,202,338"/>
+</map>

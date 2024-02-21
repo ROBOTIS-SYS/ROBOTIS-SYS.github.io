@@ -1,0 +1,5 @@
+<map id="OdomFusion::OdomFilterBase::rotation_average" name="OdomFusion::OdomFilterBase::rotation_average">
+<area shape="rect" id="node1" title=" " alt="" coords="280,39,495,80"/>
+<area shape="rect" id="node2" href="$classOdomFusion_1_1WeightedAverageFilter.html#ad193b892833c21550186ff74fb1cab49" title=" " alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$classOdomFusion_1_1KalmanFilter2D.html#a041023a619f4becdb41b13ebf7b385ff" title=" " alt="" coords="18,71,219,112"/>
+</map>

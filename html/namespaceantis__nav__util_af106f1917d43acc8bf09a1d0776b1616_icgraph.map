@@ -1,0 +1,4 @@
+<map id="antis_nav_util::startup_lifecycle_nodes" name="antis_nav_util::startup_lifecycle_nodes">
+<area shape="rect" id="node1" title="Transition the given lifecycle nodes to the ACTIVATED state in order." alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__util.html#aeee85cabb2fd2efe508c94da443655d0" title="Transition the given lifecycle nodes to the ACTIVATED state in order." alt="" coords="5,5,172,47"/>
+</map>

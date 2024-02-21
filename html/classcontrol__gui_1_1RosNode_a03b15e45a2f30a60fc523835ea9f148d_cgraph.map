@@ -1,0 +1,21 @@
+<map id="control_gui::RosNode::init_ros" name="control_gui::RosNode::init_ros">
+<area shape="rect" id="node1" title=" " alt="" coords="5,341,165,383"/>
+<area shape="rect" id="node2" href="$classcontrol__gui_1_1RosNode.html#afd75f8ae8dd647de24c686fba48e6ae6" title=" " alt="" coords="219,5,404,47"/>
+<area shape="rect" id="node4" href="$classcontrol__gui_1_1RosNode.html#ad936029fa07decba38d219774abdd9ca" title=" " alt="" coords="223,92,399,133"/>
+<area shape="rect" id="node6" href="$classcontrol__gui_1_1RosNode.html#a1f2c4d943879dc69f436d265fd95d824" title=" " alt="" coords="213,243,409,284"/>
+<area shape="rect" id="node7" href="$classcontrol__gui_1_1RosNode.html#a2149c206843a5e941c88e316a8d92816" title=" " alt="" coords="231,308,391,349"/>
+<area shape="rect" id="node8" href="$classcontrol__gui_1_1RosNode.html#a2cbd36fa1f3cc0a53d7f34fa292139ef" title=" " alt="" coords="231,373,391,415"/>
+<area shape="rect" id="node17" href="$classcontrol__gui_1_1RosNode.html#a6b3ed35bf37dfaad9ddba8d099e383d7" title=" " alt="" coords="231,439,391,480"/>
+<area shape="rect" id="node18" href="$classcontrol__gui_1_1RosNode.html#aea88fd9f47da498a5e4d7b0b9e849478" title=" " alt="" coords="228,504,395,545"/>
+<area shape="rect" id="node19" href="$classcontrol__gui_1_1RosNode.html#a79286adf0e519549c32a6be408b12e56" title=" " alt="" coords="229,569,393,611"/>
+<area shape="rect" id="node3" href="$classcontrol__gui_1_1RosNode.html#a841aaa96500cbdbe32c139f47b0df855" title=" " alt="" coords="724,217,912,243"/>
+<area shape="rect" id="node5" href="$classcontrol__gui_1_1RosNode.html#a10d73fa05e290a215dadf1649d020bf9" title=" " alt="" coords="479,92,655,133"/>
+<area shape="rect" id="node9" href="$classcontrol__gui_1_1RosNode.html#a2598e23010c9e1245cd36d841b32934e" title=" " alt="" coords="487,209,647,251"/>
+<area shape="rect" id="node10" href="$classcontrol__gui_1_1RosNode.html#ab0eaedb4a5746e4afa58edd676f5e699" title=" " alt="" coords="472,275,661,316"/>
+<area shape="rect" id="node11" href="$classcontrol__gui_1_1RosNode.html#a0a2bd596f84b880a92f01c9e7c56da8a" title=" " alt="" coords="457,340,676,381"/>
+<area shape="rect" id="node12" href="$classcontrol__gui_1_1RosNode.html#aa30e1490ca59345d83b8e066111a57f9" title=" " alt="" coords="472,405,661,447"/>
+<area shape="rect" id="node13" href="$classcontrol__gui_1_1RosNode.html#a64a59cbcebb6bf596898cb4dc4106430" title=" " alt="" coords="473,471,660,512"/>
+<area shape="rect" id="node14" href="$classcontrol__gui_1_1RosNode.html#a544eee978bd6cdb601824c5d64b520f6" title=" " alt="" coords="487,536,647,577"/>
+<area shape="rect" id="node15" href="$classcontrol__gui_1_1RosNode.html#a2a795e82105e4ebf5a59f23b94f08de9" title=" " alt="" coords="487,601,647,643"/>
+<area shape="rect" id="node16" href="$classcontrol__gui_1_1RosNode.html#a38fd85931d13f70245d812aaafded7c5" title=" " alt="" coords="469,667,664,708"/>
+</map>

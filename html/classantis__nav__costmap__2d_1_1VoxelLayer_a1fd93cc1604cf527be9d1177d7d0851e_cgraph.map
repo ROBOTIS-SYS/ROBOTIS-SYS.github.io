@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::VoxelLayer::matchSize" name="antis_nav_costmap_2d::VoxelLayer::matchSize">
+<area shape="rect" id="node1" title="Implement this to make this layer match the size of the parent costmap." alt="" coords="5,104,183,145"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a6a6ef396ebd43e3530ccce4ece53beba" title="Implement this to make this layer match the size of the parent costmap." alt="" coords="231,5,431,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a5b03e57131d3ae12440c701cb1216688" title="Resizes a voxel grid to the desired size." alt="" coords="251,71,410,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a443198a401b95b15c75c3f33c7064646" title=" " alt="" coords="251,136,410,177"/>
+<area shape="rect" id="node5" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a53c39103a03b74959a128b6df7343aaa" title=" " alt="" coords="251,201,410,243"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="antis_nav_costmap_2d::VoxelLayer::raytraceFreespace" name="antis_nav_costmap_2d::VoxelLayer::raytraceFreespace">
+<area shape="rect" id="node1" title="Clear freespace based on one observation." alt="" coords="5,251,235,292"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a72e64b7168d6eac9ce034d7089230a88" title="Given distance in the world... convert it to cells." alt="" coords="305,5,499,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a204172dfa4c1d101aab0cac064f24a6f" title=" " alt="" coords="305,71,499,127"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a8f7a8bb5210dba968ec26c85611586fb" title=" " alt="" coords="317,152,487,193"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a085e022d6311fd5422bf34439ec4952a" title="Accessor for the x size of the costmap in meters." alt="" coords="288,217,516,259"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a29a2bef8a7ba3e6f88ec779cc3ce6851" title="Accessor for the y size of the costmap in meters." alt="" coords="289,283,515,324"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#ae43a8c9606f6903e2e781761efc3ddea" title=" " alt="" coords="291,348,513,389"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a903debf9412a9511cfc4cb3da34702f6" title=" " alt="" coords="285,414,519,470"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a08304e70e5a067a32fd0f203117cfe51" title=" " alt="" coords="283,495,521,536"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a5bf3df7eb9f39095d82b56107ae3ed6c" title=" " alt="" coords="569,421,740,463"/>
+</map>

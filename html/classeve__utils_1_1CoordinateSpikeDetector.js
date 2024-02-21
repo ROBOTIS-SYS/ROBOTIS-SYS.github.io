@@ -1,0 +1,28 @@
+var classeve__utils_1_1CoordinateSpikeDetector =
+[
+    [ "CoordinateSpikeDetector", "classeve__utils_1_1CoordinateSpikeDetector.html#ac83d43b09a616302b93163e732fefdce", null ],
+    [ "CoordinateSpikeDetector", "classeve__utils_1_1CoordinateSpikeDetector.html#ad6361a6e7c7c04cbf88d4948359b2cf3", null ],
+    [ "~CoordinateSpikeDetector", "classeve__utils_1_1CoordinateSpikeDetector.html#a83aae087eb761d9628655831804fd5d5", null ],
+    [ "is_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#acb5580ec17041aba2636ea208c8fa3aa", null ],
+    [ "is_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#a95b568b79dae268486a512860b8d853b", null ],
+    [ "is_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#adcc619ec74e58f6613ea3dfaad4ce5ba", null ],
+    [ "is_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#ad24bcda5509d3efbc7c6e53e986a2fb0", null ],
+    [ "is_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#a7f2bedc40aafe480030beebf485315af", null ],
+    [ "is_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#aaf56f10a04ea8f1ac5b0f76b016761fc", null ],
+    [ "is_speed_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#a91e30d5eff159b8861803ee066e75107", null ],
+    [ "is_speed_flat", "classeve__utils_1_1CoordinateSpikeDetector.html#a0a707d0acd55f246bf29d656bbcfd437", null ],
+    [ "set_limit", "classeve__utils_1_1CoordinateSpikeDetector.html#a8d7532bd37fcc5084d5bb30f64f3a8f4", null ],
+    [ "set_limit", "classeve__utils_1_1CoordinateSpikeDetector.html#afb78f62014b37d5d3c0e78dfd32221c6", null ],
+    [ "set_limit", "classeve__utils_1_1CoordinateSpikeDetector.html#ae0c376d26a63bd414626aaca05662c29", null ],
+    [ "set_limit", "classeve__utils_1_1CoordinateSpikeDetector.html#a4e2ef44ad4e0a019567030c47c03bd70", null ],
+    [ "set_speed_limit", "classeve__utils_1_1CoordinateSpikeDetector.html#a6cd1ca181e7bd733e7ab5e3c0483a17f", null ],
+    [ "set_speed_limit", "classeve__utils_1_1CoordinateSpikeDetector.html#a173b29f2fe97e35e7ee7765cf44b802a", null ],
+    [ "limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#ad441055c04c89c0a00c4d346fcfec1ff", null ],
+    [ "v_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a24013bab4d306922294409de4aec1f84", null ],
+    [ "vx_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a3ed7e62cc46b09a2aa7e03175b3653e4", null ],
+    [ "vy_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a5fffd77e814782025e3eb0fb437b3436", null ],
+    [ "vz_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a7f09215187f4d83494ef132d2f4de2ec", null ],
+    [ "x_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a5c786a308c850765f49cdeec02bf649c", null ],
+    [ "y_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a68b5d51956edfb479ee64034bf269e4d", null ],
+    [ "z_limit_", "classeve__utils_1_1CoordinateSpikeDetector.html#a9eefecbbed326c9676965f9df37e0ccd", null ]
+];

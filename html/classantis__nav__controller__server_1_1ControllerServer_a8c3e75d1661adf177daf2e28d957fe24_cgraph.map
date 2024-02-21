@@ -1,0 +1,4 @@
+<map id="antis_nav_controller_server::ControllerServer::publishGradientZeroVelocity" name="antis_nav_controller_server::ControllerServer::publishGradientZeroVelocity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,221,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#ac6492b53489b1873f8f22b550f434ddc" title="Calls velocity publisher to publish the velocity on &quot;cmd_vel&quot; topic." alt="" coords="269,5,453,61"/>
+</map>

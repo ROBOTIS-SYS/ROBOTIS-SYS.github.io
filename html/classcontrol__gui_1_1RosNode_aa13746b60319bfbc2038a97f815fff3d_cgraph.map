@@ -1,0 +1,6 @@
+<map id="control_gui::RosNode::mobile_teleop_vel" name="control_gui::RosNode::mobile_teleop_vel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,165,80"/>
+<area shape="rect" id="node2" href="$classcontrol__gui_1_1RosNode.html#a29d3cdaa0586a0a65b0feb972cfdcf91" title=" " alt="" coords="213,5,373,47"/>
+<area shape="rect" id="node3" href="$classcontrol__gui_1_1RosNode.html#a264ccb881c7f12aee70c0621ec5fcca3" title=" " alt="" coords="213,71,373,112"/>
+<area shape="rect" id="node4" href="$classcontrol__gui_1_1RosNode.html#a841aaa96500cbdbe32c139f47b0df855" title=" " alt="" coords="421,78,609,105"/>
+</map>

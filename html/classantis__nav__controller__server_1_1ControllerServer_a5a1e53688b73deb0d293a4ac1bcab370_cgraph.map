@@ -1,0 +1,5 @@
+<map id="antis_nav_controller_server::ControllerServer::updateGlobalPath" name="antis_nav_controller_server::ControllerServer::updateGlobalPath">
+<area shape="rect" id="node1" title="Calls setPlannerPath method with an updated path received from action server." alt="" coords="5,45,189,101"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#a2b3ad4d183cd098ef370781434455a08" title="Find the valid controller ID name for the given request." alt="" coords="237,5,421,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__controller__server_1_1ControllerServer.html#a0a0d285d11074091638aca9c28c1e056" title="Assigns path to controller." alt="" coords="237,85,421,141"/>
+</map>

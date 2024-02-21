@@ -1,0 +1,20 @@
+<map id="antis_nav_controller_server::ControllerServer::on_configure" name="antis_nav_controller_server::ControllerServer::on_configure">
+<area shape="rect" id="node1" title="Configures controller parameters and member variables." alt="" coords="5,551,189,607"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#a7c273dc391b2826f41aab125d00fcf55" title="FollowPath action server callback. Handles action server updates and spins server until goal is reach..." alt="" coords="237,325,421,381"/>
+<area shape="rect" id="node16" href="$namespaceantis__nav__util.html#aa78463f255967d605285003ec354c5a9" title=" " alt="" coords="475,587,679,629"/>
+<area shape="rect" id="node17" href="$namespaceantis__nav__util.html#af22622d82bae6c599398841eec7c38aa" title=" " alt="" coords="252,587,407,629"/>
+<area shape="rect" id="node18" href="$classantis__nav__util_1_1LifecycleNode.html#a94728991133c77b268818a6735740f98" title=" " alt="" coords="240,653,419,694"/>
+<area shape="rect" id="node3" href="$classantis__nav__controller__server_1_1ControllerServer.html#ad11ba76ce084d00839a8f26a7dd10f8a" title="Calculates velocity and publishes to &quot;cmd_vel&quot; topic." alt="" coords="471,85,683,141"/>
+<area shape="rect" id="node9" href="$classantis__nav__controller__server_1_1ControllerServer.html#a2b3ad4d183cd098ef370781434455a08" title="Find the valid controller ID name for the given request." alt="" coords="737,403,921,459"/>
+<area shape="rect" id="node10" href="$classantis__nav__controller__server_1_1ControllerServer.html#a2fa5e2740040765f5436b9e5dd54fffb" title=" " alt="" coords="485,165,669,221"/>
+<area shape="rect" id="node11" href="$classantis__nav__controller__server_1_1ControllerServer.html#a2d4db4c8bc181ae714433c01861d78fa" title="Checks if goal is reached." alt="" coords="485,5,669,61"/>
+<area shape="rect" id="node12" href="$classantis__nav__controller__server_1_1ControllerServer.html#a8c3e75d1661adf177daf2e28d957fe24" title=" " alt="" coords="469,325,685,381"/>
+<area shape="rect" id="node13" href="$classantis__nav__controller__server_1_1ControllerServer.html#a37b32cf5fbc6dd84d53056f497d54110" title="Calls velocity publisher to publish zero velocity." alt="" coords="485,245,669,301"/>
+<area shape="rect" id="node14" href="$classantis__nav__controller__server_1_1ControllerServer.html#a0a0d285d11074091638aca9c28c1e056" title="Assigns path to controller." alt="" coords="737,508,921,564"/>
+<area shape="rect" id="node15" href="$classantis__nav__controller__server_1_1ControllerServer.html#a5a1e53688b73deb0d293a4ac1bcab370" title="Calls setPlannerPath method with an updated path received from action server." alt="" coords="485,456,669,512"/>
+<area shape="rect" id="node4" href="$namespaceantis__nav__util_1_1geometry__utils.html#afd9158a142be6eaa0cb0b40e370ffd79" title=" " alt="" coords="733,166,924,207"/>
+<area shape="rect" id="node5" href="$classantis__nav__controller__server_1_1ControllerServer.html#a83e5e00dfa810237164ca128138b0ee4" title="Obtain current pose of the robot." alt="" coords="737,5,921,61"/>
+<area shape="rect" id="node6" href="$classantis__nav__controller__server_1_1ControllerServer.html#a4c95426b5487ba3e21a8c7227d5d2f1e" title="get the thresholded Twist" alt="" coords="737,85,921,141"/>
+<area shape="rect" id="node8" href="$classantis__nav__controller__server_1_1ControllerServer.html#ac6492b53489b1873f8f22b550f434ddc" title="Calls velocity publisher to publish the velocity on &quot;cmd_vel&quot; topic." alt="" coords="737,245,921,301"/>
+<area shape="rect" id="node7" href="$classantis__nav__controller__server_1_1ControllerServer.html#ad95240101d2b1ed9f6b76e7bd9d83c2f" title="get the thresholded velocity" alt="" coords="972,85,1156,141"/>
+</map>

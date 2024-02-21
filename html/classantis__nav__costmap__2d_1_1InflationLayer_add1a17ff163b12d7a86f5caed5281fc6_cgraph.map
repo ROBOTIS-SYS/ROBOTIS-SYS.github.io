@@ -1,0 +1,11 @@
+<map id="antis_nav_costmap_2d::InflationLayer::updateCosts" name="antis_nav_costmap_2d::InflationLayer::updateCosts">
+<area shape="rect" id="node1" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="5,201,215,243"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#acd0c1d5ce7e6536f9d02652e1bc33cdd" title="Lookup pre&#45;computed costs." alt="" coords="269,5,471,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a12a855bef153fc4f86c1fb1e9b797ae3" title="Given an index of a cell in the costmap, place it into a list pending for obstacle inflation." alt="" coords="278,71,462,112"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ab6833d6eba3c4d1acdeec3d3c41c9e66" title="Will return a pointer to the underlying unsigned char array used as the costmap." alt="" coords="273,136,467,177"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a1a1e199c0776ef6d05f8b5affb302314" title="Given two map coordinates... compute the associated index." alt="" coords="285,201,455,243"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#aba6c9c89b9b43e8749d2d89e01617a90" title=" " alt="" coords="275,267,465,308"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a37d4f473425a6f7e047ac107e85cda1c" title="Accessor for the x size of the costmap in cells." alt="" coords="263,332,477,373"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a8c65f7217e2e39bdb4477cb99d76d6be" title="Accessor for the y size of the costmap in cells." alt="" coords="263,397,477,439"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a4ee36ada12c824e4c6d1084cc31d6bb1" title="Lookup pre&#45;computed distances." alt="" coords="525,71,756,112"/>
+</map>

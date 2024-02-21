@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::Costmap2DROS::getOrientedFootprint" name="antis_nav_costmap_2d::Costmap2DROS::getOrientedFootprint">
+<area shape="rect" id="node1" title="Build the oriented footprint of the robot at the robot&#39;s current pose." alt="" coords="5,31,224,87"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a80e4d4ce5fc4ab2e4708692ce2776034" title="Get the pose of the robot in the global frame of the costmap." alt="" coords="272,5,503,47"/>
+<area shape="rect" id="node5" href="$namespaceantis__nav__costmap__2d.html#aa9950734cb52ebe6ef480896e829287e" title="Given a pose and base footprint, build the oriented footprint of the robot (list of Points)" alt="" coords="302,71,473,112"/>
+<area shape="rect" id="node3" href="$namespaceantis__nav__util.html#a6b8b09fa41d13a8d82dcc47520defa26" title="get the current pose of the robot" alt="" coords="551,13,772,39"/>
+<area shape="rect" id="node4" href="$namespaceantis__nav__util.html#af5c05ffd7c8b78dbef9750baf6a7618e" title="get an arbitrary pose in a target frame" alt="" coords="820,5,1005,47"/>
+</map>

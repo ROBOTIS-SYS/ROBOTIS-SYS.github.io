@@ -1,0 +1,5 @@
+<map id="Xml::Inspector::ParseElement" name="Xml::Inspector::ParseElement">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,220,73"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1CharactersReader.html#a6004c86baab0034138644ca6e2a8c9b0" title="Checks if character is allowed to be the one of the XML name characters except first." alt="" coords="268,5,461,47"/>
+<area shape="rect" id="node3" href="$classXml_1_1Encoding_1_1CharactersReader.html#a70a58a2f192e4744d47ab5c3c241b031" title="Checks if character is allowed to be the first character of the XML name." alt="" coords="268,71,461,112"/>
+</map>

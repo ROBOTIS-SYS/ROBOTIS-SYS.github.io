@@ -1,0 +1,21 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::updateBounds" name="antis_nav_costmap_2d::ObstacleLayer::updateBounds">
+<area shape="rect" id="node1" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="5,393,229,434"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#aefd0e10fa03a2f592cf8eec3db0c073e" title="Get the observations used to clear space." alt="" coords="299,5,506,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a1a1e199c0776ef6d05f8b5affb302314" title="Given two map coordinates... compute the associated index." alt="" coords="317,86,488,127"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a751411fc493fdf95513e1641e281fbe7" title="Get the observations used to mark space." alt="" coords="300,152,505,208"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a085e022d6311fd5422bf34439ec4952a" title="Accessor for the x size of the costmap in meters." alt="" coords="289,233,517,274"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a29a2bef8a7ba3e6f88ec779cc3ce6851" title="Accessor for the y size of the costmap in meters." alt="" coords="289,298,516,339"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a524a3da71f8c9ca0045e725133e0613b" title="Clear freespace based on one observation." alt="" coords="277,363,528,405"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a5bf3df7eb9f39095d82b56107ae3ed6c" title=" " alt="" coords="887,415,1057,457"/>
+<area shape="rect" id="node12" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aad815ad1433b2111c1816d710bec1486" title="Convert from world coordinates to map coordinates." alt="" coords="597,422,789,463"/>
+<area shape="rect" id="node13" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aed8eb7340ca23ae02a22e1ad0efa0e21" title=" " alt="" coords="289,531,516,573"/>
+<area shape="rect" id="node14" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a6af5b3359161063b23e56d2086bf19d1" title=" " alt="" coords="285,597,520,638"/>
+<area shape="rect" id="node18" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#afee0d365426428de0240d3b8b4aadb7a" title="Move the origin of the costmap to a new location.... keeping data when it can." alt="" coords="303,662,502,703"/>
+<area shape="rect" id="node19" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a7c56ae4cdf71496278f7ec1920e29676" title=" " alt="" coords="284,727,521,769"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a72e64b7168d6eac9ce034d7089230a88" title="Given distance in the world... convert it to cells." alt="" coords="596,159,791,201"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a40b32f1f0f8dc153f58b0d7f827688d4" title="Raytrace a line and apply some action at each step." alt="" coords="596,225,791,266"/>
+<area shape="rect" id="node11" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a903debf9412a9511cfc4cb3da34702f6" title=" " alt="" coords="576,341,811,397"/>
+<area shape="rect" id="node15" href="$classantis__nav__costmap__2d_1_1Layer.html#a5733efdb40abae2f8e376f18a9fab962" title="Convenience function for layered_costmap_&#45;&gt;getFootprint()." alt="" coords="608,594,779,635"/>
+<area shape="rect" id="node17" href="$namespaceantis__nav__costmap__2d.html#aa9950734cb52ebe6ef480896e829287e" title="Given a pose and base footprint, build the oriented footprint of the robot (list of Points)" alt="" coords="608,659,779,701"/>
+<area shape="rect" id="node16" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a18df5f42f3c15363b82eb714be30cb78" title="Returns the latest footprint stored with setFootprint()." alt="" coords="859,594,1085,635"/>
+</map>

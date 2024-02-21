@@ -1,0 +1,6 @@
+<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner">
+<area shape="rect" id="node1" title="Path planner for E/L boarding and disembarking." alt="" coords="217,109,449,165"/>
+<area shape="rect" id="node2" href="$classantis__nav__core_1_1GlobalPlanner.html" title="Abstract interface for global planners to adhere to with pluginlib." alt="" coords="5,13,224,39"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html" title="A 2D costmap provides a mapping between points in the world and their associated &quot;costs&quot;." alt="" coords="248,5,419,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="443,13,501,39"/>
+</map>

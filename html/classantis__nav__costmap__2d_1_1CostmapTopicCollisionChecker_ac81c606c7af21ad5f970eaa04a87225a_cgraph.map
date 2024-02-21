@@ -1,0 +1,11 @@
+<map id="antis_nav_costmap_2d::CostmapTopicCollisionChecker::scorePose" name="antis_nav_costmap_2d::CostmapTopicCollisionChecker::scorePose">
+<area shape="rect" id="node1" title=" " alt="" coords="5,79,235,135"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1CostmapSubscriber.html#a29d975dc5fac02fa293cfed33f30034c" title=" " alt="" coords="312,23,483,79"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1CostmapTopicCollisionChecker.html#a2fc0fcd55b7312a5d565bbfa6549c3bf" title=" " alt="" coords="283,119,512,175"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1CostmapSubscriber.html#ab38899e2c1b4208b53f71873464ba754" title=" " alt="" coords="589,5,760,61"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1FootprintSubscriber.html#a781c191fbef3c2a175f8722231d77ded" title=" " alt="" coords="589,85,760,141"/>
+<area shape="rect" id="node6" href="$namespaceantis__nav__costmap__2d.html#aa9950734cb52ebe6ef480896e829287e" title="Given a pose and base footprint, build the oriented footprint of the robot (list of Points)" alt="" coords="863,162,1033,203"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1CostmapTopicCollisionChecker.html#a7d265b334418dd903376bd3dc234b2a4" title=" " alt="" coords="560,216,789,272"/>
+<area shape="rect" id="node8" href="$namespaceantis__nav__util.html#a6b8b09fa41d13a8d82dcc47520defa26" title="get the current pose of the robot" alt="" coords="837,231,1059,257"/>
+<area shape="rect" id="node9" href="$namespaceantis__nav__util.html#af5c05ffd7c8b78dbef9750baf6a7618e" title="get an arbitrary pose in a target frame" alt="" coords="1107,223,1292,265"/>
+</map>

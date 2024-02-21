@@ -1,0 +1,8 @@
+<map id="rm2_robot_handler::RobotHandler" name="rm2_robot_handler::RobotHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="748,58,901,99"/>
+<area shape="rect" id="node2" href="$classrm2__robot__model_1_1RobotModel.html" title=" " alt="" coords="329,7,551,33"/>
+<area shape="rect" id="node3" title=" " alt="" coords="69,7,128,33"/>
+<area shape="rect" id="node4" href="$classrm2__common_1_1TimeBaseDeque.html" title=" " alt="" coords="327,58,553,99"/>
+<area shape="rect" id="node5" href="$classrm2__common_1_1JointValues.html" title=" " alt="" coords="343,124,537,151"/>
+<area shape="rect" id="node6" href="$classrm2__common_1_1DataArray.html" title=" " alt="" coords="5,124,192,151"/>
+</map>

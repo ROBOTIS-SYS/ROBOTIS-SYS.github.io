@@ -1,0 +1,6 @@
+<map id="antis_nav_amcl::Laser" name="antis_nav_amcl::Laser">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,172,91"/>
+<area shape="rect" id="node2" href="$classantis__nav__amcl_1_1BeamModel.html" title=" " alt="" coords="220,5,431,32"/>
+<area shape="rect" id="node3" href="$classantis__nav__amcl_1_1LikelihoodFieldModel.html" title=" " alt="" coords="226,57,425,98"/>
+<area shape="rect" id="node4" href="$classantis__nav__amcl_1_1LikelihoodFieldModelProb.html" title=" " alt="" coords="226,122,425,163"/>
+</map>

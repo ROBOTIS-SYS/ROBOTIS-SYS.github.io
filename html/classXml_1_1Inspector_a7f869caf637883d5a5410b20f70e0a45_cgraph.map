@@ -1,0 +1,5 @@
+<map id="Xml::Inspector::ParseText" name="Xml::Inspector::ParseText">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,192,73"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1CharactersReader.html#a70a58a2f192e4744d47ab5c3c241b031" title="Checks if character is allowed to be the first character of the XML name." alt="" coords="240,5,433,47"/>
+<area shape="rect" id="node3" href="$classXml_1_1Encoding_1_1CharactersReader.html#a5fec43bddcca012891b1cb122d7bb310" title="Checks if character is a white space." alt="" coords="240,71,433,112"/>
+</map>

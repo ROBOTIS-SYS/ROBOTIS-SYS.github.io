@@ -1,0 +1,28 @@
+var classantis__nav__costmap__2d_1_1ObservationBuffer =
+[
+    [ "ObservationBuffer", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a37bbac059e3a63a682c3a3fe370beb61", null ],
+    [ "~ObservationBuffer", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#ab80dc905fc67f4932624834f4431e698", null ],
+    [ "bufferCloud", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a298240f5953417126651334c0e66050c", null ],
+    [ "getObservations", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#ad1b6ca7253f59df685307a5dfebe56e9", null ],
+    [ "isCurrent", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a2fc956e9d0c8bcc4246a6c9bc2de519a", null ],
+    [ "lock", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#acb1b5383f751ba17b33414fa0157c467", null ],
+    [ "purgeStaleObservations", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#aea50716380261fac89a3b29f26484599", null ],
+    [ "resetLastUpdated", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a9ce49e7b7d17f3489a6548f84e792410", null ],
+    [ "setGlobalFrame", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a02fe48bf6ae3e24ba7af51eda3cb7cc4", null ],
+    [ "unlock", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a25ca48dc73dae05e9404c48282e643e6", null ],
+    [ "expected_update_rate_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#aa551c846a195a7e05a8707d4d390ef1b", null ],
+    [ "global_frame_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#abd8c719b3e54a22ba079c05b937389c6", null ],
+    [ "last_updated_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a7b1e7199a4938ba62104978f1e0d20fe", null ],
+    [ "lock_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a4f2ff144e40d4c17db1bd53746c60632", null ],
+    [ "max_obstacle_height_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a3b37d1f7abe86c0538c2b21bf7cf3bfe", null ],
+    [ "min_obstacle_height_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#aa9477ed7e0733ff225a5505760dd0cde", null ],
+    [ "nh_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a0a41a0fd7dfcd88b1f962011977c7dbb", null ],
+    [ "observation_keep_time_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#aa627a80e3fa893d1f82e2afc2fc93c5c", null ],
+    [ "observation_list_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a7acfc23061a7e59e3a9f3db132a1acb2", null ],
+    [ "obstacle_range_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#abe9d24e4f08b1dfd685a4b75d3b66303", null ],
+    [ "raytrace_range_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a8e679b968406670fb442ce6ae19c52d6", null ],
+    [ "sensor_frame_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#aac55838e5a81d11035b09d8d850f3ad2", null ],
+    [ "tf2_buffer_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#a5b6d188c1186688fd94db787001b42a8", null ],
+    [ "tf_tolerance_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#af604653669b9ad69a20a61b335b74ae3", null ],
+    [ "topic_name_", "classantis__nav__costmap__2d_1_1ObservationBuffer.html#aad1950acd1dda2fbb540c56a3f9c1564", null ]
+];

@@ -1,0 +1,5 @@
+<map id="antis_nav_controller_server::SimpleGoalChecker" name="antis_nav_controller_server::SimpleGoalChecker">
+<area shape="rect" id="node1" title="Goal Checker plugin that only checks the position difference." alt="" coords="87,95,292,136"/>
+<area shape="rect" id="node2" href="$classantis__nav__core_1_1GoalChecker.html" title="Function&#45;object for checking whether a goal has been reached." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="240,5,299,32"/>
+</map>

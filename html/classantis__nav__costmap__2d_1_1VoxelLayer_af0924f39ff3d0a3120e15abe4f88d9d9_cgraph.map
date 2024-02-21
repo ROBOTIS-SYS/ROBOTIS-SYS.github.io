@@ -1,0 +1,33 @@
+<map id="antis_nav_costmap_2d::VoxelLayer::updateBounds" name="antis_nav_costmap_2d::VoxelLayer::updateBounds">
+<area shape="rect" id="node1" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="5,594,208,635"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#aefd0e10fa03a2f592cf8eec3db0c073e" title="Get the observations used to clear space." alt="" coords="271,5,478,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#ac299105037d79da399aa44f6c5f36729" title=" " alt="" coords="581,6,740,47"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a1a1e199c0776ef6d05f8b5affb302314" title="Given two map coordinates... compute the associated index." alt="" coords="289,297,460,338"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a751411fc493fdf95513e1641e281fbe7" title="Get the observations used to mark space." alt="" coords="272,363,477,419"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a085e022d6311fd5422bf34439ec4952a" title="Accessor for the x size of the costmap in meters." alt="" coords="547,202,775,243"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a29a2bef8a7ba3e6f88ec779cc3ce6851" title="Accessor for the y size of the costmap in meters." alt="" coords="547,267,774,309"/>
+<area shape="rect" id="node8" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a49b28b8a557183554851a97b89c95a99" title=" " alt="" coords="270,815,479,857"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a236088cb16915b0c356fb0eedff3970c" title="Clear freespace based on one observation." alt="" coords="260,545,489,586"/>
+<area shape="rect" id="node16" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a5bf3df7eb9f39095d82b56107ae3ed6c" title=" " alt="" coords="856,749,1027,790"/>
+<area shape="rect" id="node18" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a443198a401b95b15c75c3f33c7064646" title=" " alt="" coords="295,881,454,922"/>
+<area shape="rect" id="node19" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a53c39103a03b74959a128b6df7343aaa" title=" " alt="" coords="295,946,454,987"/>
+<area shape="rect" id="node20" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a1c624a3440de0db222caf0f675ff614d" title=" " alt="" coords="295,1011,454,1053"/>
+<area shape="rect" id="node21" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a6af5b3359161063b23e56d2086bf19d1" title=" " alt="" coords="257,750,492,791"/>
+<area shape="rect" id="node25" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#adea987c19f545c8763a7fd95de3ca63b" title="Move the origin of the costmap to a new location.... keeping data when it can." alt="" coords="278,137,471,178"/>
+<area shape="rect" id="node30" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a7c56ae4cdf71496278f7ec1920e29676" title=" " alt="" coords="256,1077,493,1118"/>
+<area shape="rect" id="node31" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a08025a4c360583f8c88793d8c9538426" title=" " alt="" coords="272,1142,477,1183"/>
+<area shape="rect" id="node9" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a371838806298c2544ece37e1ee0de59c" title=" " alt="" coords="547,989,775,1030"/>
+<area shape="rect" id="node11" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a72e64b7168d6eac9ce034d7089230a88" title="Given distance in the world... convert it to cells." alt="" coords="563,610,758,651"/>
+<area shape="rect" id="node12" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a204172dfa4c1d101aab0cac064f24a6f" title=" " alt="" coords="563,333,758,389"/>
+<area shape="rect" id="node13" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a8f7a8bb5210dba968ec26c85611586fb" title=" " alt="" coords="575,414,746,455"/>
+<area shape="rect" id="node14" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#ae43a8c9606f6903e2e781761efc3ddea" title=" " alt="" coords="549,479,772,521"/>
+<area shape="rect" id="node15" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a903debf9412a9511cfc4cb3da34702f6" title=" " alt="" coords="543,676,778,732"/>
+<area shape="rect" id="node17" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a08304e70e5a067a32fd0f203117cfe51" title=" " alt="" coords="541,545,780,586"/>
+<area shape="rect" id="node22" href="$classantis__nav__costmap__2d_1_1Layer.html#a5733efdb40abae2f8e376f18a9fab962" title="Convenience function for layered_costmap_&#45;&gt;getFootprint()." alt="" coords="575,858,746,899"/>
+<area shape="rect" id="node24" href="$namespaceantis__nav__costmap__2d.html#aa9950734cb52ebe6ef480896e829287e" title="Given a pose and base footprint, build the oriented footprint of the robot (list of Points)" alt="" coords="575,923,746,965"/>
+<area shape="rect" id="node23" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a18df5f42f3c15363b82eb714be30cb78" title="Returns the latest footprint stored with setFootprint()." alt="" coords="828,858,1055,899"/>
+<area shape="rect" id="node26" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a7306d653e3e2b3225e887e4caa7ea8a4" title="Copy a region of a source map into a destination map." alt="" coords="551,71,770,113"/>
+<area shape="rect" id="node27" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a95ff7c2f79f3ac0ce027b7261c8a96f1" title="Resets the costmap and static_map to be unknown space." alt="" coords="572,137,749,178"/>
+<area shape="rect" id="node28" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#aab30ed5d435c878574d0769186d196ac" title=" " alt="" coords="862,105,1021,146"/>
+<area shape="rect" id="node29" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a29aee5e36eeb294c2bacf34342da6a49" title="Resets the costmap and static_map to be unknown space." alt="" coords="850,170,1033,211"/>
+</map>

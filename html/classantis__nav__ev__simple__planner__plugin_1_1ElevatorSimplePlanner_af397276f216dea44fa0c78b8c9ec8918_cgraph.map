@@ -1,0 +1,5 @@
+<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::calc_linear_path" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::calc_linear_path">
+<area shape="rect" id="node1" title="generate a linear path segment" alt="" coords="5,45,237,101"/>
+<area shape="rect" id="node2" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#a98b729167231ff70f1aa2d2eacc81afe" title="connect start and stop with num linear" alt="" coords="285,5,517,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#a6eb1596487ce0eee24f2f49c661c4e43" title="wrap inputs in antis_nav_util::Waypoint" alt="" coords="285,85,517,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::mean" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::mean">
+<area shape="rect" id="node1" title="calculate mean value" alt="" coords="285,5,517,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#ac9c0dd7ebb2d8934a454095840623536" title="generate a smooth path segment" alt="" coords="5,5,237,61"/>
+</map>

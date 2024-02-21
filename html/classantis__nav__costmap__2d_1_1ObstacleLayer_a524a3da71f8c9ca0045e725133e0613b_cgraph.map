@@ -1,0 +1,8 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::raytraceFreespace" name="antis_nav_costmap_2d::ObstacleLayer::raytraceFreespace">
+<area shape="rect" id="node1" title="Clear freespace based on one observation." alt="" coords="5,129,256,171"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a72e64b7168d6eac9ce034d7089230a88" title="Given distance in the world... convert it to cells." alt="" coords="324,5,519,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a40b32f1f0f8dc153f58b0d7f827688d4" title="Raytrace a line and apply some action at each step." alt="" coords="324,71,519,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a5bf3df7eb9f39095d82b56107ae3ed6c" title=" " alt="" coords="587,163,757,204"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a903debf9412a9511cfc4cb3da34702f6" title=" " alt="" coords="304,187,539,243"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aad815ad1433b2111c1816d710bec1486" title="Convert from world coordinates to map coordinates." alt="" coords="325,268,517,309"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="antis_nav_voxel_grid::VoxelGrid::sizeY" name="antis_nav_voxel_grid::VoxelGrid::sizeY">
+<area shape="rect" id="node1" title=" " alt="" coords="485,39,644,80"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a1fd93cc1604cf527be9d1177d7d0851e" title="Implement this to make this layer match the size of the parent costmap." alt="" coords="247,5,425,47"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#af0924f39ff3d0a3120e15abe4f88d9d9" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="235,71,437,112"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a4bef041c6fdd160a9ae19167963a36ea" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="5,5,187,47"/>
+</map>

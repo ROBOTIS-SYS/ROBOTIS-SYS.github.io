@@ -1,0 +1,4 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::onInitialize" name="antis_nav_costmap_2d::ObstacleLayer::onInitialize">
+<area shape="rect" id="node1" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="235,5,437,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a4bef041c6fdd160a9ae19167963a36ea" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="5,5,187,47"/>
+</map>

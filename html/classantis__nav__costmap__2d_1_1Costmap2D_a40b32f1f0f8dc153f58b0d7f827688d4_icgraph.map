@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::Costmap2D::raytraceLine" name="antis_nav_costmap_2d::Costmap2D::raytraceLine">
+<area shape="rect" id="node1" title="Raytrace a line and apply some action at each step." alt="" coords="576,5,771,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a524a3da71f8c9ca0045e725133e0613b" title="Clear freespace based on one observation." alt="" coords="277,5,528,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ae213e695f082852e3b694db16decf78e" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="5,5,229,47"/>
+</map>

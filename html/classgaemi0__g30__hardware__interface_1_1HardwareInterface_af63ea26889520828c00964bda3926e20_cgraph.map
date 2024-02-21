@@ -1,0 +1,17 @@
+<map id="gaemi0_g30_hardware_interface::HardwareInterface::configure" name="gaemi0_g30_hardware_interface::HardwareInterface::configure">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,221,240"/>
+<area shape="rect" id="node2" href="$classmotor__comm__module_1_1MotorCommModule.html#aec8dfce8a36fcae8679875e170f1cce1" title=" " alt="" coords="301,93,481,134"/>
+<area shape="rect" id="node6" href="$classbody__comm__module_1_1BodyCommModule.html#a2f1ae77e98ba10a4572f94a8c54e4b1a" title=" " alt="" coords="269,290,512,331"/>
+<area shape="rect" id="node3" href="$classmotor__comm__module_1_1MotorCommModule.html#a380f1eb793a046ce5b0fe94e48d957fd" title=" " alt="" coords="586,5,777,61"/>
+<area shape="rect" id="node5" href="$classmotor__comm__module_1_1MotorCommModule.html#a10cb3b4145e5565fa28bc5547b6b5736" title=" " alt="" coords="585,85,777,141"/>
+<area shape="rect" id="node4" href="$classmotor__comm__module_1_1MotorCommModule.html#ac6fc52c8a1b6dc61aceb1696839a445a" title=" " alt="" coords="876,5,1068,61"/>
+<area shape="rect" id="node7" href="$classbody__comm__module_1_1BodyCommModule.html#a23e8c738a5d12e7b2f9dddff0610ebd3" title=" " alt="" coords="560,231,803,273"/>
+<area shape="rect" id="node9" href="$classbody__comm__module_1_1BodyCommModule.html#a5cb7381dbc811f6ca74864523cfcaa32" title=" " alt="" coords="851,297,1093,338"/>
+<area shape="rect" id="node11" href="$classbody__comm__module_1_1BodyCommModule.html#a0ba8bc643a78e043209858e792d42152" title=" " alt="" coords="560,166,803,207"/>
+<area shape="rect" id="node13" href="$classbody__comm__module_1_1BodyCommModule.html#a16315b36d23fe23748f3e2f52b904f56" title=" " alt="" coords="560,349,803,390"/>
+<area shape="rect" id="node14" href="$classbody__comm__module_1_1BodyCommModule.html#abd5d5b86e9a59f36b2c593655bdcc0f0" title=" " alt="" coords="560,415,803,471"/>
+<area shape="rect" id="node15" href="$classbody__comm__module_1_1BodyCommModule.html#ab497efd641099c78ef9b0f3be6a53a41" title=" " alt="" coords="560,495,803,537"/>
+<area shape="rect" id="node8" href="$classbody__comm__module_1_1BodyCommModule.html#aba41c79eb83f35bc4867f52089e17c42" title=" " alt="" coords="851,166,1093,207"/>
+<area shape="rect" id="node10" href="$classbody__comm__module_1_1BodyCommModule.html#a8e56afe419928c817d4ba30f8af62179" title=" " alt="" coords="851,231,1093,273"/>
+<area shape="rect" id="node12" href="$classbody__comm__module_1_1BodyCommModule.html#a4d679b1dea1d32782a569b6bcc3ef40b" title=" " alt="" coords="851,101,1093,142"/>
+</map>

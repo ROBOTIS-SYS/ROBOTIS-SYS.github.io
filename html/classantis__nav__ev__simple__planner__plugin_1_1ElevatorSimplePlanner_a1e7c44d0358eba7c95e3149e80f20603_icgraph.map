@@ -1,0 +1,5 @@
+<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::euler_from_quaternion" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::euler_from_quaternion">
+<area shape="rect" id="node1" title="transform quaternion to euler" alt="" coords="565,5,797,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#a663ca0c15a3858508d5c06f822d17d4b" title="calculate orthogonal poses" alt="" coords="285,5,517,61"/>
+<area shape="rect" id="node3" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#ad1f3af5a7b9ec9c994f6515ea2e4e5db" title="Creating a plan from start and goal poses." alt="" coords="5,5,237,61"/>
+</map>

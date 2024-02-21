@@ -1,0 +1,6 @@
+<map id="aimbot_diff_drive_controller::SpeedLimiter::limit" name="aimbot_diff_drive_controller::SpeedLimiter::limit">
+<area shape="rect" id="node1" title="Limit the velocity and acceleration." alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node2" href="$classaimbot__diff__drive__controller_1_1SpeedLimiter.html#a2331931fbff548463e74984a5efba0f9" title="Limit the acceleration." alt="" coords="260,5,501,47"/>
+<area shape="rect" id="node3" href="$classaimbot__diff__drive__controller_1_1SpeedLimiter.html#a1fb0cf72a135a4b47cbfa8c1e8084998" title="Limit the jerk." alt="" coords="277,71,484,112"/>
+<area shape="rect" id="node4" href="$classaimbot__diff__drive__controller_1_1SpeedLimiter.html#a981690635046e4216b7b7dd47a677f6d" title="Limit the velocity." alt="" coords="274,136,487,177"/>
+</map>

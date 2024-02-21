@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::updateFootprint" name="antis_nav_costmap_2d::ObstacleLayer::updateFootprint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,240,112"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Layer.html#a5733efdb40abae2f8e376f18a9fab962" title="Convenience function for layered_costmap_&#45;&gt;getFootprint()." alt="" coords="288,5,459,47"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1CostmapLayer.html#a5bf3df7eb9f39095d82b56107ae3ed6c" title=" " alt="" coords="288,71,459,112"/>
+<area shape="rect" id="node5" href="$namespaceantis__nav__costmap__2d.html#aa9950734cb52ebe6ef480896e829287e" title="Given a pose and base footprint, build the oriented footprint of the robot (list of Points)" alt="" coords="288,136,459,177"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a18df5f42f3c15363b82eb714be30cb78" title="Returns the latest footprint stored with setFootprint()." alt="" coords="507,5,733,47"/>
+</map>

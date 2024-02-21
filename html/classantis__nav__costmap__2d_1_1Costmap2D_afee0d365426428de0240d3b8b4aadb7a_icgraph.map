@@ -1,0 +1,8 @@
+<map id="antis_nav_costmap_2d::Costmap2D::updateOrigin" name="antis_nav_costmap_2d::Costmap2D::updateOrigin">
+<area shape="rect" id="node1" title="Move the origin of the costmap to a new location.... keeping data when it can." alt="" coords="1101,39,1300,80"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ae213e695f082852e3b694db16decf78e" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="829,5,1053,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a6c864dcdb0b0972cf4f362f3b25a3809" title="Update the underlying costmap with new data. If you want to update the map outside of the update loop..." alt="" coords="831,71,1052,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a0a1ec4a74960f725e5bff4a4b3406b79" title=" " alt="" coords="567,71,781,112"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#aa71bd682bcbb2c4eeff3881903ffae2b" title=" " alt="" coords="271,71,519,112"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a2be53bb0ce95cbe2f25f9cae395b0b2d" title=" " alt="" coords="5,71,223,112"/>
+</map>

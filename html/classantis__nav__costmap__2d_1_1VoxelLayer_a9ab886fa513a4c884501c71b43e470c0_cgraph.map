@@ -1,0 +1,8 @@
+<map id="antis_nav_costmap_2d::VoxelLayer::clearNonLethal" name="antis_nav_costmap_2d::VoxelLayer::clearNonLethal">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,212,177"/>
+<area shape="rect" id="node2" href="$classantis__nav__voxel__grid_1_1VoxelGrid.html#a4618df40da7a7ef73765522426a2853d" title=" " alt="" coords="265,5,483,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a1a1e199c0776ef6d05f8b5affb302314" title="Given two map coordinates... compute the associated index." alt="" coords="289,71,459,112"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a085e022d6311fd5422bf34439ec4952a" title="Accessor for the x size of the costmap in meters." alt="" coords="260,136,488,177"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a29a2bef8a7ba3e6f88ec779cc3ce6851" title="Accessor for the y size of the costmap in meters." alt="" coords="261,201,487,243"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#aad815ad1433b2111c1816d710bec1486" title="Convert from world coordinates to map coordinates." alt="" coords="278,267,470,308"/>
+</map>

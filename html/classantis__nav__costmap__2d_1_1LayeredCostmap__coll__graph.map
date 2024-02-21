@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::LayeredCostmap" name="antis_nav_costmap_2d::LayeredCostmap">
+<area shape="rect" id="node1" title="Instantiates different layer plugins and aggregates them into one score." alt="" coords="75,109,245,151"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html" title="A 2D costmap provides a mapping between points in the world and their associated &quot;costs&quot;." alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="200,13,259,39"/>
+</map>

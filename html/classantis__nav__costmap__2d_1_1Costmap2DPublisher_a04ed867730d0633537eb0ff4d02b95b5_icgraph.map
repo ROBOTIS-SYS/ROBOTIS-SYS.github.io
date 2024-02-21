@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::Costmap2DPublisher::publishCostmap" name="antis_nav_costmap_2d::Costmap2DPublisher::publishCostmap">
+<area shape="rect" id="node1" title="Publishes the visualization data over ROS." alt="" coords="567,5,737,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#aa71bd682bcbb2c4eeff3881903ffae2b" title=" " alt="" coords="271,13,519,54"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a2be53bb0ce95cbe2f25f9cae395b0b2d" title=" " alt="" coords="5,13,223,54"/>
+</map>

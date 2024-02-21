@@ -1,0 +1,12 @@
+<map id="antis_nav_costmap_2d::InflationLayer::matchSize" name="antis_nav_costmap_2d::InflationLayer::matchSize">
+<area shape="rect" id="node1" title="Implement this to make this layer match the size of the parent costmap." alt="" coords="5,177,201,219"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#aea2123fb4c15f2d5bce22014ebe5298c" title=" " alt="" coords="261,13,469,55"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a017cc7299b7a65baa61cdfee5345dd17" title=" " alt="" coords="249,79,481,120"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a60f7eceb0fa3a5acab0ee887cf126624" title=" " alt="" coords="252,144,479,185"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ad0cf3f95949e95a025fcf6e1844fa0df" title="Accessor for the resolution of the costmap." alt="" coords="263,209,467,251"/>
+<area shape="rect" id="node9" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a37d4f473425a6f7e047ac107e85cda1c" title="Accessor for the x size of the costmap in cells." alt="" coords="258,275,473,316"/>
+<area shape="rect" id="node10" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a8c65f7217e2e39bdb4477cb99d76d6be" title="Accessor for the y size of the costmap in cells." alt="" coords="258,340,473,381"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a2d58a4ed3a323c130245d48fc0fdb66d" title="Given a distance, compute a cost." alt="" coords="538,5,753,47"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#acd54891a7d6645909e5ca96212b8c115" title=" " alt="" coords="529,71,761,127"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#aba6c9c89b9b43e8749d2d89e01617a90" title=" " alt="" coords="550,152,741,193"/>
+</map>

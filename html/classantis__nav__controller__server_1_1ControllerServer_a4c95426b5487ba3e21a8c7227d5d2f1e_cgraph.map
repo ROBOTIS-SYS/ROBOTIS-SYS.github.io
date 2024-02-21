@@ -1,0 +1,4 @@
+<map id="antis_nav_controller_server::ControllerServer::getThresholdedTwist" name="antis_nav_controller_server::ControllerServer::getThresholdedTwist">
+<area shape="rect" id="node1" title="get the thresholded Twist" alt="" coords="5,5,189,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#ad95240101d2b1ed9f6b76e7bd9d83c2f" title="get the thresholded velocity" alt="" coords="237,5,421,61"/>
+</map>

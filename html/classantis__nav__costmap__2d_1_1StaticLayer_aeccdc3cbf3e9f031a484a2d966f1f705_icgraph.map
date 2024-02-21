@@ -1,0 +1,6 @@
+<map id="antis_nav_costmap_2d::StaticLayer::processMap" name="antis_nav_costmap_2d::StaticLayer::processMap">
+<area shape="rect" id="node1" title=" " alt="" coords="488,39,677,80"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#a987dd4c8eee16787db4b2918a49974cf" title="Callback to update the costmap&#39;s map from the map_server." alt="" coords="239,5,437,47"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#aaf8fee08fb3b86bc66f7a2ed15fe2985" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="236,71,440,112"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#a1855761df7c1abac51c8c744fef90f7b" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="5,5,188,47"/>
+</map>

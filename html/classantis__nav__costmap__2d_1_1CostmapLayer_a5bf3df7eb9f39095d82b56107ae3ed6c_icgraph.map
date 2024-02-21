@@ -1,0 +1,9 @@
+<map id="antis_nav_costmap_2d::CostmapLayer::touch" name="antis_nav_costmap_2d::CostmapLayer::touch">
+<area shape="rect" id="node1" title=" " alt="" coords="859,87,1029,128"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a524a3da71f8c9ca0045e725133e0613b" title="Clear freespace based on one observation." alt="" coords="277,31,528,72"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ae213e695f082852e3b694db16decf78e" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="5,31,229,72"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#af0924f39ff3d0a3120e15abe4f88d9d9" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="16,161,219,203"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a6af5b3359161063b23e56d2086bf19d1" title=" " alt="" coords="285,96,520,137"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#a903debf9412a9511cfc4cb3da34702f6" title=" " alt="" coords="576,145,811,201"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#a236088cb16915b0c356fb0eedff3970c" title="Clear freespace based on one observation." alt="" coords="288,161,517,203"/>
+</map>

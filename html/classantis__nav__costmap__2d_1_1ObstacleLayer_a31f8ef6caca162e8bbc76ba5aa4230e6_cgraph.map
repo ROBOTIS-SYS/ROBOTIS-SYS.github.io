@@ -1,0 +1,4 @@
+<map id="antis_nav_costmap_2d::ObstacleLayer::activate" name="antis_nav_costmap_2d::ObstacleLayer::activate">
+<area shape="rect" id="node1" title="Stop publishers." alt="" coords="5,13,189,54"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ObstacleLayer.html#ad4fab5f8c85a5d37472e977845a65059" title="triggers the update of observations buffer" alt="" coords="237,5,448,61"/>
+</map>

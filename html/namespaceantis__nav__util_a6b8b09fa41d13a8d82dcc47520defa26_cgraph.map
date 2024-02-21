@@ -1,0 +1,4 @@
+<map id="antis_nav_util::getCurrentPose" name="antis_nav_util::getCurrentPose">
+<area shape="rect" id="node1" title="get the current pose of the robot" alt="" coords="5,13,227,39"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__util.html#af5c05ffd7c8b78dbef9750baf6a7618e" title="get an arbitrary pose in a target frame" alt="" coords="275,5,460,47"/>
+</map>

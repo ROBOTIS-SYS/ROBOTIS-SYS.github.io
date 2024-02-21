@@ -1,0 +1,4 @@
+<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner">
+<area shape="rect" id="node1" title="Path planner for E/L boarding and disembarking." alt="" coords="5,80,237,136"/>
+<area shape="rect" id="node2" href="$classantis__nav__core_1_1GlobalPlanner.html" title="Abstract interface for global planners to adhere to with pluginlib." alt="" coords="12,5,231,32"/>
+</map>

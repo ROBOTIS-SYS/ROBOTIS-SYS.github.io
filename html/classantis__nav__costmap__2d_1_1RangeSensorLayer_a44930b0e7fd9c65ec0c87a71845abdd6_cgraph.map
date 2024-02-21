@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::RangeSensorLayer::updateCosts" name="antis_nav_costmap_2d::RangeSensorLayer::updateCosts">
+<area shape="rect" id="node1" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="5,39,245,80"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ab6833d6eba3c4d1acdeec3d3c41c9e66" title="Will return a pointer to the underlying unsigned char array used as the costmap." alt="" coords="304,5,497,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#a37d4f473425a6f7e047ac107e85cda1c" title="Accessor for the x size of the costmap in cells." alt="" coords="293,71,508,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="antis_nav_lifecycle_manager::LifecycleManager" name="antis_nav_lifecycle_manager::LifecycleManager">
+<area shape="rect" id="node1" title="Implements service interface to transition the lifecycle nodes of Navigation2 stack...." alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="83,5,139,32"/>
+</map>

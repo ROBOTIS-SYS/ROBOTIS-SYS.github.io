@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classantis__nav__core_1_1ProgressChecker.html" title="This class defines the plugin interface used to check the position of the robot to make sure that it ..." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1SimpleProgressChecker.html" title="This plugin is used to check the position of the robot to make sure that it is actually progressing t..." alt="" coords="237,5,468,47"/>
+</map>

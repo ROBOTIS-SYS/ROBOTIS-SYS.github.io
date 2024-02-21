@@ -1,0 +1,7 @@
+<map id="antis_nav_costmap_2d::CostmapTopicCollisionChecker" name="antis_nav_costmap_2d::CostmapTopicCollisionChecker">
+<area shape="rect" id="node1" title=" " alt="" coords="624,110,853,151"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1CostmapSubscriber.html" title=" " alt="" coords="241,82,412,123"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,89,64,116"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1FootprintSubscriber.html" title=" " alt="" coords="241,147,412,189"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1FootprintCollisionChecker.html" title=" " alt="" coords="200,213,453,283"/>
+</map>

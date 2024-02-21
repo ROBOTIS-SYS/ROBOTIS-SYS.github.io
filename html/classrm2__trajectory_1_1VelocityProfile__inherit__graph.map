@@ -1,0 +1,7 @@
+<map id="rm2_trajectory::VelocityProfile&lt; P, V, G &gt;" name="rm2_trajectory::VelocityProfile&lt; P, V, G &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,74,184,115"/>
+<area shape="rect" id="node2" href="$classrm2__trajectory_1_1JointMinimumJerk.html" title=" " alt="" coords="232,5,473,32"/>
+<area shape="rect" id="node3" href="$classrm2__trajectory_1_1JointTrapezoidal.html" title=" " alt="" coords="238,56,467,83"/>
+<area shape="rect" id="node4" href="$classrm2__trajectory_1_1TaskMinimumJerk.html" title=" " alt="" coords="232,107,473,133"/>
+<area shape="rect" id="node5" href="$classrm2__trajectory_1_1TaskTrapezoidal.html" title=" " alt="" coords="238,157,467,184"/>
+</map>

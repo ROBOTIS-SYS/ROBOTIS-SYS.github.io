@@ -1,0 +1,10 @@
+<map id="gc_tracking_control::TrackingControl" name="gc_tracking_control::TrackingControl">
+<area shape="rect" id="node1" title=" " alt="" coords="721,223,871,265"/>
+<area shape="rect" id="node2" href="$classrm2__control__module_1_1ControlModule.html" title=" " alt="" coords="371,113,527,154"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,81,122,108"/>
+<area shape="rect" id="node4" href="$classrm2__filter_1_1RotationLowPassFilter.html" title=" " alt="" coords="347,178,552,219"/>
+<area shape="rect" id="node5" href="$classrm2__common_1_1Rotation.html" title=" " alt="" coords="5,185,180,212"/>
+<area shape="rect" id="node6" href="$classrm2__common_1_1Twist.html" title=" " alt="" coords="373,336,526,363"/>
+<area shape="rect" id="node7" href="$classrm2__common_1_1Vector.html" title=" " alt="" coords="11,301,174,328"/>
+<area shape="rect" id="node8" href="$classrm2__filter_1_1LowPassFilter.html" title=" " alt="" coords="358,387,541,413"/>
+</map>

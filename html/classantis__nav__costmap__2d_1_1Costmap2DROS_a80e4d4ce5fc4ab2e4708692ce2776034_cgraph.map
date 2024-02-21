@@ -1,0 +1,5 @@
+<map id="antis_nav_costmap_2d::Costmap2DROS::getRobotPose" name="antis_nav_costmap_2d::Costmap2DROS::getRobotPose">
+<area shape="rect" id="node1" title="Get the pose of the robot in the global frame of the costmap." alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__util.html#a6b8b09fa41d13a8d82dcc47520defa26" title="get the current pose of the robot" alt="" coords="284,13,505,39"/>
+<area shape="rect" id="node3" href="$namespaceantis__nav__util.html#af5c05ffd7c8b78dbef9750baf6a7618e" title="get an arbitrary pose in a target frame" alt="" coords="553,5,739,47"/>
+</map>

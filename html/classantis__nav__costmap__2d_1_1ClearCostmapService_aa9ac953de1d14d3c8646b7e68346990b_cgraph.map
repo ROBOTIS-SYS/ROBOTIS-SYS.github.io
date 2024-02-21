@@ -1,0 +1,9 @@
+<map id="antis_nav_costmap_2d::ClearCostmapService::clearAroundRobot" name="antis_nav_costmap_2d::ClearCostmapService::clearAroundRobot">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,176,127"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#afe6929e989dd885b7837d5f5173cd970" title="Return a pointer to the &quot;master&quot; costmap which receives updates from all the layers." alt="" coords="246,5,466,47"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a5dfb2f80942349c4bfe69e1eccd41492" title=" " alt="" coords="271,71,441,127"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1Costmap2D.html#ac42da36dc72e62235e8006464411a1b1" title="Sets the cost of a convex polygon to a desired value." alt="" coords="224,152,488,193"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a80e4d4ce5fc4ab2e4708692ce2776034" title="Get the pose of the robot in the global frame of the costmap." alt="" coords="536,79,767,120"/>
+<area shape="rect" id="node5" href="$namespaceantis__nav__util.html#a6b8b09fa41d13a8d82dcc47520defa26" title="get the current pose of the robot" alt="" coords="815,86,1036,113"/>
+<area shape="rect" id="node6" href="$namespaceantis__nav__util.html#af5c05ffd7c8b78dbef9750baf6a7618e" title="get an arbitrary pose in a target frame" alt="" coords="1084,79,1269,120"/>
+</map>

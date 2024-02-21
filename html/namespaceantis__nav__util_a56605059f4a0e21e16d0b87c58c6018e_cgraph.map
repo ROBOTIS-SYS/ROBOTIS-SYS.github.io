@@ -1,0 +1,5 @@
+<map id="antis_nav_util::generate_internal_node_name" name="antis_nav_util::generate_internal_node_name">
+<area shape="rect" id="node1" title="Add some random characters to a node name to ensure it is unique in the system." alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__util.html#a3d6f67633acab683afc44cced2de4f9a" title="Replace invalid characters in a potential node name." alt="" coords="232,5,404,47"/>
+<area shape="rect" id="node3" href="$namespaceantis__nav__util.html#a637562cb7840432b04b110191614bb73" title="Generates a pseudo random string of digits." alt="" coords="243,71,393,112"/>
+</map>

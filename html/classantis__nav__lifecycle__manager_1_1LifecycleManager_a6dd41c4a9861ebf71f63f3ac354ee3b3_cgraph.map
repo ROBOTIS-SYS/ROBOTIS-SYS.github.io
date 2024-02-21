@@ -1,0 +1,6 @@
+<map id="antis_nav_lifecycle_manager::LifecycleManager::shutdownAllNodes" name="antis_nav_lifecycle_manager::LifecycleManager::shutdownAllNodes">
+<area shape="rect" id="node1" title="Support function for shutdown." alt="" coords="5,39,216,95"/>
+<area shape="rect" id="node2" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a530e1138dd57442d3c3ee25494e716d7" title="For each node in the map, transition to the new target state." alt="" coords="264,5,475,61"/>
+<area shape="rect" id="node4" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a330be08c7d21dc4150294d3dc2fc29f0" title="Helper function to highlight the output on the console." alt="" coords="781,39,992,95"/>
+<area shape="rect" id="node3" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#ae3d6c696b05fda00418f27f0b502ab38" title="For a node, transition to the new target state." alt="" coords="523,5,733,61"/>
+</map>

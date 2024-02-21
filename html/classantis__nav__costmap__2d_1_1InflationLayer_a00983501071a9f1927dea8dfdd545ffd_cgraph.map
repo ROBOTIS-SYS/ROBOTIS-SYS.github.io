@@ -1,0 +1,10 @@
+<map id="antis_nav_costmap_2d::InflationLayer::onFootprintChanged" name="antis_nav_costmap_2d::InflationLayer::onFootprintChanged">
+<area shape="rect" id="node1" title="LayeredCostmap calls this whenever the footprint there changes (via LayeredCostmap::setFootprint())...." alt="" coords="5,105,208,161"/>
+<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#aea2123fb4c15f2d5bce22014ebe5298c" title=" " alt="" coords="268,13,476,55"/>
+<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a017cc7299b7a65baa61cdfee5345dd17" title=" " alt="" coords="256,79,488,120"/>
+<area shape="rect" id="node7" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a18df5f42f3c15363b82eb714be30cb78" title="Returns the latest footprint stored with setFootprint()." alt="" coords="259,144,485,185"/>
+<area shape="rect" id="node8" href="$classantis__nav__costmap__2d_1_1LayeredCostmap.html#a31f30387aba1a6613af66e4ed7de1d83" title="The radius of a circle centered at the origin of the robot which is just within all points and edges ..." alt="" coords="258,210,486,266"/>
+<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a2d58a4ed3a323c130245d48fc0fdb66d" title="Given a distance, compute a cost." alt="" coords="545,5,759,47"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#acd54891a7d6645909e5ca96212b8c115" title=" " alt="" coords="536,71,768,127"/>
+<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#aba6c9c89b9b43e8749d2d89e01617a90" title=" " alt="" coords="557,152,747,193"/>
+</map>

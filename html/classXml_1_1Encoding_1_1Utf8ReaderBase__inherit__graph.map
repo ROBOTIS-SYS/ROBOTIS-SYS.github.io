@@ -1,0 +1,6 @@
+<map id="Xml::Encoding::Utf8ReaderBase" name="Xml::Encoding::Utf8ReaderBase">
+<area shape="rect" id="node1" title="Abstract UTF&#45;8 characters reader base class." alt="" coords="247,46,476,73"/>
+<area shape="rect" id="node3" href="$classXml_1_1Encoding_1_1Utf8IteratorsReader.html" title=" " alt="" coords="524,5,731,47"/>
+<area shape="rect" id="node4" href="$classXml_1_1Encoding_1_1Utf8StreamReader.html" title="UTF&#45;8 characters reader from input stream." alt="" coords="528,71,727,112"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1CharactersReader.html" title="Abstract class for reading characters from XML documents." alt="" coords="5,39,199,80"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="antis_nav_lifecycle_manager::LifecycleManagerClient::shutdown" name="antis_nav_lifecycle_manager::LifecycleManagerClient::shutdown">
+<area shape="rect" id="node1" title="Make shutdown service call." alt="" coords="5,5,216,61"/>
+<area shape="rect" id="node2" href="$classantis__nav__lifecycle__manager_1_1LifecycleManagerClient.html#a854b9cceb8fa2e018c11f64b80bb7700" title="A generic method used to call startup, shutdown, etc." alt="" coords="264,5,475,61"/>
+</map>

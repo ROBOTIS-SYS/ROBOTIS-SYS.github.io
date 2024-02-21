@@ -1,0 +1,6 @@
+<map id="antis_nav_costmap_2d::CostmapTopicCollisionChecker::unorientFootprint" name="antis_nav_costmap_2d::CostmapTopicCollisionChecker::unorientFootprint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,235,83"/>
+<area shape="rect" id="node2" href="$namespaceantis__nav__util.html#a6b8b09fa41d13a8d82dcc47520defa26" title="get the current pose of the robot" alt="" coords="283,13,504,39"/>
+<area shape="rect" id="node4" href="$namespaceantis__nav__costmap__2d.html#aa9950734cb52ebe6ef480896e829287e" title="Given a pose and base footprint, build the oriented footprint of the robot (list of Points)" alt="" coords="308,64,479,105"/>
+<area shape="rect" id="node3" href="$namespaceantis__nav__util.html#af5c05ffd7c8b78dbef9750baf6a7618e" title="get an arbitrary pose in a target frame" alt="" coords="552,5,737,47"/>
+</map>

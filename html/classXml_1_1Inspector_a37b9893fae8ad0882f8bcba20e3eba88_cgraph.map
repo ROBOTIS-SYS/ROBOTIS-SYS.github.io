@@ -1,0 +1,6 @@
+<map id="Xml::Inspector::ParseXmlDeclaration" name="Xml::Inspector::ParseXmlDeclaration">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classXml_1_1Encoding_1_1CharactersReader.html#ae2f176abb3e3c6f04c04e0ef17967ec4" title="Gets the value represented by hexadecimal character." alt="" coords="249,5,442,47"/>
+<area shape="rect" id="node3" href="$classXml_1_1Encoding_1_1CharactersReader.html#ae1d3f3bd391ece3094a6aa692db42fff" title="Checks if character is allowed to be the one of the XML encoding declaration name characters except f..." alt="" coords="249,71,442,112"/>
+<area shape="rect" id="node4" href="$classXml_1_1Encoding_1_1CharactersReader.html#afbdbe4b666770b3094e300a154ac4c19" title="Checks if character is allowed to be the first character of the XML encoding declaration name." alt="" coords="240,136,451,177"/>
+</map>

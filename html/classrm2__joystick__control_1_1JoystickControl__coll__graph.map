@@ -1,0 +1,11 @@
+<map id="rm2_joystick_control::JoystickControl" name="rm2_joystick_control::JoystickControl">
+<area shape="rect" id="node1" title=" " alt="" coords="721,127,880,169"/>
+<area shape="rect" id="node2" href="$classrm2__control__module_1_1ControlModule.html" title=" " alt="" coords="396,69,552,110"/>
+<area shape="rect" id="node3" title=" " alt="" coords="69,32,128,59"/>
+<area shape="rect" id="node4" href="$classrm2__common_1_1JointValues.html" title=" " alt="" coords="377,135,571,161"/>
+<area shape="rect" id="node5" href="$classrm2__common_1_1DataArray.html" title=" " alt="" coords="5,131,192,157"/>
+<area shape="rect" id="node6" href="$classrm2__common_1_1Twist.html" title=" " alt="" coords="397,187,551,213"/>
+<area shape="rect" id="node7" href="$classrm2__common_1_1Vector.html" title=" " alt="" coords="17,191,180,217"/>
+<area shape="rect" id="node8" href="$classrm2__trajectory_1_1JointMinimumJerk.html" title=" " alt="" coords="353,240,595,267"/>
+<area shape="rect" id="node9" href="$classrm2__trajectory_1_1VelocityProfile.html" title=" " alt="" coords="25,241,172,268"/>
+</map>
