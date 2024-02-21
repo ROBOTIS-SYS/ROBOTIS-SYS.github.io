@@ -1,6 +1,0 @@
-<map id="task_manager::ServiceManager::add_on_task" name="task_manager::ServiceManager::add_on_task">
-<area shape="rect" id="node1" title="작업 실패, 취소의 경우 이어지는 작업을 생성하여 추가함" alt="" coords="5,71,233,112"/>
-<area shape="rect" id="node2" href="$classtask__manager_1_1ServiceManager.html#ab906a813b6ee01c8541361ce5b1d5a36" title="현재 작업을 얻어옴" alt="" coords="281,5,509,47"/>
-<area shape="rect" id="node3" href="$classtask__manager_1_1ServiceManager.html#acd9b6d123cbc9a267c5352804ca0bc2b" title=" " alt="" coords="281,71,509,112"/>
-<area shape="rect" id="node4" href="$classtask__manager_1_1ServiceManager.html#a406846453f7d16e5071fd522cce7b860" title=" " alt="" coords="281,136,509,177"/>
-</map>

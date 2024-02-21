@@ -1,5 +1,0 @@
-<map id="task_manager::ServiceManager::remove_task_from_index_callback" name="task_manager::ServiceManager::remove_task_from_index_callback">
-<area shape="rect" id="node1" title="작업 삭제 콜백(작업 인덱스 기준)" alt="" coords="5,31,233,87"/>
-<area shape="rect" id="node2" href="$classtask__manager_1_1ServiceManager.html#abc0f71385973cb8aee65f37735d6f327" title="작업 대기 큐에 남은 작업의 수를 얻어옴" alt="" coords="281,5,509,47"/>
-<area shape="rect" id="node3" href="$classtask__manager_1_1ServiceManager.html#a406846453f7d16e5071fd522cce7b860" title=" " alt="" coords="281,71,509,112"/>
-</map>

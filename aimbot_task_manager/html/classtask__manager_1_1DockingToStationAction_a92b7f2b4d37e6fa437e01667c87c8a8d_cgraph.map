@@ -1,8 +1,0 @@
-<map id="task_manager::DockingToStationAction::tick" name="task_manager::DockingToStationAction::tick">
-<area shape="rect" id="node1" title=" " alt="" coords="5,57,241,98"/>
-<area shape="rect" id="node2" href="$classtask__manager_1_1RosTreeNode.html#a1e83c0d83fffebd71bebbe3d07a07150" title=" " alt="" coords="857,89,1065,130"/>
-<area shape="rect" id="node3" href="$classtask__manager_1_1DockingToStationAction.html#aafc17c92da4ca94fca121483c681e18d" title=" " alt="" coords="289,89,525,130"/>
-<area shape="rect" id="node4" href="$classtask__manager_1_1DockingToStationAction.html#ae65e7991f9230c9428c7b7a90ec38a84" title=" " alt="" coords="573,41,809,97"/>
-<area shape="rect" id="node5" href="$classtask__manager_1_1DockingToStationAction.html#ad84a7c22effcf81e83b06e4c4e5d99a7" title=" " alt="" coords="573,121,809,177"/>
-<area shape="rect" id="node6" href="$classtask__manager_1_1DockingToStationAction.html#ae96eb7c8a89063843a64b4857a7cea96" title=" " alt="" coords="573,202,809,243"/>
-</map>
