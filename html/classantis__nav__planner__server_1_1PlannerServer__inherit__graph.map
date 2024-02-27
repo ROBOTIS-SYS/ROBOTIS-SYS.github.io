@@ -1,5 +1,5 @@
 <map id="antis_nav_planner_server::PlannerServer" name="antis_nav_planner_server::PlannerServer">
-<area shape="rect" id="node1" title="An action server implements the behavior tree&#39;s ComputePathToPose, ComputePathThroughGoalsStepByStep,..." alt="" coords="17,155,207,196"/>
-<area shape="rect" id="node2" href="$classantis__nav__util_1_1LifecycleNode.html" title=" " alt="" coords="5,80,219,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="55,5,169,32"/>
+<area shape="rect" id="node1" title="An action server implements the behavior tree&#39;s ComputePathToPose, ComputePathThroughGoalsStepByStep,..." alt="" coords="22,155,211,196"/>
+<area shape="rect" id="node2" href="$classantis__nav__util_1_1LifecycleNode.html" title=" " alt="" coords="10,80,223,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,228,32"/>
 </map>

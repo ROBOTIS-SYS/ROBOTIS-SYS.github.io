@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="gaemi2.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">GAEMI0
-   &#160;<span id="projectnumber">0.11.0</span>
+   &#160;<span id="projectnumber">0.12.0-rc1</span>
    </div>
   </td>
  </tr>
@@ -92,6 +92,7 @@ $(document).ready(function(){initNavTree('classPageInputDeliveryDrawer.html','')
 <a href="#pri-slots">Private Slots</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="classPageInputDeliveryDrawer-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">PageInputDeliveryDrawer Class Reference</div>  </div>
@@ -185,8 +186,26 @@ Private Slots</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a39af724a5374e36c22e07df2e4c59c26"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26">set_tray_target_btn</a> (int tray_num, std::string target)</td></tr>
-<tr class="separator:a39af724a5374e36c22e07df2e4c59c26"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef79d10467d12c77058ab72aa86f62d1"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#aef79d10467d12c77058ab72aa86f62d1">get_text_after_delimiter</a> (const std::string &amp;text)</td></tr>
+<tr class="separator:aef79d10467d12c77058ab72aa86f62d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebd7824679486db4c91c11438c26b471"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#aebd7824679486db4c91c11438c26b471">get_text_before_delimiter</a> (const std::string &amp;text)</td></tr>
+<tr class="separator:aebd7824679486db4c91c11438c26b471"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bd0116046aaf1583e4574bdad26aa16"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16">get_user_input_from_dialog</a> (std::string &amp;user_input, int dialog_type)</td></tr>
+<tr class="separator:a9bd0116046aaf1583e4574bdad26aa16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a652e05ec5b428ae4bd822d6dbfd350b1"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a652e05ec5b428ae4bd822d6dbfd350b1">get_user_input_phone_number</a> (std::string &amp;phone_number)</td></tr>
+<tr class="separator:a652e05ec5b428ae4bd822d6dbfd350b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b5de69892f164e8ce83cead863920e8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a1b5de69892f164e8ce83cead863920e8">get_user_input_room_number</a> (std::string &amp;room_number)</td></tr>
+<tr class="separator:a1b5de69892f164e8ce83cead863920e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a84f77105acb41046a573e9f64aca7a3d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a84f77105acb41046a573e9f64aca7a3d">get_user_input_target_name</a> (std::string &amp;target_name)</td></tr>
+<tr class="separator:a84f77105acb41046a573e9f64aca7a3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ca95509850e1a43b93455e2b26a378c"><td class="memItemLeft" align="right" valign="top">QString&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c">make_style_sheet_qstr</a> (int tray_num, bool dest_added, bool use_phone_num)</td></tr>
+<tr class="separator:a2ca95509850e1a43b93455e2b26a378c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea0b6e7a101f7b73328a8e0b0894b4cd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#aea0b6e7a101f7b73328a8e0b0894b4cd">on_dest_btn_clicked</a> (int tray_num, QString text)</td></tr>
+<tr class="separator:aea0b6e7a101f7b73328a8e0b0894b4cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f1c675150ad2dc7963b0e5c5732b6ca"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a0f1c675150ad2dc7963b0e5c5732b6ca">remove_hyphens</a> (const std::string &amp;phone_num_with_hyphens)</td></tr>
+<tr class="separator:a0f1c675150ad2dc7963b0e5c5732b6ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab49817eb887cf9c2847ae3999de4eb16"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16">set_tray_target_btn</a> (int tray_num, std::string target, std::string target_phone_number=&quot;&quot;)</td></tr>
+<tr class="separator:ab49817eb887cf9c2847ae3999de4eb16"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -202,8 +221,16 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a64aff2c13dedeb8d12742f83901f820c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab53b7f559c15f3e6d87aaccd6ef251c9"><td class="memItemLeft" align="right" valign="top">Ui::PageInputDeliveryDrawer *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#ab53b7f559c15f3e6d87aaccd6ef251c9">ui</a></td></tr>
 <tr class="separator:ab53b7f559c15f3e6d87aaccd6ef251c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
+Static Private Attributes</h2></td></tr>
+<tr class="memitem:a117b67dafe120717b4ae326a88912393"><td class="memItemLeft" align="right" valign="top">static const char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classPageInputDeliveryDrawer.html#a117b67dafe120717b4ae326a88912393">DEST_PHONENUM_DELIM</a> = '\n'</td></tr>
+<tr class="separator:a117b67dafe120717b4ae326a88912393"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00019">19</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ac7f93d9970caba2cef712e87a76da407"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac7f93d9970caba2cef712e87a76da407">&#9670;&nbsp;</a></span>PageInputDeliveryDrawer()</h2>
 
@@ -238,6 +265,8 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00022">22</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
 </div>
 </div>
 <a id="a856b0b081e23e85edcf7ddc0da59e1e8"></a>
@@ -255,9 +284,216 @@ Private Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00086">86</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="aef79d10467d12c77058ab72aa86f62d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef79d10467d12c77058ab72aa86f62d1">&#9670;&nbsp;</a></span>get_text_after_delimiter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string PageInputDeliveryDrawer::get_text_after_delimiter </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>text</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00533">533</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
+</div>
+</div>
+<a id="aebd7824679486db4c91c11438c26b471"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebd7824679486db4c91c11438c26b471">&#9670;&nbsp;</a></span>get_text_before_delimiter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string PageInputDeliveryDrawer::get_text_before_delimiter </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>text</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00521">521</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
+</div>
+</div>
+<a id="a9bd0116046aaf1583e4574bdad26aa16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9bd0116046aaf1583e4574bdad26aa16">&#9670;&nbsp;</a></span>get_user_input_from_dialog()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PageInputDeliveryDrawer::get_user_input_from_dialog </td>
+          <td>(</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>user_input</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>dialog_type</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00558">558</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
+</div>
+</div>
+<a id="a652e05ec5b428ae4bd822d6dbfd350b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a652e05ec5b428ae4bd822d6dbfd350b1">&#9670;&nbsp;</a></span>get_user_input_phone_number()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PageInputDeliveryDrawer::get_user_input_phone_number </td>
+          <td>(</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>phone_number</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00598">598</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classPageInputDeliveryDrawer_a652e05ec5b428ae4bd822d6dbfd350b1_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a652e05ec5b428ae4bd822d6dbfd350b1_cgraph" alt=""/></div>
+<map name="classPageInputDeliveryDrawer_a652e05ec5b428ae4bd822d6dbfd350b1_cgraph" id="classPageInputDeliveryDrawer_a652e05ec5b428ae4bd822d6dbfd350b1_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,195,61"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="243,5,432,61"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a1b5de69892f164e8ce83cead863920e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1b5de69892f164e8ce83cead863920e8">&#9670;&nbsp;</a></span>get_user_input_room_number()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PageInputDeliveryDrawer::get_user_input_room_number </td>
+          <td>(</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>room_number</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00593">593</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classPageInputDeliveryDrawer_a1b5de69892f164e8ce83cead863920e8_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a1b5de69892f164e8ce83cead863920e8_cgraph" alt=""/></div>
+<map name="classPageInputDeliveryDrawer_a1b5de69892f164e8ce83cead863920e8_cgraph" id="classPageInputDeliveryDrawer_a1b5de69892f164e8ce83cead863920e8_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,195,61"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="243,5,432,61"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a84f77105acb41046a573e9f64aca7a3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a84f77105acb41046a573e9f64aca7a3d">&#9670;&nbsp;</a></span>get_user_input_target_name()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PageInputDeliveryDrawer::get_user_input_target_name </td>
+          <td>(</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>target_name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00588">588</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classPageInputDeliveryDrawer_a84f77105acb41046a573e9f64aca7a3d_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a84f77105acb41046a573e9f64aca7a3d_cgraph" alt=""/></div>
+<map name="classPageInputDeliveryDrawer_a84f77105acb41046a573e9f64aca7a3d_cgraph" id="classPageInputDeliveryDrawer_a84f77105acb41046a573e9f64aca7a3d_cgraph">
+<area shape="rect" title=" " alt="" coords="5,13,221,54"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="269,5,459,61"/>
+</map>
+</div>
+
+</div>
+</div>
 <a id="a8abc91f0893244f82ac0827758281504"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a8abc91f0893244f82ac0827758281504">&#9670;&nbsp;</a></span>hideEvent()</h2>
 
@@ -281,6 +517,8 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00110">110</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -290,9 +528,56 @@ Here is the call graph for this function:</div>
 <area shape="rect" href="classPageInputDeliveryDrawer.html#a4a7fa8a4273a6175ca9171ef6ee3a6ba" title=" " alt="" coords="243,39,432,80"/>
 <area shape="rect" href="classPageInputDeliveryDrawer.html#ae29373f98532ac07920790c7a6a02972" title=" " alt="" coords="480,5,669,47"/>
 <area shape="rect" href="classPageInputDeliveryDrawer.html#a05801f0438994b93e0c84347b19f7d51" title=" " alt="" coords="480,71,669,112"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="717,71,907,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aef79d10467d12c77058ab72aa86f62d1" title=" " alt="" coords="722,5,911,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aebd7824679486db4c91c11438c26b471" title=" " alt="" coords="717,71,916,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="722,136,911,177"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="964,136,1153,177"/>
 </map>
 </div>
+
+</div>
+</div>
+<a id="a2ca95509850e1a43b93455e2b26a378c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ca95509850e1a43b93455e2b26a378c">&#9670;&nbsp;</a></span>make_style_sheet_qstr()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">QString PageInputDeliveryDrawer::make_style_sheet_qstr </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>tray_num</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>dest_added</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>use_phone_num</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00603">603</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 
 </div>
 </div>
@@ -319,6 +604,8 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00507">507</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
 </div>
 </div>
 <a id="a876ab54333d9257dad814c39dcd7ca3e"></a>
@@ -343,13 +630,21 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00294">294</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_a876ab54333d9257dad814c39dcd7ca3e_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a876ab54333d9257dad814c39dcd7ca3e_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_a876ab54333d9257dad814c39dcd7ca3e_cgraph" id="classPageInputDeliveryDrawer_a876ab54333d9257dad814c39dcd7ca3e_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" title=" " alt="" coords="5,130,195,171"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aea0b6e7a101f7b73328a8e0b0894b4cd" title=" " alt="" coords="243,130,432,171"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a652e05ec5b428ae4bd822d6dbfd350b1" title=" " alt="" coords="493,5,683,61"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a1b5de69892f164e8ce83cead863920e8" title=" " alt="" coords="493,85,683,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a84f77105acb41046a573e9f64aca7a3d" title=" " alt="" coords="480,166,696,207"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="493,231,683,273"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="744,85,933,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="744,231,933,273"/>
 </map>
 </div>
 
@@ -377,13 +672,21 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00299">299</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_a5ca542e2adfa0a3d8413b4d3204d5ddf_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a5ca542e2adfa0a3d8413b4d3204d5ddf_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_a5ca542e2adfa0a3d8413b4d3204d5ddf_cgraph" id="classPageInputDeliveryDrawer_a5ca542e2adfa0a3d8413b4d3204d5ddf_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" title=" " alt="" coords="5,130,195,171"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aea0b6e7a101f7b73328a8e0b0894b4cd" title=" " alt="" coords="243,130,432,171"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a652e05ec5b428ae4bd822d6dbfd350b1" title=" " alt="" coords="493,5,683,61"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a1b5de69892f164e8ce83cead863920e8" title=" " alt="" coords="493,85,683,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a84f77105acb41046a573e9f64aca7a3d" title=" " alt="" coords="480,166,696,207"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="493,231,683,273"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="744,85,933,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="744,231,933,273"/>
 </map>
 </div>
 
@@ -411,13 +714,16 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00335">335</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_aae1801b48070d388c78b5712f621eb90_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_aae1801b48070d388c78b5712f621eb90_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_aae1801b48070d388c78b5712f621eb90_cgraph" id="classPageInputDeliveryDrawer_aae1801b48070d388c78b5712f621eb90_cgraph">
 <area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="480,5,669,47"/>
 </map>
 </div>
 
@@ -445,13 +751,16 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00343">343</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_a46bd6a17526a511db6de04e7f9dc9547_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a46bd6a17526a511db6de04e7f9dc9547_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_a46bd6a17526a511db6de04e7f9dc9547_cgraph" id="classPageInputDeliveryDrawer_a46bd6a17526a511db6de04e7f9dc9547_cgraph">
 <area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="480,5,669,47"/>
 </map>
 </div>
 
@@ -479,13 +788,16 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00368">368</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_acf6430ad05486b329c6b062a3edab56c_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_acf6430ad05486b329c6b062a3edab56c_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_acf6430ad05486b329c6b062a3edab56c_cgraph" id="classPageInputDeliveryDrawer_acf6430ad05486b329c6b062a3edab56c_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="243,5,411,47"/>
+<area shape="rect" title=" " alt="" coords="5,39,195,80"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a0f1c675150ad2dc7963b0e5c5732b6ca" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" href="classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="253,71,421,112"/>
 </map>
 </div>
 
@@ -513,6 +825,8 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00473">473</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -520,7 +834,8 @@ Here is the call graph for this function:</div>
 <map name="classPageInputDeliveryDrawer_ad74012516bbce796bc1e839fc0f2414b_cgraph" id="classPageInputDeliveryDrawer_ad74012516bbce796bc1e839fc0f2414b_cgraph">
 <area shape="rect" title=" " alt="" coords="5,39,195,80"/>
 <area shape="rect" href="classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="253,5,421,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,71,432,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="243,71,432,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="480,71,669,112"/>
 </map>
 </div>
 
@@ -549,6 +864,8 @@ Here is the call graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00280">280</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
 </div>
 </div>
 <a id="a88208009e3d60d2b028cf552537fd891"></a>
@@ -573,6 +890,60 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00287">287</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
+</div>
+</div>
+<a id="aea0b6e7a101f7b73328a8e0b0894b4cd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea0b6e7a101f7b73328a8e0b0894b4cd">&#9670;&nbsp;</a></span>on_dest_btn_clicked()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PageInputDeliveryDrawer::on_dest_btn_clicked </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>tray_num</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">QString&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00304">304</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="classPageInputDeliveryDrawer_aea0b6e7a101f7b73328a8e0b0894b4cd_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_aea0b6e7a101f7b73328a8e0b0894b4cd_cgraph" alt=""/></div>
+<map name="classPageInputDeliveryDrawer_aea0b6e7a101f7b73328a8e0b0894b4cd_cgraph" id="classPageInputDeliveryDrawer_aea0b6e7a101f7b73328a8e0b0894b4cd_cgraph">
+<area shape="rect" title=" " alt="" coords="5,130,195,171"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a652e05ec5b428ae4bd822d6dbfd350b1" title=" " alt="" coords="256,5,445,61"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a1b5de69892f164e8ce83cead863920e8" title=" " alt="" coords="256,85,445,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a84f77105acb41046a573e9f64aca7a3d" title=" " alt="" coords="243,166,459,207"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="256,231,445,273"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="507,85,696,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="507,231,696,273"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -621,17 +992,6 @@ Here is the call graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classPageInputDeliveryDrawer_a868fdbe375156b779e61676eb225440c_icgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a868fdbe375156b779e61676eb225440c_icgraph" alt=""/></div>
-<map name="classPageInputDeliveryDrawer_a868fdbe375156b779e61676eb225440c_icgraph" id="classPageInputDeliveryDrawer_a868fdbe375156b779e61676eb225440c_icgraph">
-<area shape="rect" title=" " alt="" coords="243,71,432,112"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a9413e398e7c88d33b92582743f2e132c" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#acf6430ad05486b329c6b062a3edab56c" title=" " alt="" coords="5,71,195,112"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#ad74012516bbce796bc1e839fc0f2414b" title=" " alt="" coords="5,136,195,177"/>
-</map>
-</div>
 
 </div>
 </div>
@@ -661,8 +1021,36 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a39af724a5374e36c22e07df2e4c59c26"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a39af724a5374e36c22e07df2e4c59c26">&#9670;&nbsp;</a></span>set_tray_target_btn()</h2>
+<a id="a0f1c675150ad2dc7963b0e5c5732b6ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f1c675150ad2dc7963b0e5c5732b6ca">&#9670;&nbsp;</a></span>remove_hyphens()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string PageInputDeliveryDrawer::remove_hyphens </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>phone_num_with_hyphens</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00547">547</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
+
+</div>
+</div>
+<a id="ab49817eb887cf9c2847ae3999de4eb16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab49817eb887cf9c2847ae3999de4eb16">&#9670;&nbsp;</a></span>set_tray_target_btn()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -680,7 +1068,13 @@ Here is the caller graph for this function:</div>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">std::string&#160;</td>
-          <td class="paramname"><em>target</em>&#160;</td>
+          <td class="paramname"><em>target</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>target_phone_number</em> = <code>&quot;&quot;</code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -694,21 +1088,15 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00131">131</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
-Here is the caller graph for this function:</div>
+Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classPageInputDeliveryDrawer_a39af724a5374e36c22e07df2e4c59c26_icgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a39af724a5374e36c22e07df2e4c59c26_icgraph" alt=""/></div>
-<map name="classPageInputDeliveryDrawer_a39af724a5374e36c22e07df2e4c59c26_icgraph" id="classPageInputDeliveryDrawer_a39af724a5374e36c22e07df2e4c59c26_icgraph">
-<area shape="rect" title=" " alt="" coords="717,201,907,243"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a876ab54333d9257dad814c39dcd7ca3e" title=" " alt="" coords="480,5,669,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a5ca542e2adfa0a3d8413b4d3204d5ddf" title=" " alt="" coords="480,71,669,112"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#aae1801b48070d388c78b5712f621eb90" title=" " alt="" coords="480,136,669,177"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a46bd6a17526a511db6de04e7f9dc9547" title=" " alt="" coords="480,201,669,243"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#ad74012516bbce796bc1e839fc0f2414b" title=" " alt="" coords="480,267,669,308"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a05801f0438994b93e0c84347b19f7d51" title=" " alt="" coords="480,332,669,373"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#abeda50cd5c3526d28599c5c9553246aa" title=" " alt="" coords="5,391,195,432"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a4a7fa8a4273a6175ca9171ef6ee3a6ba" title=" " alt="" coords="243,332,432,373"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a8abc91f0893244f82ac0827758281504" title=" " alt="" coords="5,325,195,367"/>
+<div class="center"><img src="classPageInputDeliveryDrawer_ab49817eb887cf9c2847ae3999de4eb16_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_ab49817eb887cf9c2847ae3999de4eb16_cgraph" alt=""/></div>
+<map name="classPageInputDeliveryDrawer_ab49817eb887cf9c2847ae3999de4eb16_cgraph" id="classPageInputDeliveryDrawer_ab49817eb887cf9c2847ae3999de4eb16_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="243,5,432,47"/>
 </map>
 </div>
 
@@ -737,17 +1125,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classPageInputDeliveryDrawer_ae29373f98532ac07920790c7a6a02972_icgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_ae29373f98532ac07920790c7a6a02972_icgraph" alt=""/></div>
-<map name="classPageInputDeliveryDrawer_ae29373f98532ac07920790c7a6a02972_icgraph" id="classPageInputDeliveryDrawer_ae29373f98532ac07920790c7a6a02972_icgraph">
-<area shape="rect" title=" " alt="" coords="480,39,669,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a4a7fa8a4273a6175ca9171ef6ee3a6ba" title=" " alt="" coords="243,39,432,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a8abc91f0893244f82ac0827758281504" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#abeda50cd5c3526d28599c5c9553246aa" title=" " alt="" coords="5,71,195,112"/>
-</map>
-</div>
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00251">251</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 
 </div>
 </div>
@@ -774,24 +1153,18 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00260">260</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_cgraph" id="classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,5,432,47"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_icgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_icgraph" alt=""/></div>
-<map name="classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_icgraph" id="classPageInputDeliveryDrawer_a05801f0438994b93e0c84347b19f7d51_icgraph">
-<area shape="rect" title=" " alt="" coords="480,39,669,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a4a7fa8a4273a6175ca9171ef6ee3a6ba" title=" " alt="" coords="243,39,432,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a8abc91f0893244f82ac0827758281504" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#abeda50cd5c3526d28599c5c9553246aa" title=" " alt="" coords="5,71,195,112"/>
+<area shape="rect" title=" " alt="" coords="5,71,195,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aef79d10467d12c77058ab72aa86f62d1" title=" " alt="" coords="247,5,437,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aebd7824679486db4c91c11438c26b471" title=" " alt="" coords="243,71,441,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="247,136,437,177"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="489,136,679,177"/>
 </map>
 </div>
 
@@ -820,16 +1193,6 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classPageInputDeliveryDrawer_a6892f8a31b99cec5572077b1c9796bbf_icgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a6892f8a31b99cec5572077b1c9796bbf_icgraph" alt=""/></div>
-<map name="classPageInputDeliveryDrawer_a6892f8a31b99cec5572077b1c9796bbf_icgraph" id="classPageInputDeliveryDrawer_a6892f8a31b99cec5572077b1c9796bbf_icgraph">
-<area shape="rect" title=" " alt="" coords="243,39,432,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#aa9d169a7805e4bc96675e0c2ba871eb9" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a88208009e3d60d2b028cf552537fd891" title=" " alt="" coords="5,71,195,112"/>
-</map>
-</div>
 
 </div>
 </div>
@@ -856,16 +1219,21 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00091">91</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classPageInputDeliveryDrawer_abeda50cd5c3526d28599c5c9553246aa_cgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_abeda50cd5c3526d28599c5c9553246aa_cgraph" alt=""/></div>
 <map name="classPageInputDeliveryDrawer_abeda50cd5c3526d28599c5c9553246aa_cgraph" id="classPageInputDeliveryDrawer_abeda50cd5c3526d28599c5c9553246aa_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="717,39,907,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a4a7fa8a4273a6175ca9171ef6ee3a6ba" title=" " alt="" coords="243,35,432,76"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#ae29373f98532ac07920790c7a6a02972" title=" " alt="" coords="480,35,669,76"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a05801f0438994b93e0c84347b19f7d51" title=" " alt="" coords="480,100,669,141"/>
+<area shape="rect" title=" " alt="" coords="5,20,195,61"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="722,5,911,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a4a7fa8a4273a6175ca9171ef6ee3a6ba" title=" " alt="" coords="243,49,432,91"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="964,5,1153,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ae29373f98532ac07920790c7a6a02972" title=" " alt="" coords="480,49,669,91"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a05801f0438994b93e0c84347b19f7d51" title=" " alt="" coords="480,115,669,156"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aef79d10467d12c77058ab72aa86f62d1" title=" " alt="" coords="722,100,911,141"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aebd7824679486db4c91c11438c26b471" title=" " alt="" coords="717,165,916,207"/>
 </map>
 </div>
 
@@ -886,6 +1254,8 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8cpp_source.html#l00119">119</a> of file <a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -894,17 +1264,10 @@ Here is the call graph for this function:</div>
 <area shape="rect" title=" " alt="" coords="5,39,195,80"/>
 <area shape="rect" href="classPageInputDeliveryDrawer.html#ae29373f98532ac07920790c7a6a02972" title=" " alt="" coords="243,5,432,47"/>
 <area shape="rect" href="classPageInputDeliveryDrawer.html#a05801f0438994b93e0c84347b19f7d51" title=" " alt="" coords="243,71,432,112"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="480,71,669,112"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classPageInputDeliveryDrawer_a4a7fa8a4273a6175ca9171ef6ee3a6ba_icgraph.png" border="0" usemap="#classPageInputDeliveryDrawer_a4a7fa8a4273a6175ca9171ef6ee3a6ba_icgraph" alt=""/></div>
-<map name="classPageInputDeliveryDrawer_a4a7fa8a4273a6175ca9171ef6ee3a6ba_icgraph" id="classPageInputDeliveryDrawer_a4a7fa8a4273a6175ca9171ef6ee3a6ba_icgraph">
-<area shape="rect" title=" " alt="" coords="243,39,432,80"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#a8abc91f0893244f82ac0827758281504" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="classPageInputDeliveryDrawer.html#abeda50cd5c3526d28599c5c9553246aa" title=" " alt="" coords="5,71,195,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aef79d10467d12c77058ab72aa86f62d1" title=" " alt="" coords="485,5,674,47"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#aebd7824679486db4c91c11438c26b471" title=" " alt="" coords="480,71,679,112"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="485,136,674,177"/>
+<area shape="rect" href="classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="727,136,916,177"/>
 </map>
 </div>
 
@@ -931,6 +1294,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00056">56</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
 </div>
 </div>
 <a id="a088ce3c5b9dc8adec4e77437cb99ff75"></a>
@@ -952,6 +1317,8 @@ Here is the caller graph for this function:</div>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00058">58</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
 
 </div>
 </div>
@@ -975,6 +1342,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00053">53</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
 </div>
 </div>
 <a id="ad640d24daf5008b026eac840d35ba2f0"></a>
@@ -997,6 +1366,32 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00054">54</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
+</div>
+</div>
+<a id="a117b67dafe120717b4ae326a88912393"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a117b67dafe120717b4ae326a88912393">&#9670;&nbsp;</a></span>DEST_PHONENUM_DELIM</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const char PageInputDeliveryDrawer::DEST_PHONENUM_DELIM = '\n'</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00060">60</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
 </div>
 </div>
 <a id="aa732476088e85d82ae4404c1d2fca47d"></a>
@@ -1011,6 +1406,8 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00034">34</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
 </div>
 </div>
 <a id="ad91c809057571605b1e76a7327fc16e6"></a>
@@ -1024,6 +1421,8 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00035">35</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
 
 </div>
 </div>
@@ -1047,6 +1446,8 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00057">57</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
 </div>
 </div>
 <a id="a30de6f89e145fb37a5ba93115e3f54f2"></a>
@@ -1060,6 +1461,8 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00033">33</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
 
 </div>
 </div>
@@ -1083,11 +1486,13 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
+<p class="definition">Definition at line <a class="el" href="page__input__delivery__drawer_8hpp_source.html#l00055">55</a> of file <a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a>.</p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>aimbot_demo_gui/aimbot_demo_gui_g18/include/aimbot_demo_gui_g18/<a class="el" href="page__input__delivery__drawer_8hpp_source.html">page_input_delivery_drawer.hpp</a></li>
-<li>aimbot_demo_gui/aimbot_demo_gui_g18/src/page_input_delivery_drawer.cpp</li>
+<li>aimbot_demo_gui/aimbot_demo_gui_g18/src/<a class="el" href="page__input__delivery__drawer_8cpp_source.html">page_input_delivery_drawer.cpp</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

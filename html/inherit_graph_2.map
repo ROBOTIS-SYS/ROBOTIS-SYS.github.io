@@ -4,7 +4,7 @@
 <area shape="rect" id="node3" href="$classaimbot_1_1EVDoorDetection.html" title=" " alt="" coords="209,56,396,83"/>
 <area shape="rect" id="node4" href="$classaimbot__docking_1_1DockingManager.html" title=" " alt="" coords="181,107,425,133"/>
 <area shape="rect" id="node5" href="$classantis__nav__util_1_1LifecycleNode.html" title=" " alt="" coords="196,157,409,184"/>
-<area shape="rect" id="node10" href="$classmap__manager_1_1MapManager.html" title=" " alt="" coords="198,208,407,235"/>
+<area shape="rect" id="node10" href="$classmap__manager_1_1MapManager.html" title="맵을 관리하는 클래스입니다." alt="" coords="198,208,407,235"/>
 <area shape="rect" id="node11" href="$classrobotis_1_1eve_1_1KimeraVIOLifecycleNode.html" title=" " alt="" coords="168,259,437,285"/>
 <area shape="rect" id="node6" href="$classantis__nav__amcl_1_1AmclNode.html" title=" " alt="" coords="485,65,684,92"/>
 <area shape="rect" id="node7" href="$classantis__nav__controller__server_1_1ControllerServer.html" title="This class hosts variety of plugins of different algorithms to complete control tasks from the expose..." alt="" coords="493,117,677,158"/>

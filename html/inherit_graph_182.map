@@ -1,16 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classrm2__control__module_1_1ControlModule.html" title=" " alt="" coords="5,397,161,439"/>
-<area shape="rect" id="node2" href="$classgc__button__push__control_1_1ButtonPushControl.html" title=" " alt="" coords="239,5,415,47"/>
-<area shape="rect" id="node3" href="$classgc__init__end__motion__control_1_1GcInitEndMotionControl.html" title=" " alt="" coords="209,71,445,112"/>
-<area shape="rect" id="node4" href="$classgc__knock__control_1_1GcKnockMotionControl.html" title=" " alt="" coords="227,136,427,177"/>
-<area shape="rect" id="node5" href="$classgc__knock__control__with__imu_1_1GcKnockControlWithImu.html" title=" " alt="" coords="217,201,438,243"/>
-<area shape="rect" id="node6" href="$classgc__lidar__limiter_1_1GcLidarLimiter.html" title=" " alt="" coords="237,267,417,308"/>
-<area shape="rect" id="node7" href="$classgc__push__target__control_1_1GcPushTargetControl.html" title=" " alt="" coords="241,332,414,373"/>
-<area shape="rect" id="node8" href="$classgc__tracking__control_1_1TrackingControl.html" title=" " alt="" coords="253,397,402,439"/>
-<area shape="rect" id="node9" href="$classgc__workspace_1_1GcWorkspace.html" title=" " alt="" coords="222,463,433,490"/>
-<area shape="rect" id="node10" href="$classrm2__joint__trajectory__control_1_1MinimumJerkControl.html" title=" " alt="" coords="219,515,435,556"/>
-<area shape="rect" id="node11" href="$classrm2__joint__trajectory__control_1_1TrapezoidalControl.html" title=" " alt="" coords="225,580,429,621"/>
-<area shape="rect" id="node12" href="$classrm2__joystick__control_1_1JoystickControl.html" title=" " alt="" coords="248,645,407,687"/>
-<area shape="rect" id="node13" href="$classrm2__task__trajectory__control_1_1MinimumJerkControl.html" title=" " alt="" coords="219,711,435,752"/>
-<area shape="rect" id="node14" href="$classrm2__task__trajectory__control_1_1TrapezoidalControl.html" title=" " alt="" coords="225,776,429,817"/>
+<area shape="rect" id="node1" href="$classrm2__common_1_1JointValues.html" title=" " alt="" coords="5,5,199,32"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="map_manager::MapInfo" name="map_manager::MapInfo">
-<area shape="rect" id="node1" title=" " alt="" coords="5,168,183,195"/>
+<area shape="rect" id="node1" title="맵 정보를 관리하는 클래스입니다." alt="" coords="5,168,183,195"/>
 <area shape="rect" id="node2" title=" " alt="" coords="65,5,123,32"/>
 </map>

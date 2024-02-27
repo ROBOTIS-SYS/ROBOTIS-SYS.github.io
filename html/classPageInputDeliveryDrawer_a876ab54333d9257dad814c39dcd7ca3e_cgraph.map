@@ -1,4 +1,10 @@
 <map id="PageInputDeliveryDrawer::on_btnDest1_clicked" name="PageInputDeliveryDrawer::on_btnDest1_clicked">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" id="node2" href="$classPageInputDeliveryDrawer.html#a39af724a5374e36c22e07df2e4c59c26" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,130,195,171"/>
+<area shape="rect" id="node2" href="$classPageInputDeliveryDrawer.html#aea0b6e7a101f7b73328a8e0b0894b4cd" title=" " alt="" coords="243,130,432,171"/>
+<area shape="rect" id="node3" href="$classPageInputDeliveryDrawer.html#a652e05ec5b428ae4bd822d6dbfd350b1" title=" " alt="" coords="493,5,683,61"/>
+<area shape="rect" id="node5" href="$classPageInputDeliveryDrawer.html#a1b5de69892f164e8ce83cead863920e8" title=" " alt="" coords="493,85,683,141"/>
+<area shape="rect" id="node6" href="$classPageInputDeliveryDrawer.html#a84f77105acb41046a573e9f64aca7a3d" title=" " alt="" coords="480,166,696,207"/>
+<area shape="rect" id="node7" href="$classPageInputDeliveryDrawer.html#ab49817eb887cf9c2847ae3999de4eb16" title=" " alt="" coords="493,231,683,273"/>
+<area shape="rect" id="node4" href="$classPageInputDeliveryDrawer.html#a9bd0116046aaf1583e4574bdad26aa16" title=" " alt="" coords="744,85,933,141"/>
+<area shape="rect" id="node8" href="$classPageInputDeliveryDrawer.html#a2ca95509850e1a43b93455e2b26a378c" title=" " alt="" coords="744,231,933,273"/>
 </map>

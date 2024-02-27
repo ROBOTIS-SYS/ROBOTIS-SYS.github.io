@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="gaemi2.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">GAEMI0
-   &#160;<span id="projectnumber">0.11.0</span>
+   &#160;<span id="projectnumber">0.12.0-rc1</span>
    </div>
   </td>
  </tr>
@@ -122,12 +122,9 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 <li>calc_pose_l2_error()
 : <a class="el" href="classPoseErrorEvaluation_1_1PoseErrorEvaluatorNode.html#a806bb1b4aae28f6ac98e37b804d2a0c8">PoseErrorEvaluation::PoseErrorEvaluatorNode</a>
 </li>
-<li>calc_present_altitude()
-: <a class="el" href="classmap__manager_1_1MapManager.html#ad30630b3bdc3e3579682bfe2075a318c">map_manager::MapManager</a>
-</li>
 <li>calc_rel_pose()
 : <a class="el" href="classeve__heuristics_1_1SteepFilter.html#a377f6f8230f6267f5adca79ae155e14f">eve_heuristics::SteepFilter</a>
-, <a class="el" href="classOdomFusion_1_1OdomFilterBase.html#ab8b6f6aedf58425f76c8fbd2c36266a2">OdomFusion::OdomFilterBase</a>
+, <a class="el" href="classOdomFusion_1_1OdomFilterBase.html#ac43be99e058157074f1ef2e0b5841acf">OdomFusion::OdomFilterBase</a>
 </li>
 <li>calc_relative_pose()
 : <a class="el" href="classPoseErrorEvaluation_1_1PoseErrorEvaluatorNode.html#aa65f8cad7f29c2b3a493a8b656980968">PoseErrorEvaluation::PoseErrorEvaluatorNode</a>
@@ -156,6 +153,15 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 <li>CalcTransmissionToJoint()
 : <a class="el" href="classdynamixel__hardware__interface_1_1DynamixelHardware.html#a760e03928b42d220df503c7e994506e3">dynamixel_hardware_interface::DynamixelHardware</a>
 </li>
+<li>calculate_atmospheric_pressure_derivative()
+: <a class="el" href="classmap__manager_1_1FloorEstimationByAtmPressure.html#a48bfb403ed87f8203270078c7ca06232">map_manager::FloorEstimationByAtmPressure</a>
+</li>
+<li>calculate_current_altitude()
+: <a class="el" href="classmap__manager_1_1FloorEstimationByAtmPressure.html#a96d46ab1a629468229dd36f0c0072786">map_manager::FloorEstimationByAtmPressure</a>
+</li>
+<li>calculate_graph()
+: <a class="el" href="classpressure__check__gui_1_1DrawGraph.html#a313f577e4cc720fcaf0869216ec2c9d4">pressure_check_gui.DrawGraph</a>
+</li>
 <li>calculateMaptoOdomTransform()
 : <a class="el" href="classantis__nav__amcl_1_1AmclNode.html#ad86c504afe1ac854888e2d543c708c8b">antis_nav_amcl::AmclNode</a>
 </li>
@@ -182,12 +188,16 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classmanipulator__gui_1_1RosNode.html#a5e3dac94c86064505dbdafef702498c0">manipulator_gui::RosNode</a>
 </li>
 <li>call_ev()
-: <a class="el" href="classtask__manager_1_1CallEVAction.html#a8d9f68c734fbfdfb78df3f51fdd8a129">task_manager::CallEVAction</a>
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a5ceae6c1c0579c9b409a821d1eed32ea">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+, <a class="el" href="classtask__manager_1_1CallEVAction.html#a8d9f68c734fbfdfb78df3f51fdd8a129">task_manager::CallEVAction</a>
 , <a class="el" href="classtask__manager_1_1CallEVRobotServiceAction.html#a6b009769a169d560da199e64890f49a9">task_manager::CallEVRobotServiceAction</a>
 , <a class="el" href="classtask__manager_1_1CallEVRobotServiceInEVAction.html#ae962c62488cebbff26b19b37e72156fb">task_manager::CallEVRobotServiceInEVAction</a>
 </li>
 <li>call_ev_service_outer_callback()
 : <a class="el" href="classeve__robot__agent_1_1EveRobotAgent.html#af4766544b9cd292b684e512a96e5fa22">eve_robot_agent::EveRobotAgent</a>
+</li>
+<li>call_floor()
+: <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a7ee7c4d789249cb96ba7594599ecb5b8">m2m_controller.m2m_controller_node.M2MController</a>
 </li>
 <li>call_gc_init_end_motion_action()
 : <a class="el" href="classmanipulator__gui_1_1RosNode.html#ac31f46660f200be319ab8dfc17b26489">manipulator_gui::RosNode</a>
@@ -246,12 +256,14 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classEVStateManager.html#ad50ce124e0c4e3dce8f586c5cd58a11c">EVStateManager</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a8db200d46f24bc9928c99cd4a347d585">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#ae16dcce7d206fd2d2845364229f4c50d">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
+, <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a4009e2cf9a0b5fe6a8f1f9f22ff6685b">m2m_controller.m2m_controller_node.M2MController</a>
 , <a class="el" href="classTkeControllerNode.html#a39fee06a1d1b23a119f4f84e55567cc5">TkeControllerNode</a>
 </li>
 <li>call_robot_service_in_ev_callback()
 : <a class="el" href="classEVStateManager.html#a2a94df15b12f6f1ed6d35329a5cc78ad">EVStateManager</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a368857ab142a389a9ad3c7ae4f378af7">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#a3939bfa5396397e4cd5b008426943e25">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
+, <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a7de2322b6ba6507488589afff65698cc">m2m_controller.m2m_controller_node.M2MController</a>
 , <a class="el" href="classTkeControllerNode.html#ab8060fe253ed1974b26ff6071d3b1c38">TkeControllerNode</a>
 </li>
 <li>call_robot_service_in_ev_outer_callback()
@@ -263,6 +275,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 <li>call_service_callback()
 : <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a5d074d7b21ee0b10197c3c9ef0a3593d">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#aa5ebbce82dbc198d61ed4e5eafee26d7">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
+, <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#ac9f64592d2bba117391d6ffb19ccac88">m2m_controller.m2m_controller_node.M2MController</a>
 , <a class="el" href="classTkeControllerNode.html#a4d0cdf3a17a8d94d59050cddaacb96f2">TkeControllerNode</a>
 </li>
 <li>call_set_gui_page()
@@ -323,6 +336,9 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#ac44906356936e06fd935954de3033aed">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#a0e213092079732bda15812170f21b6af">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
 </li>
+<li>cancel_call_ev()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a903bbcf47c5429dbec62c3063d156f52">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
 <li>cancel_callback()
 : <a class="el" href="classaimbot__docking_1_1DockingManager.html#a533b951c8bbfb5873dcdef0f6b51927a">aimbot_docking::DockingManager</a>
 , <a class="el" href="classgc__button__push__control_1_1ButtonPushControl.html#a20ed2c2b21af0d5bea6a66834472460a">gc_button_push_control::ButtonPushControl</a>
@@ -338,6 +354,9 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 </li>
 <li>cancel_ev_robot_status()
 : <a class="el" href="classtask__manager_1_1CancelEVRobotServiceAction.html#a74e2e15d3c6a1998265ec15a8b80b13e">task_manager::CancelEVRobotServiceAction</a>
+</li>
+<li>cancel_exit_in_ev()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a6b2d4545af3d461be1c5e2ff282164fa">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
 </li>
 <li>cancel_one_robot_service()
 : <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a5cb195aa151b2ea5180e36072d5210a7">hyundai_ev_controller.api_client_node.ApiClientNode</a>
@@ -356,6 +375,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classEVStateManager.html#a5399df7caf7dbc8f689230e1336115b1">EVStateManager</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a080bd7759f5a4c1dd9923473dba77ea3">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#acd6ba8bdfdd5db9b5ec31f63b7bfa0fa">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
+, <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a4fd1eef793ac274c04269fd0cebacbf0">m2m_controller.m2m_controller_node.M2MController</a>
 , <a class="el" href="classTkeControllerNode.html#a246b138d5d84d76841647897251cfc2d">TkeControllerNode</a>
 </li>
 <li>cancel_update()
@@ -518,6 +538,12 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classaimbot_1_1DoorDetection.html#a840cd532a3b05cfcd5ce3e5138f518ec">aimbot::DoorDetection</a>
 , <a class="el" href="classaimbot_1_1EVDoorDetection.html#ae1a7b3133d25de4ce41ce8a1db62c437">aimbot::EVDoorDetection</a>
 </li>
+<li>check_el_id_valid()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a15fb747268dc30be60f3e064a2ae1e7f">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
+<li>check_ev_num_valid()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#ae06da184c2d36b09c9af5bd1e1ef5fca">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
 <li>check_ev_status()
 : <a class="el" href="classtask__manager_1_1CheckEVStatusAction.html#a2e2ea0f4475d697ac6f220543bc28fa9">task_manager::CheckEVStatusAction</a>
 </li>
@@ -556,11 +582,19 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 <li>check_obstacle_free()
 : <a class="el" href="classaimbot_1_1RRTMobilePathPlanner.html#a23c851aa585391e011483be657c5adf6">aimbot::RRTMobilePathPlanner</a>
 </li>
+<li>check_passcode()
+: <a class="el" href="classDialogArrivedPassNumber.html#a53deb8a25380f5d3d2675517121cecad">DialogArrivedPassNumber</a>
+, <a class="el" href="classPageArrived.html#ae5415cf2a3e164d4b2b50f085265ca29">PageArrived</a>
+, <a class="el" href="classPageArrivedSwingDoor.html#a49a70adf68229f54f205415af4aecb56">PageArrivedSwingDoor</a>
+</li>
 <li>check_process_by_pid()
 : <a class="el" href="classtask__manager_1_1CheckProcessAction.html#a19af53cd2f32afe9bcdb2870bc73da4b">task_manager::CheckProcessAction</a>
 </li>
 <li>check_resource_usage()
 : <a class="el" href="classeve__robot__agent_1_1EveRobotAgent.html#a5273801edb2a5eee69f9904b5b5a242d">eve_robot_agent::EveRobotAgent</a>
+</li>
+<li>check_response_topic()
+: <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a3c609dd77a7c63920d3ce68d862e6418">m2m_controller.m2m_controller_node.M2MController</a>
 </li>
 <li>check_robot_in_zone()
 : <a class="el" href="classaimbot__docking_1_1DockingManager.html#a2a3c76baf537f417a3d1183bbd0eef5d">aimbot_docking::DockingManager</a>
@@ -703,6 +737,12 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 <li>clear_log()
 : <a class="el" href="classcontrol__gui_1_1MainWindow.html#aff47370e3cb7f8cfd06469d4a7626dc9">control_gui::MainWindow</a>
 </li>
+<li>clear_passcode_bullet()
+: <a class="el" href="classDialogArrivedPassNumber.html#a1839c4d0921a59ac5d4f65bb01346edd">DialogArrivedPassNumber</a>
+</li>
+<li>clear_phone_num_input()
+: <a class="el" href="classDialogInputPhoneNumber.html#aca42dbf1daa2ed7bcee95650df7648ab">DialogInputPhoneNumber</a>
+</li>
 <li>clear_port()
 : <a class="el" href="classPortHandler.html#a34b814d844e4d35ccf6119b89d641567">PortHandler</a>
 </li>
@@ -725,7 +765,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classtask__manager_1_1ClearCostmapAction.html#a3fd7b60ef011245914b6b16bc758faaf">task_manager::ClearCostmapAction</a>
 </li>
 <li>ClearCostmapService()
-: <a class="el" href="classantis__nav__costmap__2d_1_1ClearCostmapService.html#a492024f724ec41d25e5a837d47f242cd">antis_nav_costmap_2d::ClearCostmapService</a>
+: <a class="el" href="classantis__nav__costmap__2d_1_1ClearCostmapService.html#a33d114d79eff5cfc9f18d1f812f2b638">antis_nav_costmap_2d::ClearCostmapService</a>
 </li>
 <li>clearEntireCallback()
 : <a class="el" href="classantis__nav__costmap__2d_1_1ClearCostmapService.html#afa7ce9e2dd66bb036888458be9bad573">antis_nav_costmap_2d::ClearCostmapService</a>
@@ -951,8 +991,11 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classantis__nav__common_1_1launch_1_1rewritten__yaml_1_1RewrittenYaml.html#ac3ec934f2c78090227b09bf32df48856">antis_nav_common.launch.rewritten_yaml.RewrittenYaml</a>
 </li>
 <li>convert_coordinates()
-: <a class="el" href="classrm2__common_1_1Twist.html#a00360999120e2748f64fa4e584bbe25f">rm2_common::Twist</a>
-, <a class="el" href="classrm2__common_1_1Wrench.html#aec8cb26861d32b77d7eeaf91c3d08515">rm2_common::Wrench</a>
+: <a class="el" href="classrm2__common_1_1Twist.html#a200cb3b314dd5bdc03e1bcdf15bee3fc">rm2_common::Twist</a>
+, <a class="el" href="classrm2__common_1_1Wrench.html#ab374d9beff858f1abe1b26a17ef79b27">rm2_common::Wrench</a>
+</li>
+<li>convert_phone_num_to_string()
+: <a class="el" href="classDialogInputPhoneNumber.html#a9a9f184b6a94e0b3ee8265ed4e8386b3">DialogInputPhoneNumber</a>
 </li>
 <li>convert_ros_time_to_utc()
 : <a class="el" href="classeve__robot__agent_1_1EveRobotAgent.html#a45ebb0d6ae50a648a9fe1ffae70b83c3">eve_robot_agent::EveRobotAgent</a>
@@ -997,7 +1040,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2D.html#a717f3473149b3e94e1a00f3a2697b94a">antis_nav_costmap_2d::Costmap2D</a>
 </li>
 <li>CoordinateSpikeDetector()
-: <a class="el" href="classeve__utils_1_1CoordinateSpikeDetector.html#ad6361a6e7c7c04cbf88d4948359b2cf3">eve_utils::CoordinateSpikeDetector</a>
+: <a class="el" href="classeve__utils_1_1CoordinateSpikeDetector.html#ac83d43b09a616302b93163e732fefdce">eve_utils::CoordinateSpikeDetector</a>
 </li>
 <li>copyCostmapWindow()
 : <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2D.html#a82d9ab3ea622c82a7bfeb6b3246e0d1e">antis_nav_costmap_2d::Costmap2D</a>
@@ -1015,7 +1058,7 @@ $(document).ready(function(){initNavTree('functions_func_c.html',''); initResiza
 : <a class="el" href="classantis__nav__util_1_1Costmap.html#ae9b6dd37ea0315233b7a00f4bb6ab3ee">antis_nav_util::Costmap</a>
 </li>
 <li>Costmap2D()
-: <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2D.html#ad25bfc0d6bf2c43fefeb6de28770909e">antis_nav_costmap_2d::Costmap2D</a>
+: <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2D.html#aed539adbf6c6a641e289b4d4ec3fc37f">antis_nav_costmap_2d::Costmap2D</a>
 </li>
 <li>Costmap2DPublisher()
 : <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2DPublisher.html#aa8274a8bdc9dc58017f00db9c11005fa">antis_nav_costmap_2d::Costmap2DPublisher</a>

@@ -1,8 +1,8 @@
 <map id="antis_nav_util::LifecycleNode" name="antis_nav_util::LifecycleNode">
-<area shape="rect" id="node1" title=" " alt="" coords="168,97,381,124"/>
-<area shape="rect" id="node3" href="$classantis__nav__amcl_1_1AmclNode.html" title=" " alt="" coords="429,5,628,32"/>
-<area shape="rect" id="node4" href="$classantis__nav__controller__server_1_1ControllerServer.html" title="This class hosts variety of plugins of different algorithms to complete control tasks from the expose..." alt="" coords="437,57,621,98"/>
-<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html" title="A ROS wrapper for a 2D Costmap. Handles subscribing to topics that provide observations about obstacl..." alt="" coords="443,122,614,163"/>
-<area shape="rect" id="node6" href="$classantis__nav__planner__server_1_1PlannerServer.html" title="An action server implements the behavior tree&#39;s ComputePathToPose, ComputePathThroughGoalsStepByStep,..." alt="" coords="434,187,623,229"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,97,120,124"/>
+<area shape="rect" id="node1" title=" " alt="" coords="276,97,489,124"/>
+<area shape="rect" id="node3" href="$classantis__nav__amcl_1_1AmclNode.html" title=" " alt="" coords="537,5,736,32"/>
+<area shape="rect" id="node4" href="$classantis__nav__controller__server_1_1ControllerServer.html" title="This class hosts variety of plugins of different algorithms to complete control tasks from the expose..." alt="" coords="545,57,729,98"/>
+<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html" title="A ROS wrapper for a 2D Costmap. Handles subscribing to topics that provide observations about obstacl..." alt="" coords="551,122,722,163"/>
+<area shape="rect" id="node6" href="$classantis__nav__planner__server_1_1PlannerServer.html" title="An action server implements the behavior tree&#39;s ComputePathToPose, ComputePathThroughGoalsStepByStep,..." alt="" coords="542,187,731,229"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,97,228,124"/>
 </map>

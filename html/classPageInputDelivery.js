@@ -2,6 +2,8 @@ var classPageInputDelivery =
 [
     [ "PageInputDelivery", "classPageInputDelivery.html#a532edd909161c94c8bcfbdf80a705b5b", null ],
     [ "~PageInputDelivery", "classPageInputDelivery.html#a53723ca705cc314c0671d00232fd43f1", null ],
+    [ "get_text_after_newline", "classPageInputDelivery.html#a29078303ce772c4591f0f0556b395797", null ],
+    [ "get_text_before_newline", "classPageInputDelivery.html#a5756d275039b26001fcc7c7fc93dc3f8", null ],
     [ "hideEvent", "classPageInputDelivery.html#a626c657094f81324f3b1055925cfe407", null ],
     [ "on_btnConfig_clicked", "classPageInputDelivery.html#ab626f888bdc0e180a5620ab47ccfa838", null ],
     [ "on_btnDest1_clicked", "classPageInputDelivery.html#ab81d4c461ddb8badcfb3653c3531cd15", null ],
@@ -14,7 +16,8 @@ var classPageInputDelivery =
     [ "on_btnTray2_clicked", "classPageInputDelivery.html#a072fc117c073af11e98ad1b7338d57d2", null ],
     [ "pageChanged", "classPageInputDelivery.html#a2c13370931fc5d22b4ea4311059e1048", null ],
     [ "playSound", "classPageInputDelivery.html#ace447b9206f6e6b8cecc96614590678a", null ],
-    [ "set_tray_target_btn", "classPageInputDelivery.html#a3d4a2037ee2eb49818d515265e6a2c03", null ],
+    [ "remove_hyphens", "classPageInputDelivery.html#aea7dcb966ace8dd8ee84f5beceffeea6", null ],
+    [ "set_tray_target_btn", "classPageInputDelivery.html#abd576387f32e17cb1a99b62bff7cb1a4", null ],
     [ "setBatteryState", "classPageInputDelivery.html#aadb407fba40698f00a1e499099586440", null ],
     [ "setOption", "classPageInputDelivery.html#a54814c03e0984088e42c792ca8abbb9e", null ],
     [ "showDialog", "classPageInputDelivery.html#ab2a99e1ffffaf8b0594ce3dd81ebbca4", null ],

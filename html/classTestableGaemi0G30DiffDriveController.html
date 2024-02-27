@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="gaemi2.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">GAEMI0
-   &#160;<span id="projectnumber">0.11.0</span>
+   &#160;<span id="projectnumber">0.12.0-rc1</span>
    </div>
   </td>
  </tr>
@@ -105,14 +105,15 @@ Collaboration diagram for TestableGaemi0G30DiffDriveController:</div>
 <div class="dyncontent">
 <div class="center"><img src="classTestableGaemi0G30DiffDriveController__coll__graph.png" border="0" usemap="#TestableGaemi0G30DiffDriveController_coll__map" alt="Collaboration graph"/></div>
 <map name="TestableGaemi0G30DiffDriveController_coll__map" id="TestableGaemi0G30DiffDriveController_coll__map">
-<area shape="rect" title=" " alt="" coords="892,122,1104,163"/>
-<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController.html" title=" " alt="" coords="608,115,843,171"/>
-<area shape="rect" title=" " alt="" coords="260,5,404,32"/>
-<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1SpeedLimiter.html" title=" " alt="" coords="239,57,425,98"/>
-<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1Odometry.html" title=" " alt="" coords="247,122,417,163"/>
-<area shape="rect" href="structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1OdometryParams.html" title=" " alt="" coords="215,188,449,244"/>
-<area shape="rect" title=" " alt="" coords="5,203,64,229"/>
-<area shape="rect" href="structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1WheelParams.html" title=" " alt="" coords="215,268,449,324"/>
+<area shape="rect" title=" " alt="" coords="1139,122,1351,163"/>
+<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController.html" title=" " alt="" coords="855,115,1089,171"/>
+<area shape="rect" title=" " alt="" coords="507,5,651,32"/>
+<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1SpeedLimiter.html" title=" " alt="" coords="486,57,671,98"/>
+<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1Odometry.html" title=" " alt="" coords="493,122,664,163"/>
+<area shape="rect" href="classgaemi0__g30__diff__drive__controller_1_1RollingMeanAccumulator.html" title=" " alt="" coords="5,115,268,171"/>
+<area shape="rect" href="structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1OdometryParams.html" title=" " alt="" coords="461,188,696,244"/>
+<area shape="rect" title=" " alt="" coords="107,203,166,229"/>
+<area shape="rect" href="structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1WheelParams.html" title=" " alt="" coords="461,268,696,324"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -238,7 +239,10 @@ Additional Inherited Members</h2></td></tr>
 <tr class="memitem:a7b29ab66994d6c5f004c43726ec94be5 inherit pro_attribs_classgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController"><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1WheelParams.html">gaemi0_g30_diff_drive_controller::Gaemi0G30DiffDriveController::WheelParams</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController.html#a7b29ab66994d6c5f004c43726ec94be5">wheel_params_</a></td></tr>
 <tr class="separator:a7b29ab66994d6c5f004c43726ec94be5 inherit pro_attribs_classgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock">
+<p class="definition">Definition at line <a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html#l00039">39</a> of file <a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html">test_gaemi0_g30_diff_drive_controller.cpp</a>.</p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="ac820e863934bd6c41f3b8d3e56b6a77e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ac820e863934bd6c41f3b8d3e56b6a77e">&#9670;&nbsp;</a></span>getLastReceivedTwist()</h2>
 
@@ -261,6 +265,8 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html#l00044">44</a> of file <a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html">test_gaemi0_g30_diff_drive_controller.cpp</a>.</p>
 
 </div>
 </div>
@@ -301,10 +307,12 @@ Additional Inherited Members</h2></td></tr>
 <p>wait_for_twist block until a new twist is received. Requires that the executor is not spinned elsewhere between the message publication and the call to this function </p>
 <dl class="section return"><dt>Returns</dt><dd>true if new twist msg was received, false if timeout </dd></dl>
 
+<p class="definition">Definition at line <a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html#l00058">58</a> of file <a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html">test_gaemi0_g30_diff_drive_controller.cpp</a>.</p>
+
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>aimbot_base/gaemi0_g30_diff_drive_controller/test/test_gaemi0_g30_diff_drive_controller.cpp</li>
+<li>aimbot_base/gaemi0_g30_diff_drive_controller/test/<a class="el" href="test__gaemi0__g30__diff__drive__controller_8cpp_source.html">test_gaemi0_g30_diff_drive_controller.cpp</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

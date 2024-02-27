@@ -4,6 +4,11 @@ var classRosNode =
       [ "NORMAL", "classRosNode.html#a4f9418c7e89a2d439e049a6bb3ce0d8aa6353c3dfd8f4bb7851f360a1f74c8017", null ],
       [ "TIMEOUT", "classRosNode.html#a4f9418c7e89a2d439e049a6bb3ce0d8aa06f1c9f37c2fd94356889ebc161e98cc", null ]
     ] ],
+    [ "DialogType", "classRosNode.html#a17cb93063de1ff65bcb9f9cffed91879", [
+      [ "INPUT_TARGET", "classRosNode.html#a17cb93063de1ff65bcb9f9cffed91879ae78264550852cbf1033742c68734331c", null ],
+      [ "INPUT_ROOM", "classRosNode.html#a17cb93063de1ff65bcb9f9cffed91879a4b2b9f997cb0edd7f5f1462319e9f7f5", null ],
+      [ "INPUT_PHONE", "classRosNode.html#a17cb93063de1ff65bcb9f9cffed91879a935a04cb1f2ba8e398abed97a9de8667", null ]
+    ] ],
     [ "TaskInfoIndex", "classRosNode.html#a278138e5ac998be4eff1c151a610ac60", [
       [ "TASK_ID", "classRosNode.html#a278138e5ac998be4eff1c151a610ac60a5922086c330844f18c56411b08548682", null ],
       [ "TASK_TYPE", "classRosNode.html#a278138e5ac998be4eff1c151a610ac60a7214fd87392946b287d3cf856f89b315", null ],
@@ -17,7 +22,7 @@ var classRosNode =
     [ "add_gui_input_task", "classRosNode.html#a53e708087f626c4671f2843ced2fbba0", null ],
     [ "add_patrol_task", "classRosNode.html#a362ae21fcc3444e3f6429e0b4db6c1a3", null ],
     [ "add_task", "classRosNode.html#aa5adb6ac237c0943e1909610d0bea2f3", null ],
-    [ "add_transfer_task", "classRosNode.html#a0d0451ef949041f15002b76286165307", null ],
+    [ "add_transfer_task", "classRosNode.html#a8b1a8c02f0a93899da794313b943013b", null ],
     [ "battery_state_callback", "classRosNode.html#a65da7901723404bda7aacad2f4fd8618", null ],
     [ "battery_state_changed", "classRosNode.html#a1f7e3aed0dd1a071d5f75aad5840cdc5", null ],
     [ "boot_progress_callback", "classRosNode.html#ad637f661b092709eca24f9e4f6f7e22d", null ],
@@ -50,6 +55,7 @@ var classRosNode =
     [ "gui_page_changed", "classRosNode.html#a87f81d621cd5bfe0465730b06b9727f2", null ],
     [ "init_ros", "classRosNode.html#a03b15e45a2f30a60fc523835ea9f148d", null ],
     [ "is_lask_task_info_empty", "classRosNode.html#a8dad8bfef4e254ac307a7218bc914ce4", null ],
+    [ "is_registered_delivery_mode", "classRosNode.html#acca782bce34f0ca18c1328e6755472dc", null ],
     [ "languageChanged", "classRosNode.html#aca8e06022655317ace9dc3a97ff6df07", null ],
     [ "led_cmd_publish", "classRosNode.html#a28482cf7049a1e8d05aa944a6cbcccde", null ],
     [ "load_config", "classRosNode.html#ad354f5f970a55633c5a3415dc54cf452", null ],
@@ -73,6 +79,7 @@ var classRosNode =
     [ "set_lr_led_with_mode", "classRosNode.html#a952ab02a57eb06d52aa8daf7a08e2a0c", null ],
     [ "set_page_callback", "classRosNode.html#ae2edc97b5fa096d835d45735eecac57c", null ],
     [ "set_password_callback", "classRosNode.html#a25a2768e82ca27ff843f19bbd2cf836e", null ],
+    [ "set_registered_delivery_mode", "classRosNode.html#a536a08b6eca3ebc505b786bfd0d95372", null ],
     [ "set_volume2_callback", "classRosNode.html#a2609bf39eccef09b62f2a2f38bacc9d2", null ],
     [ "set_volume_callback", "classRosNode.html#add1384892e21f73fbb5ef9a09c3e0339", null ],
     [ "add_service_cli_", "classRosNode.html#ac01b8380941b9e254141de2587879d2b", null ],
@@ -84,6 +91,7 @@ var classRosNode =
     [ "cargo_goal_", "classRosNode.html#ab7e06502d6217a25970197b5b393b838", null ],
     [ "cargo_lock_cmd_pub_", "classRosNode.html#a5092da94cfbdadd86f4c4ce8da5f3e82", null ],
     [ "cargo_lock_state_", "classRosNode.html#acc608b1b7190b0208a6c69df3dbb0885", null ],
+    [ "cargo_phonenum_", "classRosNode.html#a87e483cab09015dc2279a748b87a2af5", null ],
     [ "cargo_type_", "classRosNode.html#a0c2e5f41a25255ad6c60fdfe99da8095", null ],
     [ "cargo_unlock_cmd_pub_", "classRosNode.html#a4b5cd9caccf3034765444ece8f070155", null ],
     [ "charging_status_", "classRosNode.html#abe64fd5cc156188926751b0af2741c6e", null ],
@@ -157,5 +165,6 @@ var classRosNode =
     [ "set_password_srv_", "classRosNode.html#aaa0b0ced9a92945754f1c424e4785e0d", null ],
     [ "set_volume2_srv_", "classRosNode.html#af6e559677bd3b73a314e03c07a21678c", null ],
     [ "set_volume_srv_", "classRosNode.html#a55d388736136eacc8bef7205a0c82c0e", null ],
-    [ "site_name_", "classRosNode.html#a37cf017d387193cc22dfe2040bbb6d02", null ]
+    [ "site_name_", "classRosNode.html#a37cf017d387193cc22dfe2040bbb6d02", null ],
+    [ "use_registered_delivery_", "classRosNode.html#ad57999e95eb3089d7a31656a51fbdfaa", null ]
 ];

@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structoption__sequence.html" title=" " alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node1" href="$classOdomFusion_1_1OdomFilterBase.html" title=" " alt="" coords="5,35,220,61"/>
+<area shape="rect" id="node2" href="$classOdomFusion_1_1KalmanFilter2D.html" title=" " alt="" coords="276,5,487,32"/>
+<area shape="rect" id="node3" href="$classOdomFusion_1_1WeightedAverageFilter.html" title=" " alt="" coords="268,57,495,98"/>
 </map>

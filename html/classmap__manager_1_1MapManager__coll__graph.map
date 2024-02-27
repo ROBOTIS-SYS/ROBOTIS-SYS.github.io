@@ -1,7 +1,7 @@
 <map id="map_manager::MapManager" name="map_manager::MapManager">
-<area shape="rect" id="node1" title=" " alt="" coords="687,205,896,232"/>
-<area shape="rect" id="node2" title=" " alt="" coords="267,5,489,32"/>
-<area shape="rect" id="node3" href="$structmap__manager_1_1AimbotMotionState.html" title="AimbotMotionState ///." alt="" coords="270,257,486,298"/>
-<area shape="rect" id="node4" title=" " alt="" coords="5,268,64,295"/>
-<area shape="rect" id="node5" href="$structmap__manager_1_1DockingStation.html" title="DockingStation ///." alt="" coords="267,323,489,349"/>
+<area shape="rect" id="node1" title="맵을 관리하는 클래스입니다." alt="" coords="145,333,354,360"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,191,120,218"/>
+<area shape="rect" id="node3" href="$structmap__manager_1_1AimbotMotionState.html" title="Aimbot의 움직임 상태를 담는 구조체입니다." alt="" coords="344,184,560,225"/>
+<area shape="rect" id="node4" title=" " alt="" coords="423,5,481,32"/>
+<area shape="rect" id="node5" href="$structmap__manager_1_1DockingStation.html" title="도킹 스테이션의 정보를 담는 구조체입니다." alt="" coords="585,191,807,218"/>
 </map>

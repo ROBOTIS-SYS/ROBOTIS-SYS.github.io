@@ -1,7 +1,11 @@
 <map id="PageArrived::setOption" name="PageArrived::setOption">
-<area shape="rect" id="node1" title=" " alt="" coords="5,42,177,69"/>
-<area shape="rect" id="node2" href="$classPageArrived.html#a5487e9eff3cdc584f0ce27cf50792dff" title=" " alt="" coords="231,5,415,47"/>
-<area shape="rect" id="node5" href="$classPageArrived.html#a39b1bf4f708ee9c06edf921146dd912e" title=" " alt="" coords="225,71,420,98"/>
-<area shape="rect" id="node3" href="$classPageArrived.html#a82657059a787806924e03b8e35e0f33a" title=" " alt="" coords="468,5,611,47"/>
-<area shape="rect" id="node4" href="$classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="659,5,827,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,177,177,203"/>
+<area shape="rect" id="node2" href="$classPageArrived.html#ae5415cf2a3e164d4b2b50f085265ca29" title=" " alt="" coords="251,5,398,47"/>
+<area shape="rect" id="node3" href="$classPageArrived.html#a9a0e21c3656c2b58d7c7b7cbe33e3653" title=" " alt="" coords="225,71,424,112"/>
+<area shape="rect" id="node4" href="$classPageArrived.html#a3a3a9acfc27bffe04c9208fbbd9d7c66" title=" " alt="" coords="235,136,414,177"/>
+<area shape="rect" id="node5" href="$classPageArrived.html#a5487e9eff3cdc584f0ce27cf50792dff" title=" " alt="" coords="233,201,417,243"/>
+<area shape="rect" id="node8" href="$classPageArrived.html#aebce541cef9f937309e22cf0f1f42c90" title=" " alt="" coords="239,267,411,308"/>
+<area shape="rect" id="node9" href="$classPageArrived.html#a39b1bf4f708ee9c06edf921146dd912e" title=" " alt="" coords="227,333,422,359"/>
+<area shape="rect" id="node6" href="$classPageArrived.html#a82657059a787806924e03b8e35e0f33a" title=" " alt="" coords="472,201,615,243"/>
+<area shape="rect" id="node7" href="$classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="663,201,831,243"/>
 </map>

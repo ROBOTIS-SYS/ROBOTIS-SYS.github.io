@@ -1,4 +1,4 @@
 <map id="map_manager::DockingStation" name="map_manager::DockingStation">
-<area shape="rect" id="node1" title="DockingStation ///." alt="" coords="5,109,228,136"/>
+<area shape="rect" id="node1" title="도킹 스테이션의 정보를 담는 구조체입니다." alt="" coords="5,109,228,136"/>
 <area shape="rect" id="node2" title=" " alt="" coords="87,5,146,32"/>
 </map>

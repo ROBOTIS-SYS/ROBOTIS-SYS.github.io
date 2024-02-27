@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="gaemi2.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">GAEMI0
-   &#160;<span id="projectnumber">0.11.0</span>
+   &#160;<span id="projectnumber">0.12.0-rc1</span>
    </div>
   </td>
  </tr>
@@ -91,7 +91,7 @@ $(document).ready(function(){initNavTree('structmap__manager_1_1AimbotMotionStat
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="structmap__manager_1_1AimbotMotionState.html" title="AimbotMotionState ///.">AimbotMotionState</a> ///.  
+<p>Aimbot의 움직임 상태를 담는 구조체입니다.  
  <a href="structmap__manager_1_1AimbotMotionState.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="common_8hpp_source.html">common.hpp</a>&gt;</code></p>
@@ -100,7 +100,7 @@ Collaboration diagram for map_manager::AimbotMotionState:</div>
 <div class="dyncontent">
 <div class="center"><img src="structmap__manager_1_1AimbotMotionState__coll__graph.png" border="0" usemap="#map__manager_1_1AimbotMotionState_coll__map" alt="Collaboration graph"/></div>
 <map name="map__manager_1_1AimbotMotionState_coll__map" id="map__manager_1_1AimbotMotionState_coll__map">
-<area shape="rect" title="AimbotMotionState ///." alt="" coords="5,139,221,180"/>
+<area shape="rect" title="Aimbot의 움직임 상태를 담는 구조체입니다." alt="" coords="5,139,221,180"/>
 <area shape="rect" title=" " alt="" coords="84,5,143,32"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
@@ -108,20 +108,28 @@ Collaboration diagram for map_manager::AimbotMotionState:</div>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
 <tr class="memitem:afc1fd1bca09f4df6cb0f59dc36dd351f"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmap__manager_1_1AimbotMotionState.html#afc1fd1bca09f4df6cb0f59dc36dd351f">atm_floor_</a></td></tr>
+<tr class="memdesc:afc1fd1bca09f4df6cb0f59dc36dd351f"><td class="mdescLeft">&#160;</td><td class="mdescRight">대기압 층  <a href="structmap__manager_1_1AimbotMotionState.html#afc1fd1bca09f4df6cb0f59dc36dd351f">More...</a><br /></td></tr>
 <tr class="separator:afc1fd1bca09f4df6cb0f59dc36dd351f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac2c56020cad267a628141fc69c73180a"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmap__manager_1_1AimbotMotionState.html#ac2c56020cad267a628141fc69c73180a">floor_</a></td></tr>
+<tr class="memdesc:ac2c56020cad267a628141fc69c73180a"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 층  <a href="structmap__manager_1_1AimbotMotionState.html#ac2c56020cad267a628141fc69c73180a">More...</a><br /></td></tr>
 <tr class="separator:ac2c56020cad267a628141fc69c73180a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9977f778ffcae79ca443e1b5cc75bf89"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmap__manager_1_1AimbotMotionState.html#a9977f778ffcae79ca443e1b5cc75bf89">map_current_frame_id_</a></td></tr>
+<tr class="memdesc:a9977f778ffcae79ca443e1b5cc75bf89"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 맵의 프레임 ID  <a href="structmap__manager_1_1AimbotMotionState.html#a9977f778ffcae79ca443e1b5cc75bf89">More...</a><br /></td></tr>
 <tr class="separator:a9977f778ffcae79ca443e1b5cc75bf89"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3fa894f8f09fb6d4e3cbf484bd2048d9"><td class="memItemLeft" align="right" valign="top">geometry_msgs::msg::Pose2D&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmap__manager_1_1AimbotMotionState.html#a3fa894f8f09fb6d4e3cbf484bd2048d9">pose_2d_from_map_current_</a></td></tr>
+<tr class="memdesc:a3fa894f8f09fb6d4e3cbf484bd2048d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 맵에서의 2D 위치  <a href="structmap__manager_1_1AimbotMotionState.html#a3fa894f8f09fb6d4e3cbf484bd2048d9">More...</a><br /></td></tr>
 <tr class="separator:a3fa894f8f09fb6d4e3cbf484bd2048d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af59ff7bf9359a2adb81e19c7abadc5cb"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmap__manager_1_1AimbotMotionState.html#af59ff7bf9359a2adb81e19c7abadc5cb">sector_</a></td></tr>
+<tr class="memdesc:af59ff7bf9359a2adb81e19c7abadc5cb"><td class="mdescLeft">&#160;</td><td class="mdescRight">현재 섹터  <a href="structmap__manager_1_1AimbotMotionState.html#af59ff7bf9359a2adb81e19c7abadc5cb">More...</a><br /></td></tr>
 <tr class="separator:af59ff7bf9359a2adb81e19c7abadc5cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a16a596b50b6aaa332a0ff01a832015c9"><td class="memItemLeft" align="right" valign="top">rclcpp::Time&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structmap__manager_1_1AimbotMotionState.html#a16a596b50b6aaa332a0ff01a832015c9">stamp_</a></td></tr>
+<tr class="memdesc:a16a596b50b6aaa332a0ff01a832015c9"><td class="mdescLeft">&#160;</td><td class="mdescRight">시간 정보  <a href="structmap__manager_1_1AimbotMotionState.html#a16a596b50b6aaa332a0ff01a832015c9">More...</a><br /></td></tr>
 <tr class="separator:a16a596b50b6aaa332a0ff01a832015c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p><a class="el" href="structmap__manager_1_1AimbotMotionState.html" title="AimbotMotionState ///.">AimbotMotionState</a> ///. </p>
+<div class="textblock"><p>Aimbot의 움직임 상태를 담는 구조체입니다. </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00070">70</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
 </div><h2 class="groupheader">Member Data Documentation</h2>
 <a id="afc1fd1bca09f4df6cb0f59dc36dd351f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#afc1fd1bca09f4df6cb0f59dc36dd351f">&#9670;&nbsp;</a></span>atm_floor_</h2>
@@ -134,6 +142,10 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>대기압 층 </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00077">77</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
 
 </div>
 </div>
@@ -149,6 +161,10 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>현재 층 </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00075">75</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
+
 </div>
 </div>
 <a id="a9977f778ffcae79ca443e1b5cc75bf89"></a>
@@ -162,6 +178,10 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>현재 맵의 프레임 ID </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00073">73</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
 
 </div>
 </div>
@@ -177,6 +197,10 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>현재 맵에서의 2D 위치 </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00074">74</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
+
 </div>
 </div>
 <a id="af59ff7bf9359a2adb81e19c7abadc5cb"></a>
@@ -191,6 +215,10 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
+<p>현재 섹터 </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00076">76</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
+
 </div>
 </div>
 <a id="a16a596b50b6aaa332a0ff01a832015c9"></a>
@@ -204,6 +232,10 @@ Public Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>시간 정보 </p>
+
+<p class="definition">Definition at line <a class="el" href="common_8hpp_source.html#l00072">72</a> of file <a class="el" href="common_8hpp_source.html">common.hpp</a>.</p>
 
 </div>
 </div>

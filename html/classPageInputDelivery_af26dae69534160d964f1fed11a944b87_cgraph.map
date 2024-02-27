@@ -1,4 +1,7 @@
 <map id="PageInputDelivery::on_btnNext_clicked" name="PageInputDelivery::on_btnNext_clicked">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,155,47"/>
-<area shape="rect" id="node2" href="$classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="203,5,371,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,155,145"/>
+<area shape="rect" id="node2" href="$classPageInputDelivery.html#a29078303ce772c4591f0f0556b395797" title=" " alt="" coords="208,5,380,47"/>
+<area shape="rect" id="node3" href="$classPageInputDelivery.html#a5756d275039b26001fcc7c7fc93dc3f8" title=" " alt="" coords="203,71,385,112"/>
+<area shape="rect" id="node4" href="$classPageInputDelivery.html#aea7dcb966ace8dd8ee84f5beceffeea6" title=" " alt="" coords="219,136,369,177"/>
+<area shape="rect" id="node5" href="$classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="210,201,378,243"/>
 </map>

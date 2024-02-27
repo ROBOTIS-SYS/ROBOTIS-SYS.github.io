@@ -1,10 +1,14 @@
 <map id="PageArrived::signalEnable" name="PageArrived::signalEnable">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,197,83"/>
-<area shape="rect" id="node2" href="$classPageArrived.html#aefbfad238580cef658d9d0face654f97" title=" " alt="" coords="245,5,456,32"/>
-<area shape="rect" id="node3" href="$classPageArrived.html#aa7ace6714721c7144c79f91041083267" title=" " alt="" coords="250,56,451,83"/>
-<area shape="rect" id="node4" href="$classPageArrived.html#a4be38174d2fd98d684e89ce0768eb2d4" title=" " alt="" coords="265,107,437,133"/>
-<area shape="rect" id="node5" href="$classPageArrived.html#a5487e9eff3cdc584f0ce27cf50792dff" title=" " alt="" coords="509,70,693,111"/>
-<area shape="rect" id="node8" href="$classPageArrived.html#a39b1bf4f708ee9c06edf921146dd912e" title=" " alt="" coords="504,136,699,163"/>
-<area shape="rect" id="node6" href="$classPageArrived.html#a82657059a787806924e03b8e35e0f33a" title=" " alt="" coords="747,70,889,111"/>
-<area shape="rect" id="node7" href="$classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="937,70,1105,111"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,126,197,153"/>
+<area shape="rect" id="node2" href="$classPageArrived.html#aefbfad238580cef658d9d0face654f97" title=" " alt="" coords="245,75,456,102"/>
+<area shape="rect" id="node3" href="$classPageArrived.html#aa7ace6714721c7144c79f91041083267" title=" " alt="" coords="250,126,451,153"/>
+<area shape="rect" id="node4" href="$classPageArrived.html#a4be38174d2fd98d684e89ce0768eb2d4" title=" " alt="" coords="265,177,437,203"/>
+<area shape="rect" id="node5" href="$classPageArrived.html#ae5415cf2a3e164d4b2b50f085265ca29" title=" " alt="" coords="530,5,677,47"/>
+<area shape="rect" id="node6" href="$classPageArrived.html#a9a0e21c3656c2b58d7c7b7cbe33e3653" title=" " alt="" coords="504,71,703,112"/>
+<area shape="rect" id="node7" href="$classPageArrived.html#a3a3a9acfc27bffe04c9208fbbd9d7c66" title=" " alt="" coords="514,136,693,177"/>
+<area shape="rect" id="node8" href="$classPageArrived.html#a5487e9eff3cdc584f0ce27cf50792dff" title=" " alt="" coords="511,201,695,243"/>
+<area shape="rect" id="node11" href="$classPageArrived.html#aebce541cef9f937309e22cf0f1f42c90" title=" " alt="" coords="517,267,689,308"/>
+<area shape="rect" id="node12" href="$classPageArrived.html#a39b1bf4f708ee9c06edf921146dd912e" title=" " alt="" coords="506,333,701,359"/>
+<area shape="rect" id="node9" href="$classPageArrived.html#a82657059a787806924e03b8e35e0f33a" title=" " alt="" coords="751,201,893,243"/>
+<area shape="rect" id="node10" href="$classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937" title=" " alt="" coords="941,201,1109,243"/>
 </map>

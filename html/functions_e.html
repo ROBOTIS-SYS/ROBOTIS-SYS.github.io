@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="gaemi2.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">GAEMI0
-   &#160;<span id="projectnumber">0.11.0</span>
+   &#160;<span id="projectnumber">0.12.0-rc1</span>
    </div>
   </td>
  </tr>
@@ -118,8 +118,21 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>EKFFusion()
 : <a class="el" href="classEKFFusion_1_1EKFFusion.html#a7c5ce647d921a3d285762c345a1d4650">EKFFusion::EKFFusion</a>
 </li>
-<li>el_id
-: <a class="el" href="structTkeControllerNode_1_1RobotData.html#aee79c6844eb63ff2eb5606317cc74e0a">TkeControllerNode::RobotData</a>
+<li>el_group_id_
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a0c25711bdbebdc4326291f4cc240ada6">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
+<li>el_id()
+: <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#a0bda19681d34eb1e8c1b33d2b084e99f">m2m_controller.ev_status.EvStatus</a>
+, <a class="el" href="structTkeControllerNode_1_1RobotData.html#aee79c6844eb63ff2eb5606317cc74e0a">TkeControllerNode::RobotData</a>
+</li>
+<li>el_id_
+: <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#a97c0275905da3515a19e5d4d89c5ff90">m2m_controller.ev_status.EvStatus</a>
+</li>
+<li>el_id_to_ev_num()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#abff966392b35c6deb5963decee209106">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
+<li>EL_TIMEOUT
+: <a class="el" href="classm2m__controller_1_1enums_1_1ExeptionCode.html#a9e543b4e5ced511a0e9e436876e7f86d">m2m_controller.enums.ExeptionCode</a>
 </li>
 <li>elapsed_time()
 : <a class="el" href="classantis__nav__util_1_1ExecutionTimer.html#a7ec31add8bd469ddfb1f2b6bb8266ab8">antis_nav_util::ExecutionTimer</a>
@@ -141,6 +154,9 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>elId_event_push_dict
 : <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a3d0465a25827077a961eb3032320b29a">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#a7c441c4e5fafd19ab654bc4c98fd87c4">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
+</li>
+<li>elsa_id_
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a8c0540a439a50fbb48f9e52a1e165a0b">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
 </li>
 <li>emplace_back()
 : <a class="el" href="structPose2PlotViz2D.html#a9484b8f75f0cdb7a0977ebf43e6ab41d">Pose2PlotViz2D</a>
@@ -188,6 +204,7 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 </li>
 <li>enabled_
 : <a class="el" href="classantis__nav__costmap__2d_1_1Layer.html#adc601bc24afb6a4fd51c79609d94c050">antis_nav_costmap_2d::Layer</a>
+, <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#ac62d0e4c0cbcfe3e5fc2dcdf328c9228">m2m_controller.ev_status.EvStatus</a>
 </li>
 <li>end()
 : <a class="el" href="classantis__nav__util_1_1ExecutionTimer.html#ad3ab2150ab7168894d3e22635fd6184e">antis_nav_util::ExecutionTimer</a>
@@ -291,8 +308,11 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>error_thres_
 : <a class="el" href="classdepth__accuracy_1_1DepthAccuracy.html#abf88e35b31a1002f38569c9f8590a471">depth_accuracy::DepthAccuracy</a>
 </li>
-<li>estimate_floor_by_atm_pressure()
-: <a class="el" href="classmap__manager_1_1MapManager.html#a32cda5416fa4bd867de82f79604cc1cb">map_manager::MapManager</a>
+<li>estimate_current_floor()
+: <a class="el" href="classmap__manager_1_1FloorEstimationByAtmPressure.html#a71874130176b7107755f5df7943ebcc7">map_manager::FloorEstimationByAtmPressure</a>
+</li>
+<li>estimate_floor_based_on_current_altitude()
+: <a class="el" href="classmap__manager_1_1FloorEstimationByAtmPressure.html#a10b0ab0fa0ad03064597b5d8e61cdd74">map_manager::FloorEstimationByAtmPressure</a>
 </li>
 <li>estop_
 : <a class="el" href="classantis__nav__amcl_1_1AmclNode.html#a1a216806378bafb96d88d3b770e66698">antis_nav_amcl::AmclNode</a>
@@ -369,9 +389,13 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>ev_center_vector_
 : <a class="el" href="classaimbot_1_1EVDoorDetection.html#aa664b48395a53e08ca35e06da8de6eb6">aimbot::EVDoorDetection</a>
 </li>
+<li>ev_config_
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a17bc908b9a143707f23a667abc33ea11">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
 <li>ev_controller_init_callback()
 : <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#abea157e4015d980990fde8956384483e">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#a2922294ddc35d9b512f002509c8d8bf3">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
+, <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#ab7cccac3b68c4e5a240ca87815499cde">m2m_controller.m2m_controller_node.M2MController</a>
 , <a class="el" href="classTkeControllerNode.html#a89eefd154417173c35df693e28014778">TkeControllerNode</a>
 </li>
 <li>ev_detected_btn_arr_callback()
@@ -407,11 +431,11 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>ev_floor_list_
 : <a class="el" href="classEVState.html#a329abb7500a21fa499efbe9765a03444">EVState</a>
 </li>
-<li>ev_id()
-: <a class="el" href="classEvInfo.html#a76dc409db3b5db928fd023464e8074c8">EvInfo</a>
-</li>
 <li>EV_ID
 : <a class="el" href="classEvInfo.html#ac035dcfb379d9cea015223cfa9e8f3cca418ca79ba16f7f36cc89a6cee558bad8">EvInfo</a>
+</li>
+<li>ev_id()
+: <a class="el" href="classEvInfo.html#a76dc409db3b5db928fd023464e8074c8">EvInfo</a>
 </li>
 <li>ev_id_
 : <a class="el" href="classEvInfo.html#aaf6ff8d4be75f009b172f1b4a3f9e4be">EvInfo</a>
@@ -428,6 +452,12 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>ev_num_
 : <a class="el" href="classEVState.html#a6fcd06d71d6b616f3c242e9563f86a50">EVState</a>
 , <a class="el" href="classTkeControllerNode.html#a1e03ab82c0dc607663eba79139a11ca4">TkeControllerNode</a>
+</li>
+<li>ev_num_to_el_id()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#af6dda00ac6c1ed9729a67ec41b97f4ed">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
+<li>ev_num_to_group_id()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a46fa850d4d035641742a72313e04caaf">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
 </li>
 <li>ev_object_aceepted_callback()
 : <a class="el" href="classmap__manager_1_1MapManager.html#a1e1133b56d40589a30c3803dbbd1e240">map_manager::MapManager</a>
@@ -455,6 +485,9 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 </li>
 <li>ev_robot_sequence_sub_
 : <a class="el" href="classtask__manager_1_1WaitEVRobotServiceSequenceAction.html#af295aa7ed435854ea13819c707d9e93b">task_manager::WaitEVRobotServiceSequenceAction</a>
+</li>
+<li>ev_status_
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a303652b6d0f80cc3f9495b266d159d23">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
 </li>
 <li>EV_STATUS_1
 : <a class="el" href="classEvInfo.html#ac035dcfb379d9cea015223cfa9e8f3ccac50bdc507f8c90475651cfe9a3518e45">EvInfo</a>
@@ -516,6 +549,12 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>EveDiffDriveController()
 : <a class="el" href="classeve__diff__drive__controller_1_1EveDiffDriveController.html#a528e306387f9dcf14c9de473634ab1f8">eve_diff_drive_controller::EveDiffDriveController</a>
 </li>
+<li>event_handler()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a9e461981971bf15d4e2ac8805b15f655">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
+<li>event_timer_
+: <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#ad806aef718a6b0cc64938ea369bf3a1d">m2m_controller.m2m_controller_node.M2MController</a>
+</li>
 <li>eventFilter()
 : <a class="el" href="classPageArrivedDocent.html#ae2dcbf63c4f8bdd4f5c7fab3e5187a68">PageArrivedDocent</a>
 , <a class="el" href="classPageCallWaiting.html#a5de6bde0e47d7bc3e33029e7efce68bd">PageCallWaiting</a>
@@ -538,7 +577,7 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 : <a class="el" href="classEvInfo.html#ac035dcfb379d9cea015223cfa9e8f3cc">EvInfo</a>
 </li>
 <li>EVRobotService()
-: <a class="el" href="classEVRobotService.html#a82e88a8806fc53c4c1eee864b739747f">EVRobotService</a>
+: <a class="el" href="classEVRobotService.html#a139f5dd742e8e019bedd9482d37e43f5">EVRobotService</a>
 </li>
 <li>EVState()
 : <a class="el" href="classEVState.html#a438206099317721db45554f41bf09717">EVState</a>
@@ -549,6 +588,9 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>EVStatusMsg
 : <a class="el" href="classEVRobotService.html#ad957992ce8c9c43e6b89e421bbcbacb6">EVRobotService</a>
 , <a class="el" href="classEVState.html#a3905ae415591cd95128e01457ce44368">EVState</a>
+</li>
+<li>EXCEEDED_MAX_ATTEMPS
+: <a class="el" href="classDialogArrivedPassNumber.html#aaa183f829488f681ffa62c1dc8b084bcab658bb2b874d931e704a3557eb115458">DialogArrivedPassNumber</a>
 </li>
 <li>Exclamation
 : <a class="el" href="classXml_1_1Inspector.html#a78f2c9b962f0e470a6c74dee56e35199">Xml::Inspector&lt; TCharactersWriter &gt;</a>
@@ -616,8 +658,14 @@ $(document).ready(function(){initNavTree('functions_e.html',''); initResizable()
 <li>EXIT_FAIL
 : <a class="el" href="classTkeControllerNode.html#a0d79b0ec7dd63be49a29f0a9730a1d00aad7336a81224c59403a75499d884a3a1">TkeControllerNode</a>
 </li>
+<li>exit_in_ev()
+: <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#aa493e9dab2ad0368517eea81be327de1">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
+</li>
 <li>EXITING_EV
 : <a class="el" href="classTkeControllerNode.html#a2c91ea3b01017e67d406575956c16ccda36d67fd6a5cd970f4b4a85ccf65cebe5">TkeControllerNode</a>
+</li>
+<li>exiting_in_ev()
+: <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a36e3d164113f8efba9044487731dfa64">m2m_controller.m2m_controller_node.M2MController</a>
 </li>
 <li>expand_mode_
 : <a class="el" href="classtask__manager_1_1FreespaceDetectorTaskAction.html#ae2ec94920128792b4eb050c2a7450e02">task_manager::FreespaceDetectorTaskAction</a>

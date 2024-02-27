@@ -1,4 +1,7 @@
 <map id="PageInputDeliverySwingDoor::setOption" name="PageInputDeliverySwingDoor::setOption">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,217,47"/>
-<area shape="rect" id="node2" href="$classPageInputDeliverySwingDoor.html#a97b2456b5bb9dc55458e21d2d2470423" title=" " alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,217,112"/>
+<area shape="rect" id="node2" href="$classPageInputDeliverySwingDoor.html#a078286d4949dbefb3ad3b50e8067cfd6" title=" " alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node3" href="$classPageInputDeliverySwingDoor.html#ab1e418a3d99443847f12b76ce97cf584" title=" " alt="" coords="265,71,477,112"/>
+<area shape="rect" id="node4" href="$classPageInputDeliverySwingDoor.html#abe93dccdc4f27bc8e9edcf201c149066" title=" " alt="" coords="265,136,477,177"/>
+<area shape="rect" id="node5" href="$classPageInputDeliverySwingDoor.html#a05e764e7954bbfee4a90b6bc833291c1" title=" " alt="" coords="525,136,737,177"/>
 </map>

@@ -1,4 +1,4 @@
 <map id="map_manager::MapManager::load_sector_data" name="map_manager::MapManager::load_sector_data">
 <area shape="rect" id="node1" title=" " alt="" coords="5,5,215,47"/>
-<area shape="rect" id="node2" href="$classmap__manager_1_1DividingLines.html#a5c811e155a3e5affd155b29dbd5b82e0" title=" " alt="" coords="263,5,475,47"/>
+<area shape="rect" id="node2" href="$classmap__manager_1_1DividingLines.html#a5c811e155a3e5affd155b29dbd5b82e0" title="분할선을 추가하는 메서드입니다." alt="" coords="263,5,475,47"/>
 </map>

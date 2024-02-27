@@ -1,4 +1,9 @@
 <map id="PageInputDeliverySwingDoor::on_dest_btn_clicked" name="PageInputDeliverySwingDoor::on_dest_btn_clicked">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,217,47"/>
-<area shape="rect" id="node2" href="$classPageInputDeliverySwingDoor.html#a97b2456b5bb9dc55458e21d2d2470423" title=" " alt="" coords="265,5,477,47"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,217,145"/>
+<area shape="rect" id="node2" href="$classPageInputDeliverySwingDoor.html#a1a131a8d2212ec0039d225513dc0d79e" title=" " alt="" coords="265,5,496,47"/>
+<area shape="rect" id="node4" href="$classPageInputDeliverySwingDoor.html#a9711b830876f3e842fd2bed19b9f12c8" title=" " alt="" coords="269,71,493,112"/>
+<area shape="rect" id="node5" href="$classPageInputDeliverySwingDoor.html#a1c4ded1462ae21293ef7d21669a4e1f2" title=" " alt="" coords="273,136,489,177"/>
+<area shape="rect" id="node6" href="$classPageInputDeliverySwingDoor.html#abe93dccdc4f27bc8e9edcf201c149066" title=" " alt="" coords="275,201,487,243"/>
+<area shape="rect" id="node3" href="$classPageInputDeliverySwingDoor.html#a157ff531a5a0ef7be7786d22734b35cf" title=" " alt="" coords="544,71,756,112"/>
+<area shape="rect" id="node7" href="$classPageInputDeliverySwingDoor.html#a05e764e7954bbfee4a90b6bc833291c1" title=" " alt="" coords="544,201,756,243"/>
 </map>
