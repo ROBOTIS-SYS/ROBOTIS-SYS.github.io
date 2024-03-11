@@ -1,0 +1,13 @@
+<map id="cliff_detector::CliffDetector::CliffDetector" name="cliff_detector::CliffDetector::CliffDetector">
+<area shape="rect" id="node1" title=" " alt="" coords="5,169,204,211"/>
+<area shape="rect" id="node2" href="$classperception__base_1_1PerceptionBase.html#a71bc42f7c5537292b187664bd8b8f04e" title=" " alt="" coords="252,5,499,47"/>
+<area shape="rect" id="node3" href="$classperception__base_1_1DetectorBase.html#a4cace0ffe7d64f7d41f012c74804866d" title=" " alt="" coords="266,71,485,112"/>
+<area shape="rect" id="node4" href="$classperception__base_1_1DetectorBase.html#a73f58c7699fcc6c3954c8c0c5010b970" title=" " alt="" coords="269,136,481,177"/>
+<area shape="rect" id="node5" href="$classperception__base_1_1DetectorBase.html#a05913d956890e9e3184c5fdb66354f6c" title=" " alt="" coords="263,201,488,243"/>
+<area shape="rect" id="node6" href="$classcliff__detector_1_1CliffDetector.html#a769c9d5fe9e955dca9b484d6783fea23" title=" " alt="" coords="276,267,475,308"/>
+<area shape="rect" id="node10" href="$classcliff__detector_1_1CliffDetector.html#a5b8c0cfab8419228155abb07a152b410" title=" " alt="" coords="276,348,475,389"/>
+<area shape="rect" id="node7" href="$classCameraGeometry.html#ab0cc1a92b02bdcedb9b2d384b586591d" title="카메라의 영상 크기를 반환" alt="" coords="567,184,733,225"/>
+<area shape="rect" id="node8" href="$classCameraGeometry.html#a1099e99bb9b7a8d5ff6da73fa47d78f8" title="클래스의 인스턴스 주소를 반환" alt="" coords="567,249,733,291"/>
+<area shape="rect" id="node9" href="$classperception__base_1_1PerceptionBase.html#a05fa2487042d806955533abc034a1b0a" title=" " alt="" coords="547,315,753,356"/>
+<area shape="rect" id="node11" href="$classperception__base_1_1DetectorBase.html#a578d71a40698656a04416c19f7e9d63a" title=" " alt="" coords="553,380,747,421"/>
+</map>

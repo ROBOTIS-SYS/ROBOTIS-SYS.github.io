@@ -1,0 +1,6 @@
+<map id="ml_model::OcrDetection::initialize" name="ml_model::OcrDetection::initialize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,185,112"/>
+<area shape="rect" id="node2" href="$classCameraGeometry.html#ab0cc1a92b02bdcedb9b2d384b586591d" title="카메라의 영상 크기를 반환" alt="" coords="240,5,407,47"/>
+<area shape="rect" id="node3" href="$classCameraGeometry.html#a1099e99bb9b7a8d5ff6da73fa47d78f8" title="클래스의 인스턴스 주소를 반환" alt="" coords="240,71,407,112"/>
+<area shape="rect" id="node4" href="$classml__model_1_1OcrDetection.html#a8b87034d34f1693666c8405041b337ff" title=" " alt="" coords="233,136,413,177"/>
+</map>

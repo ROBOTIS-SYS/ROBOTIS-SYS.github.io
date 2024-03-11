@@ -1,6 +1,0 @@
-<map id="control_gui::RosNode::ros_shutdown" name="control_gui::RosNode::ros_shutdown">
-<area shape="rect" id="node1" title=" " alt="" coords="240,71,400,112"/>
-<area shape="rect" id="node2" href="$classcontrol__gui_1_1MainWindow.html#aa981325a95771a3a9698dba1e614251f" title=" " alt="" coords="5,5,192,47"/>
-<area shape="rect" id="node3" href="$classcontrol__gui_1_1RosNode.html#a14b20725a6f6d3b673034aea005f4109" title=" " alt="" coords="19,71,179,112"/>
-<area shape="rect" id="node4" href="$classcontrol__gui_1_1RosNode.html#a6d6fb27e51bc1ae6c5f82726badeaa0d" title=" " alt="" coords="19,136,179,177"/>
-</map>

@@ -44,5 +44,6 @@ var classaimbot_1_1DoorDetection =
     [ "tf_listener_", "classaimbot_1_1DoorDetection.html#aefdc85a14aba7bfc58cf4ddb921621b7", null ],
     [ "threshold_", "classaimbot_1_1DoorDetection.html#a66e1d08a1db2c9f0912ba07d7c1a9c67", null ],
     [ "transformation_mat_", "classaimbot_1_1DoorDetection.html#a72a73b97300fb4c15326bfd556ecfbe0", null ],
+    [ "use_center_", "classaimbot_1_1DoorDetection.html#aaede785dc1814c1f1deb1f6fac6de029", null ],
     [ "zone_angle_", "classaimbot_1_1DoorDetection.html#aebd7269e0bdb269a1c80e04b3030feaf", null ]
 ];

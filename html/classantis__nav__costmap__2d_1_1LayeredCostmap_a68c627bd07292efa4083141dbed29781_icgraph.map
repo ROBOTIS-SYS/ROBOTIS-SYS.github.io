@@ -1,8 +1,0 @@
-<map id="antis_nav_costmap_2d::LayeredCostmap::resizeMap" name="antis_nav_costmap_2d::LayeredCostmap::resizeMap">
-<area shape="rect" id="node1" title=" " alt="" coords="761,39,976,80"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a0756dd21b8ee3d1edd8a68b7603b5839" title=" " alt="" coords="488,5,713,47"/>
-<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#aeccdc3cbf3e9f031a484a2d966f1f705" title=" " alt="" coords="506,71,695,112"/>
-<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#a987dd4c8eee16787db4b2918a49974cf" title="Callback to update the costmap&#39;s map from the map_server." alt="" coords="239,37,437,79"/>
-<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#aaf8fee08fb3b86bc66f7a2ed15fe2985" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="236,103,440,144"/>
-<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1StaticLayer.html#a1855761df7c1abac51c8c744fef90f7b" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="5,37,188,79"/>
-</map>

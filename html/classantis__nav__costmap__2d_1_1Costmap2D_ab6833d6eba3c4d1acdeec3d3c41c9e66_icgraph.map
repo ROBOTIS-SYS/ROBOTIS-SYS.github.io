@@ -1,5 +1,0 @@
-<map id="antis_nav_costmap_2d::Costmap2D::getCharMap" name="antis_nav_costmap_2d::Costmap2D::getCharMap">
-<area shape="rect" id="node1" title="Will return a pointer to the underlying unsigned char array used as the costmap." alt="" coords="293,39,487,80"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1RangeSensorLayer.html#a44930b0e7fd9c65ec0c87a71845abdd6" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="5,5,245,47"/>
-<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#add1a17ff163b12d7a86f5caed5281fc6" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="21,71,230,112"/>
-</map>

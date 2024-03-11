@@ -1,4 +1,0 @@
-<map id="antis_nav_controller_server::SimpleProgressChecker::reset_baseline_pose" name="antis_nav_controller_server::SimpleProgressChecker::reset_baseline_pose">
-<area shape="rect" id="node1" title="Resets baseline pose with the current pose of the robot." alt="" coords="284,5,515,61"/>
-<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1SimpleProgressChecker.html#aa93ff357a297b95a3780343efdb294f3" title="Checks if the robot has moved compare to previous pose." alt="" coords="5,5,236,61"/>
-</map>

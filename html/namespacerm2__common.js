@@ -8,7 +8,6 @@ var namespacerm2__common =
     [ "JointValues", "classrm2__common_1_1JointValues.html", "classrm2__common_1_1JointValues" ],
     [ "Limit", "classrm2__common_1_1Limit.html", "classrm2__common_1_1Limit" ],
     [ "Rotation", "classrm2__common_1_1Rotation.html", "classrm2__common_1_1Rotation" ],
-    [ "StampedValue", "structrm2__common_1_1StampedValue.html", "structrm2__common_1_1StampedValue" ],
     [ "TaskValues", "classrm2__common_1_1TaskValues.html", "classrm2__common_1_1TaskValues" ],
     [ "TimeBaseDeque", "classrm2__common_1_1TimeBaseDeque.html", "classrm2__common_1_1TimeBaseDeque" ],
     [ "Twist", "classrm2__common_1_1Twist.html", "classrm2__common_1_1Twist" ],

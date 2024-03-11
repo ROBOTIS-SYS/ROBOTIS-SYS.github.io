@@ -96,9 +96,6 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 : <a class="el" href="classaimbot__diff__drive__controller_1_1SafetyFilter.html#a5428658a247071beac2ac08a3f10f5d9">aimbot_diff_drive_controller::SafetyFilter</a>
 , <a class="el" href="classeve__diff__drive__controller_1_1SafetyFilter.html#a205494fd8298150193f05ac5c1c1bce5">eve_diff_drive_controller::SafetyFilter</a>
 </li>
-<li>sanitizer()
-: <a class="el" href="classOdomFusion_1_1OdomSystem.html#ad343d27668c48946715cada553f23db6">OdomFusion::OdomSystem</a>
-</li>
 <li>save()
 : <a class="el" href="classaimbot__rviz__plugin_1_1AimbotBatteryPanel.html#ae7f78147fcc1fc5e2393d186546b2466">aimbot_rviz_plugin::AimbotBatteryPanel</a>
 , <a class="el" href="classaimbot__rviz__plugin_1_1AimbotEvBtnDetectImagePanel.html#ac739742d86be2c9fedd9191505324aa6">aimbot_rviz_plugin::AimbotEvBtnDetectImagePanel</a>
@@ -112,6 +109,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>save_image()
 : <a class="el" href="classaimbot_1_1Log.html#a3ec65f44775cc7dbc54b96f3a381f1ee">aimbot::Log</a>
+, <a class="el" href="classdetector__lib_1_1PerceptionUtils.html#aa5e8aec3a70780307005177aaaecee9d">detector_lib::PerceptionUtils</a>
 , <a class="el" href="classeve__robot__agent_1_1EveRobotAgent.html#abc2dafbb77fdd2ab8a8c41fe5b4b8384">eve_robot_agent::EveRobotAgent</a>
 </li>
 <li>save_last_task_info()
@@ -147,20 +145,27 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>scan_charging_station()
 : <a class="el" href="classaimbot__docking_1_1DockingManager.html#a2032e851fcb477fdab5d387e3fc21b1c">aimbot_docking::DockingManager</a>
 </li>
-<li>ScanCovariance()
-: <a class="el" href="classScanCov_1_1ScanCovariance.html#ab01541552f339b83a856a0f1a5c877e3">ScanCov::ScanCovariance</a>
-</li>
 <li>scorePose()
 : <a class="el" href="classantis__nav__costmap__2d_1_1CostmapTopicCollisionChecker.html#ac81c606c7af21ad5f970eaa04a87225a">antis_nav_costmap_2d::CostmapTopicCollisionChecker</a>
 </li>
 <li>Sector()
 : <a class="el" href="classmap__manager_1_1Sector.html#a09a3dc0d028cab599699d8f556baadc5">map_manager::Sector</a>
 </li>
+<li>Segmentation()
+: <a class="el" href="classml__model_1_1Segmentation.html#a824a28f7aa9cc97e259496826b36c9e7">ml_model::Segmentation</a>
+</li>
+<li>select_device()
+: <a class="el" href="classgemini2_1_1Gemini2.html#a678c4facd5cb3465a562e29add904e5b">gemini2::Gemini2</a>
+</li>
+<li>select_device_by_serial_number()
+: <a class="el" href="classgemini2_1_1Gemini2.html#a0e7a065c2007bff86e2451cb8d796410">gemini2::Gemini2</a>
+</li>
 <li>select_target()
 : <a class="el" href="classtask__manager_1_1ComputeTargetAction.html#a0c042adee0493590f4503c79fe89bf2f">task_manager::ComputeTargetAction</a>
 </li>
 <li>send_action_client()
-: <a class="el" href="classtask__manager_1_1DockingToStationAction.html#aafc17c92da4ca94fca121483c681e18d">task_manager::DockingToStationAction</a>
+: <a class="el" href="classev__indicator__detector_1_1EvIndicatorDetector.html#a1732bf13199d65b0e92cee41a8707b55">ev_indicator_detector::EvIndicatorDetector</a>
+, <a class="el" href="classtask__manager_1_1DockingToStationAction.html#aafc17c92da4ca94fca121483c681e18d">task_manager::DockingToStationAction</a>
 </li>
 <li>send_action_fail()
 : <a class="el" href="classgc__push__target__control_1_1GcPushTargetControl.html#a9f1dded0e54d211422eb321c32f50736">gc_push_target_control::GcPushTargetControl</a>
@@ -347,6 +352,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>sensor_model()
 : <a class="el" href="classantis__nav__costmap__2d_1_1RangeSensorLayer.html#af2b696f2f7b7ba129c7a3a3c7bcee765">antis_nav_costmap_2d::RangeSensorLayer</a>
 </li>
+<li>SensorBase()
+: <a class="el" href="classperception__base_1_1SensorBase.html#a4c9bb47438b9555c73d175f33875303b">perception_base::SensorBase</a>
+</li>
 <li>sensorFunction()
 : <a class="el" href="classantis__nav__amcl_1_1BeamModel.html#a16b163677427d1aa3cdb01674e9b7337">antis_nav_amcl::BeamModel</a>
 , <a class="el" href="classantis__nav__amcl_1_1LikelihoodFieldModel.html#a41c7c3b2f2c75ed452a93f1606fff9ef">antis_nav_amcl::LikelihoodFieldModel</a>
@@ -367,8 +375,11 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>SequenceManiCheckControl()
 : <a class="el" href="classtask__manager_1_1SequenceManiCheckControl.html#a6a9e823160cec65ecb541dd0d4b9cc47">task_manager::SequenceManiCheckControl</a>
 </li>
-<li>sequential_spin()
-: <a class="el" href="classrobotis_1_1eve_1_1RosOnlineDataProvider.html#adb41aa6143f5a6b5a92621213e8c9972">robotis::eve::RosOnlineDataProvider</a>
+<li>SequenceMatcher()
+: <a class="el" href="classdifflib_1_1SequenceMatcher.html#a0ea2e0fbb3b25c3f1f11bfb8ab1f303c">difflib::SequenceMatcher&lt; T &gt;</a>
+</li>
+<li>serializeEngineOptions()
+: <a class="el" href="classtrt__inference_1_1Engine.html#ab8ec0c73c6929e2bca814379b57337f7">trt_inference::Engine</a>
 </li>
 <li>service_end()
 : <a class="el" href="classTkeControllerNode.html#add3f669abd0c033f4ff25c68e026f5d2">TkeControllerNode</a>
@@ -399,6 +410,12 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>set_amcl_params()
 : <a class="el" href="classcontrol__gui_1_1RosNode.html#a544eee978bd6cdb601824c5d64b520f6">control_gui::RosNode</a>
+</li>
+<li>set_and_get_node_parameter()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#a7434f5a3cbe8cb6b8d0eaf4a1a030a65">gemini2::Gemini2Node</a>
+</li>
+<li>set_auto_junk_minsize()
+: <a class="el" href="classdifflib_1_1SequenceMatcher.html#a0d4f719f865ae7842d8159245419a787">difflib::SequenceMatcher&lt; T &gt;</a>
 </li>
 <li>set_auto_push_flag()
 : <a class="el" href="classmanipulator__gui_1_1RosNode.html#a88cb5bcf975bee68789fa69b3b19b6a7">manipulator_gui::RosNode</a>
@@ -463,8 +480,14 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_button_text()
 : <a class="el" href="classDialogWithButtons.html#a142625a718e2ecc70d17bca79e688d0f">DialogWithButtons</a>
 </li>
+<li>set_calculator_strategy()
+: <a class="el" href="classdetector__lib_1_1PoseEstimator.html#acb7dc7b1a66dde26959b2221d3c5355b">detector_lib::PoseEstimator</a>
+</li>
 <li>set_call_floor()
 : <a class="el" href="classm2m__controller_1_1m2m__controller__node_1_1M2MController.html#a8f63f88df0c6803d37fb7bc8aea94132">m2m_controller.m2m_controller_node.M2MController</a>
+</li>
+<li>set_cam_info()
+: <a class="el" href="classCameraGeometry.html#adba512c10dab8247d046c288e6f75549">CameraGeometry</a>
 </li>
 <li>set_closing_text()
 : <a class="el" href="classDialogTrayMoving.html#a4ad48ae14bf07ad42f8c33f55039d937">DialogTrayMoving</a>
@@ -509,6 +532,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_dxl_data_srv_callback()
 : <a class="el" href="classdynamixel__hardware__interface_1_1DynamixelHardware.html#a8ce6fe87add23a7021c7b2a981910d94">dynamixel_hardware_interface::DynamixelHardware</a>
 </li>
+<li>set_dynamic_params()
+: <a class="el" href="classzed_1_1ZED.html#a2f99136362cacccf78b1b1da44aee133">zed::ZED</a>
+</li>
 <li>set_elevator_group_control_callback()
 : <a class="el" href="classTkeControllerNode.html#a14ac5bbac877260bd77a9729cb8174a7">TkeControllerNode</a>
 </li>
@@ -548,6 +574,12 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>set_fk_solver()
 : <a class="el" href="classrm2__robot__handler_1_1RobotHandler.html#a8367d72e360ba0fff9ab08c951535db8">rm2_robot_handler::RobotHandler</a>
+</li>
+<li>set_format()
+: <a class="el" href="classcsi__camera_1_1V4L2Driver.html#ae5f66280b8a94c0f37ef22ea3f6f152c">csi_camera::V4L2Driver</a>
+</li>
+<li>set_gemini_stream()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#aefd7b60f9ef3bbcf340d7d8c30363050">gemini2::Gemini2Node</a>
 </li>
 <li>set_goal_joint_angle_minimum_jerk()
 : <a class="el" href="classmanipulator__gui_1_1RosNode.html#a4812af8bc082fd4e9a6e852c586ef7c4">manipulator_gui::RosNode</a>
@@ -604,6 +636,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_initial_pressure()
 : <a class="el" href="classmap__manager_1_1FloorEstimationByAtmPressure.html#a073a0f9bac40c739cd0d548cf2fb8647">map_manager::FloorEstimationByAtmPressure</a>
 </li>
+<li>set_input()
+: <a class="el" href="classdetector__lib_1_1PoseEstimator.html#af3bc4c28be31b591f9178d5dd1b1f14c">detector_lib::PoseEstimator</a>
+</li>
 <li>set_input_pass_numbers_clear()
 : <a class="el" href="classDialogArrivedPassNumber.html#aa3ffdc855f582a8702508f0644ef07e9">DialogArrivedPassNumber</a>
 </li>
@@ -625,9 +660,6 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_led_with_mode()
 : <a class="el" href="classRosNode.html#a24ffdc7e20ae426a02ab27394800a641">RosNode</a>
 </li>
-<li>set_limit()
-: <a class="el" href="classeve__utils_1_1CoordinateSpikeDetector.html#ae0c376d26a63bd414626aaca05662c29">eve_utils::CoordinateSpikeDetector</a>
-</li>
 <li>set_lr_and_upper_led_with_mode()
 : <a class="el" href="classRosNode.html#a7eaf6dde6db9f5f2c03cc59cc9a8bf6c">RosNode</a>
 </li>
@@ -643,6 +675,12 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_map_frame()
 : <a class="el" href="classcontrol__gui_1_1RosNode.html#a2a795e82105e4ebf5a59f23b94f08de9">control_gui::RosNode</a>
 </li>
+<li>set_model_state()
+: <a class="el" href="classperception__base_1_1DetectorBase.html#a578d71a40698656a04416c19f7e9d63a">perception_base::DetectorBase</a>
+</li>
+<li>set_model_state_srv_callback()
+: <a class="el" href="classperception__manager_1_1PerceptionManager.html#aed54afed31d19b0af324e7a667e2f276">perception_manager::PerceptionManager</a>
+</li>
 <li>set_moodel_state()
 : <a class="el" href="classtask__manager_1_1LoadPerceptionModelAction.html#aa2663967c23bea19262c94a1193483af">task_manager::LoadPerceptionModelAction</a>
 </li>
@@ -654,7 +692,12 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 , <a class="el" href="classrm2__trajectory_1_1VelocityProfile.html#ad54c2d6bda09994052f51880d9aa2ab8">rm2_trajectory::VelocityProfile&lt; P, V, G &gt;</a>
 </li>
 <li>set_node_state()
-: <a class="el" href="classtask__manager_1_1ChangePerceptionDetectorStateAction.html#a2141464cf65e5096e8f967b306250a64">task_manager::ChangePerceptionDetectorStateAction</a>
+: <a class="el" href="classperception__base_1_1DetectorBase.html#ad65a2243b09c7e4e1d54ceca13557404">perception_base::DetectorBase</a>
+, <a class="el" href="classperception__base_1_1PerceptionBase.html#a21e031b4c3fe98bf4da15531a336237f">perception_base::PerceptionBase</a>
+, <a class="el" href="classtask__manager_1_1ChangePerceptionDetectorStateAction.html#a2141464cf65e5096e8f967b306250a64">task_manager::ChangePerceptionDetectorStateAction</a>
+</li>
+<li>set_node_state_srv_callback()
+: <a class="el" href="classperception__manager_1_1PerceptionManager.html#a470788fee61cffa20b38d7af55dc11f8">perception_manager::PerceptionManager</a>
 </li>
 <li>set_num_floor()
 : <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#a329344db51aa2fae4e2e045e01459fdb">m2m_controller.ev_status.EvStatus</a>
@@ -714,6 +757,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_port_name()
 : <a class="el" href="classPortHandler.html#aa24b70cd637c680210c4670a457bbf47">PortHandler</a>
 </li>
+<li>set_pose_calc_location()
+: <a class="el" href="classdetector__lib_1_1BoundingBoxBasedEstimatorStrategy.html#a9ca17e3ae4f9e7c9668215db2b9b9c82">detector_lib::BoundingBoxBasedEstimatorStrategy</a>
+</li>
 <li>set_present_joint_value()
 : <a class="el" href="classrm2__robot__handler_1_1RobotHandler.html#af418131e996b2ac21b7d1d2408a5756a">rm2_robot_handler::RobotHandler</a>
 </li>
@@ -726,6 +772,22 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 , <a class="el" href="classrm2__trajectory_1_1TaskMinimumJerk.html#a026e227c5c3180c406f409ee65a0f4df">rm2_trajectory::TaskMinimumJerk</a>
 , <a class="el" href="classrm2__trajectory_1_1TaskTrapezoidal.html#af772f8582d89a504bac5faaab9055d17">rm2_trajectory::TaskTrapezoidal</a>
 , <a class="el" href="classrm2__trajectory_1_1VelocityProfile.html#a5041a58732cb08f2b75134bce79ee2d1">rm2_trajectory::VelocityProfile&lt; P, V, G &gt;</a>
+</li>
+<li>set_pub_data_camera_info()
+: <a class="el" href="classperception__base_1_1SensorBase.html#aeba3ea4ccc9b278215ff3007022bf67b">perception_base::SensorBase</a>
+</li>
+<li>set_pub_data_compressed_image()
+: <a class="el" href="classperception__base_1_1SensorBase.html#a6af6c08d74f982d924b530a81c9fbe61">perception_base::SensorBase</a>
+</li>
+<li>set_pub_data_image()
+: <a class="el" href="classperception__base_1_1DetectorBase.html#a6f187c4009022c4e7d9280d4dd3905be">perception_base::DetectorBase</a>
+, <a class="el" href="classperception__base_1_1SensorBase.html#afc6d64f52e2bc7e3b741541344dd44ef">perception_base::SensorBase</a>
+</li>
+<li>set_pub_data_imu()
+: <a class="el" href="classperception__base_1_1SensorBase.html#aa68e0b20b04799181db463e0af2fafce">perception_base::SensorBase</a>
+</li>
+<li>set_pub_data_pc2()
+: <a class="el" href="classperception__base_1_1SensorBase.html#a0c9a03b8f20d5ed98807830869ad9bb3">perception_base::SensorBase</a>
 </li>
 <li>set_rear_door_state()
 : <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#a2c978f6d959c4019b2334bdfce96f60b">m2m_controller.ev_status.EvStatus</a>
@@ -760,6 +822,14 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_ros_node()
 : <a class="el" href="classm2m__controller_1_1m2m__mqtt__handler_1_1M2mMqttHandler.html#a0b2e3ebea99491de51b048f8c59151fe">m2m_controller.m2m_mqtt_handler.M2mMqttHandler</a>
 </li>
+<li>set_ros_pub_data()
+: <a class="el" href="classgemini2_1_1Gemini2.html#a576f69a411b896f3bc8c04997f6b327d">gemini2::Gemini2</a>
+, <a class="el" href="classzed_1_1ZED.html#a9dbb571c467300f0a1e084b9566b10d4">zed::ZED</a>
+</li>
+<li>set_ros_publisher()
+: <a class="el" href="classgemini2_1_1Gemini2.html#adafc89e26d1015270a9f0594f0c675c2">gemini2::Gemini2</a>
+, <a class="el" href="classzed_1_1ZED.html#af914e77ca45658e74c6ed75dacc05c4a">zed::ZED</a>
+</li>
 <li>set_ros_spin_loop_rate()
 : <a class="el" href="classtask__manager_1_1ROSActionClientNode.html#ab084b12ee4f9778a0b6142895cf836b0">task_manager::ROSActionClientNode&lt; ActionT &gt;</a>
 </li>
@@ -772,6 +842,15 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>set_sensor_value()
 : <a class="el" href="classrm2__robot__handler_1_1RobotHandler.html#af3cbc40438174efa20701c2dc4c860c8">rm2_robot_handler::RobotHandler</a>
+</li>
+<li>set_seq()
+: <a class="el" href="classdifflib_1_1SequenceMatcher.html#a0db8996a3e4bdeefbace402e2788473f">difflib::SequenceMatcher&lt; T &gt;</a>
+</li>
+<li>set_seq1()
+: <a class="el" href="classdifflib_1_1SequenceMatcher.html#a1f94e7c8625e413debb8ce1f30395ed3">difflib::SequenceMatcher&lt; T &gt;</a>
+</li>
+<li>set_seq2()
+: <a class="el" href="classdifflib_1_1SequenceMatcher.html#aed1af6bafc4596ede784d7277c829711">difflib::SequenceMatcher&lt; T &gt;</a>
 </li>
 <li>set_sequence()
 : <a class="el" href="classEVRobotService.html#a396bb73d17e9f382f3525b32f4b5d719">EVRobotService</a>
@@ -792,9 +871,6 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>set_signal()
 : <a class="el" href="classEVRobotService.html#a75646e1734170920a8cad35910cb56ad">EVRobotService</a>
 </li>
-<li>set_speed_limit()
-: <a class="el" href="classeve__utils_1_1CoordinateSpikeDetector.html#a6cd1ca181e7bd733e7ab5e3c0483a17f">eve_utils::CoordinateSpikeDetector</a>
-</li>
 <li>set_start_time()
 : <a class="el" href="classrm2__robot__handler_1_1RobotHandler.html#a1053abe22ea5c21ad0094e39f9f9ac61">rm2_robot_handler::RobotHandler</a>
 </li>
@@ -805,11 +881,11 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 : <a class="el" href="classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html#a6bb1028817bc1c7a122dff7cd8e4b767">hyundai_ev_controller.api_client_node.ApiClientNode</a>
 , <a class="el" href="classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html#aa95a7f44e6b4d17d1294b80bc6b13c8f">hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node</a>
 </li>
-<li>set_steep_parameter()
-: <a class="el" href="classeve__heuristics_1_1SteepFilter.html#af42b5c24c593d211d0785ca1589eb343">eve_heuristics::SteepFilter</a>
-</li>
 <li>set_str_floor()
 : <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#abc0687aed5f577e70260b48498cf9b6d">m2m_controller.ev_status.EvStatus</a>
+</li>
+<li>set_streaming_state()
+: <a class="el" href="classperception__base_1_1PerceptionBase.html#ab877c4fe411933d6e56d2749b42cdfbc">perception_base::PerceptionBase</a>
 </li>
 <li>set_system_volume()
 : <a class="el" href="classPageArrivedDocent.html#a28d1e410e39a79776ea136507206ad2e">PageArrivedDocent</a>
@@ -836,6 +912,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 , <a class="el" href="classrm2__filter_1_1LowPassFilter.html#a1a663cf6927d5be0379b66722f30c321">rm2_filter::LowPassFilter</a>
 , <a class="el" href="classrm2__filter_1_1VectorLowPassFilter.html#af9baa45b0528b241c208aca47d6d3dfa">rm2_filter::VectorLowPassFilter</a>
 , <a class="el" href="classtask__manager_1_1LowPassFilter.html#a184fd3bfec8b1a2acb484f03f5612e7a">task_manager::LowPassFilter</a>
+</li>
+<li>set_template()
+: <a class="el" href="classdetector__lib_1_1TemplateBasedEstimatorStrategy.html#aaf45482fb86b468da6436916b9b6414d">detector_lib::TemplateBasedEstimatorStrategy</a>
 </li>
 <li>set_test_costmap()
 : <a class="el" href="classantis__nav__util_1_1Costmap.html#a7988d33aa5e21fa7a30e11efb5ef21ba">antis_nav_util::Costmap</a>
@@ -1004,12 +1083,12 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>setGlobalFrame()
 : <a class="el" href="classantis__nav__costmap__2d_1_1ObservationBuffer.html#a02fe48bf6ae3e24ba7af51eda3cb7cc4">antis_nav_costmap_2d::ObservationBuffer</a>
 </li>
+<li>SetHoleState()
+: <a class="el" href="classClipperLib_1_1Clipper.html#a5b120044bda7f70362485a9480efc030">ClipperLib::Clipper</a>
+</li>
 <li>setImage()
 : <a class="el" href="classcontrol__gui_1_1MainWindow.html#a5f47f630b963d3cc04a7265d24af4aa4">control_gui::MainWindow</a>
 , <a class="el" href="classmanipulator__gui_1_1MainWindow.html#a563031856386969a8d99121a51cb4f40">manipulator_gui::MainWindow</a>
-</li>
-<li>setInitialX()
-: <a class="el" href="classEKFEstimator.html#ab0a395793b8abca41ef513f8594a17a0">EKFEstimator</a>
 </li>
 <li>setLang()
 : <a class="el" href="classPageChooseServiceType.html#a6c525e358cc292adecae5ca11597b8ba">PageChooseServiceType</a>
@@ -1071,8 +1150,17 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 , <a class="el" href="classPageWebcall.html#a84e9a7254c45906567310b2ea10954b7">PageWebcall</a>
 , <a class="el" href="classPageWelcome.html#a63e329dacb6861401099401da66675e2">PageWelcome</a>
 </li>
+<li>setParam()
+: <a class="el" href="classgemini2_1_1Parameters.html#a4b7098252deac7fdc2213eb525bf2688">gemini2::Parameters</a>
+</li>
 <li>SetParameterAction()
 : <a class="el" href="classtask__manager_1_1SetParameterAction.html#ae57cfe5399a1f86e78a77e8576af3f54">task_manager::SetParameterAction</a>
+</li>
+<li>setParamT()
+: <a class="el" href="classgemini2_1_1Parameters.html#ac61342f14930c1d938916dfcdba493fc">gemini2::Parameters</a>
+</li>
+<li>setParamValue()
+: <a class="el" href="classgemini2_1_1Parameters.html#a6b9fc4c5cd31a9722d82c428e86677b6">gemini2::Parameters</a>
 </li>
 <li>setPlan()
 : <a class="el" href="classantis__nav__core_1_1Controller.html#a0c92ee4731695142c1e5335904c2aaee">antis_nav_core::Controller</a>
@@ -1105,16 +1193,31 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>SetSyncWriteItemAndHandler()
 : <a class="el" href="classdynamixel__hardware__interface_1_1Dynamixel.html#a6388d1e06bb751f2d641b03c7751c8a0">dynamixel_hardware_interface::Dynamixel</a>
 </li>
-<li>setTauGyroBias()
-: <a class="el" href="classEKFEstimator.html#aceeeeeae2e8dfb18cb639e920aee1452">EKFEstimator</a>
-</li>
 <li>SetUp()
 : <a class="el" href="classTestAimbotDiffDriveController.html#a1f417af41d81af45fe8f6ee2e047c235">TestAimbotDiffDriveController</a>
 , <a class="el" href="classTestEveDiffDriveController.html#ad510f7f8d673e27962eaec635fe7a541">TestEveDiffDriveController</a>
 , <a class="el" href="classTestGaemi0G30DiffDriveController.html#aa9b76f67c325b673565c9c597bbad889">TestGaemi0G30DiffDriveController</a>
 </li>
+<li>setup_default_image_format()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#a23fbfa184822065f08bcda8422824294">gemini2::Gemini2Node</a>
+</li>
+<li>setup_devices()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#af9481413bee577f8fdfe334e8630277e">gemini2::Gemini2Node</a>
+</li>
+<li>setup_format_convert_type()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#a6a22569153515fce489e063cc83728cd">gemini2::Gemini2Node</a>
+</li>
+<li>setup_parameters()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#a462ebb70233f41bd3ee9e63d0f60979e">gemini2::Gemini2Node</a>
+</li>
+<li>setup_pipeline_config()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#a3b311ee4f45c547b058653acc97443b3">gemini2::Gemini2Node</a>
+</li>
 <li>setup_port()
 : <a class="el" href="classPortHandler.html#ab393c46cd6191f935201755e93fe0910">PortHandler</a>
+</li>
+<li>setup_profiles()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#abdca2ac896f0fcfbaa33c49df7870503">gemini2::Gemini2Node</a>
 </li>
 <li>SetUpTestCase()
 : <a class="el" href="classTestAimbotDiffDriveController.html#a376326b425414ae0e072784c6ea49e6e">TestAimbotDiffDriveController</a>
@@ -1123,12 +1226,6 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>setValue()
 : <a class="el" href="classantis__nav__common_1_1launch_1_1rewritten__yaml_1_1DictItemReference.html#ad1bb44fa9551fe6ac181ff0d15e4889d">antis_nav_common.launch.rewritten_yaml.DictItemReference</a>
-</li>
-<li>setVarImuAcc()
-: <a class="el" href="classEKFEstimator.html#a657c1addb9dd1fd24717b87f3df45dd6">EKFEstimator</a>
-</li>
-<li>setVarImuGyro()
-: <a class="el" href="classEKFEstimator.html#a9ecb76790fde15043fff8953071c9698">EKFEstimator</a>
 </li>
 <li>setVelocityRollingWindowSize()
 : <a class="el" href="classaimbot__diff__drive__controller_1_1Odometry.html#a689c5ba1eb84cea43e0af048103dba6c">aimbot_diff_drive_controller::Odometry</a>
@@ -1139,6 +1236,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 : <a class="el" href="classaimbot__diff__drive__controller_1_1Odometry.html#a8dfab13802eb13fa31398b8300168e36">aimbot_diff_drive_controller::Odometry</a>
 , <a class="el" href="classeve__diff__drive__controller_1_1Odometry.html#a14b4f2ac4a7f27dafda7e907e0eba2b2">eve_diff_drive_controller::Odometry</a>
 , <a class="el" href="classgaemi0__g30__diff__drive__controller_1_1Odometry.html#a9d6080dbeb35e7b68fca622ba9c195bc">gaemi0_g30_diff_drive_controller::Odometry</a>
+</li>
+<li>SetWindingCount()
+: <a class="el" href="classClipperLib_1_1Clipper.html#a0eb8357418a6ea0f8e2679ee76a2966c">ClipperLib::Clipper</a>
 </li>
 <li>shared_from_this()
 : <a class="el" href="classantis__nav__util_1_1LifecycleNode.html#a94728991133c77b268818a6735740f98">antis_nav_util::LifecycleNode</a>
@@ -1155,14 +1255,29 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>shouldUpdateFilter()
 : <a class="el" href="classantis__nav__amcl_1_1AmclNode.html#aa3708f9bc68879e472fc9b0cea8f96c4">antis_nav_amcl::AmclNode</a>
 </li>
+<li>show_classification_result()
+: <a class="el" href="classdetector__lib_1_1Visualizer.html#aaf6056c2aa7ff0e2bee4b91aa850dac5">detector_lib::Visualizer</a>
+</li>
 <li>show_dialog()
 : <a class="el" href="classAimbotDemoGUIMainWindow.html#a29f89c5284a766c056ae16a0e53ceba8">AimbotDemoGUIMainWindow</a>
+</li>
+<li>show_feature_images()
+: <a class="el" href="classml__model_1_1Segmentation.html#ab2fd17e159427c8fc079d18c67c23cb8">ml_model::Segmentation</a>
 </li>
 <li>show_floor_height_table()
 : <a class="el" href="classpressure__check__gui_1_1App.html#a17c23d94637fbd9d35e3336992a6e61e">pressure_check_gui.App</a>
 </li>
+<li>show_patched_images()
+: <a class="el" href="classml__model_1_1Segmentation.html#a170ad93e0d01d1d7d75b0638497b2b76">ml_model::Segmentation</a>
+</li>
 <li>show_popup()
 : <a class="el" href="classpressure__check__gui_1_1DrawGraph.html#a634da4cf944305ec530f44248c1d02ef">pressure_check_gui.DrawGraph</a>
+</li>
+<li>show_result()
+: <a class="el" href="classml__model_1_1ObjectDetection.html#ae280c355cbb62aff295a793070b4b77e">ml_model::ObjectDetection</a>
+</li>
+<li>show_segmentation_images()
+: <a class="el" href="classml__model_1_1Segmentation.html#ad034cea7f5a487d718d2efe17b80de36">ml_model::Segmentation</a>
 </li>
 <li>showDialog()
 : <a class="el" href="classPageArrived.html#ad296040d274a9b23845b169753d8a8ad">PageArrived</a>
@@ -1227,7 +1342,6 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 , <a class="el" href="classantis__nav__lifecycle__manager_1_1LifecycleManagerClient.html#ac6579771456a76c6c542eb2307b36f7b">antis_nav_lifecycle_manager::LifecycleManagerClient</a>
 , <a class="el" href="classcontrol__gui_1_1RosNode.html#a14b20725a6f6d3b673034aea005f4109">control_gui::RosNode</a>
 , <a class="el" href="classmanipulator__gui_1_1RosNode.html#a14b20725a6f6d3b673034aea005f4109">manipulator_gui::RosNode</a>
-, <a class="el" href="classrobotis_1_1eve_1_1RosDataProviderInterface.html#ae86c1b1311c8c0088440061255b7833f">robotis::eve::RosDataProviderInterface</a>
 </li>
 <li>shutdownAllNodes()
 : <a class="el" href="classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a6dd41c4a9861ebf71f63f3ac354ee3b3">antis_nav_lifecycle_manager::LifecycleManager</a>
@@ -1279,7 +1393,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 : <a class="el" href="classaimbot_1_1SimpleMobilePathPlanner.html#a94c8f4d984e8c82ec822e75ab1b2a995">aimbot::SimpleMobilePathPlanner</a>
 </li>
 <li>SimpleActionServer()
-: <a class="el" href="classantis__nav__util_1_1SimpleActionServer.html#a32c940646249a315339a25584efc7e2f">antis_nav_util::SimpleActionServer&lt; ActionT, nodeT &gt;</a>
+: <a class="el" href="classantis__nav__util_1_1SimpleActionServer.html#a4894d257ff454cace186523b0212d8d7">antis_nav_util::SimpleActionServer&lt; ActionT, nodeT &gt;</a>
 </li>
 <li>SimpleGoalChecker()
 : <a class="el" href="classantis__nav__controller__server_1_1SimpleGoalChecker.html#aa9cf9a7e2687caaecf1add9ca137e360">antis_nav_controller_server::SimpleGoalChecker</a>
@@ -1294,8 +1408,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 : <a class="el" href="classrm2__trajectory_1_1SingleTrapezoidal.html#a160eafa6c00bbbbef238b8c7bacb0953">rm2_trajectory::SingleTrapezoidal</a>
 </li>
 <li>size()
-: <a class="el" href="classeve__utils_1_1RingVector.html#a2fedbf03cdf22ee3ff5781be6358c3b4">eve_utils::RingVector&lt; T &gt;</a>
-, <a class="el" href="classrm2__common_1_1DataArray.html#a7a201ce01a8aedac350c615c9cab852b">rm2_common::DataArray</a>
+: <a class="el" href="classrm2__common_1_1DataArray.html#a7a201ce01a8aedac350c615c9cab852b">rm2_common::DataArray</a>
 , <a class="el" href="classrm2__common_1_1JointValues.html#a1b0be05d1a3fb65180898604db88a296">rm2_common::JointValues</a>
 </li>
 <li>sizeX()
@@ -1309,6 +1422,18 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>slerp()
 : <a class="el" href="classrm2__common_1_1Rotation.html#aa9a474dbd22ce11f0d281a00980479dc">rm2_common::Rotation</a>
+</li>
+<li>slmat_to_cvmat()
+: <a class="el" href="classzed_1_1ZED.html#ad5731b2a58f95ecc6686898494ddc1c5">zed::ZED</a>
+</li>
+<li>slmat_to_ros()
+: <a class="el" href="classzed_1_1ZED.html#a7454b192570df84acfc468075de98245">zed::ZED</a>
+</li>
+<li>sltime_to_ros()
+: <a class="el" href="classzed_1_1ZED.html#ad0b66a509c97793e21665581824c159f">zed::ZED</a>
+</li>
+<li>softmax()
+: <a class="el" href="classml__model_1_1Classification.html#af16e89b98d87069f7c072e2dc0609a53">ml_model::Classification</a>
 </li>
 <li>solve()
 : <a class="el" href="classgc__geometry__ik__solver_1_1GcGeometryIkSolver.html#ab964b7e87d65f762c83a883583ed7131">gc_geometry_ik_solver::GcGeometryIkSolver</a>
@@ -1325,6 +1450,15 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>solve_inverse_kinematics()
 : <a class="el" href="classrm2__robot__handler_1_1RobotHandler.html#a4d77adb1d771d3fc0a55693087060d55">rm2_robot_handler::RobotHandler</a>
 </li>
+<li>sorted_boxes()
+: <a class="el" href="classml__model_1_1OcrDetection.html#abcb00634c87364cec4630eded32e3520">ml_model::OcrDetection</a>
+</li>
+<li>sp_detected_btn_server_callback()
+: <a class="el" href="classsp__button__detector_1_1SpButtonDetector.html#a1b6879f59b1f753c87e267273067479f">sp_button_detector::SpButtonDetector</a>
+</li>
+<li>SpButtonDetector()
+: <a class="el" href="classsp__button__detector_1_1SpButtonDetector.html#a668f57041e40c9e892e96a45ec195f1f">sp_button_detector::SpButtonDetector</a>
+</li>
 <li>SpeakSoundAction()
 : <a class="el" href="classtask__manager_1_1SpeakSoundAction.html#a487088dd9c710676e483e670b73535bc">task_manager::SpeakSoundAction</a>
 </li>
@@ -1333,21 +1467,14 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 , <a class="el" href="classeve__diff__drive__controller_1_1SpeedLimiter.html#a682ae27dd324e629296627031bf6e502">eve_diff_drive_controller::SpeedLimiter</a>
 , <a class="el" href="classgaemi0__g30__diff__drive__controller_1_1SpeedLimiter.html#a3838bbf4d6c42faea65da02712e027f7">gaemi0_g30_diff_drive_controller::SpeedLimiter</a>
 </li>
-<li>spin()
-: <a class="el" href="classrobotis_1_1eve_1_1KimeraVIOLifecycleNode.html#a828a52009a175b69257d12fa1e862457">robotis::eve::KimeraVIOLifecycleNode</a>
-, <a class="el" href="classrobotis_1_1eve_1_1RosOnlineDataProvider.html#a031a4945f69cefd94bfa461e6eab7e7c">robotis::eve::RosOnlineDataProvider</a>
-</li>
-<li>spinOnce()
-: <a class="el" href="classrobotis_1_1eve_1_1RosDisplayer.html#aeff6f2c9e8e2d9257b413215dcfb3532">robotis::eve::RosDisplayer</a>
-, <a class="el" href="classrobotis_1_1eve_1_1RosVisualizer.html#a2bb2b30e16a50a1302ba65ea728689a5">robotis::eve::RosVisualizer</a>
-</li>
-<li>StampedValue()
-: <a class="el" href="structrm2__common_1_1StampedValue.html#acd4bcbef887e35674dd465ec810f5b29">rm2_common::StampedValue&lt; V &gt;</a>
+<li>split_string()
+: <a class="el" href="classdetector__lib_1_1PerceptionUtils.html#a3aff0f1ec40125a0dd5bd3ed6731099d">detector_lib::PerceptionUtils</a>
 </li>
 <li>start()
 : <a class="el" href="classaimbot__hardware__interface_1_1HardwareInterface.html#a576c4f3866601396663a510519a6af27">aimbot_hardware_interface::HardwareInterface</a>
 , <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2DROS.html#a830ee930151e2570016dbaac695db8e9">antis_nav_costmap_2d::Costmap2DROS</a>
 , <a class="el" href="classantis__nav__util_1_1ExecutionTimer.html#aa08d6307d7ecc48c08395b246f08719e">antis_nav_util::ExecutionTimer</a>
+, <a class="el" href="classcsi__camera_1_1V4L2Driver.html#a47eb5a5f7310ffa0bf7b8958ece77454">csi_camera::V4L2Driver</a>
 , <a class="el" href="classdynamixel__hardware__interface_1_1DynamixelHardware.html#ac0e84820ad5ddd541f5aed53afc3aacc">dynamixel_hardware_interface::DynamixelHardware</a>
 , <a class="el" href="classeve__hardware__interface_1_1HardwareInterface.html#affabc933027b18f642ee6aed3ee879db">eve_hardware_interface::HardwareInterface</a>
 , <a class="el" href="classgaemi0__g30__hardware__interface_1_1HardwareInterface.html#ada1ce8ab03ec1736c866ae0e759e5dc9">gaemi0_g30_hardware_interface::HardwareInterface</a>
@@ -1355,6 +1482,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>start_control_by_user_callback()
 : <a class="el" href="classeve__robot__agent_1_1EveRobotAgent.html#acdaf39c6620c65136e377ced34744aa0">eve_robot_agent::EveRobotAgent</a>
+</li>
+<li>start_device()
+: <a class="el" href="classgemini2_1_1Gemini2.html#aa7da1fd40e620dd2c1736b44bb39c536">gemini2::Gemini2</a>
 </li>
 <li>start_lidar_limit()
 : <a class="el" href="classmanipulator__gui_1_1RosNode.html#ac6237251e512dd5c90fd90c1d1d25645">manipulator_gui::RosNode</a>
@@ -1364,6 +1494,15 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>start_save_atm_pressure_callback()
 : <a class="el" href="classmap__manager_1_1MapManager.html#a56b226dafd436de9f37215d35be9e76b">map_manager::MapManager</a>
+</li>
+<li>start_streaming()
+: <a class="el" href="classcsi__camera_1_1V4L2Driver.html#a0338a579d74fce41d35fd216b130b5eb">csi_camera::V4L2Driver</a>
+</li>
+<li>start_streams()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#a3c2f6fdeb5b18b8a96f6730a042fd3f2">gemini2::Gemini2Node</a>
+</li>
+<li>start_thread()
+: <a class="el" href="classperception__base_1_1PerceptionBase.html#a8ed10aa78acbe3ad533c56738dcddf29">perception_base::PerceptionBase</a>
 </li>
 <li>start_update()
 : <a class="el" href="classrm2__control__module_1_1ControlModule.html#a4b7d24a764064453fd3b7f19157d4bd6">rm2_control_module::ControlModule</a>
@@ -1382,12 +1521,10 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>StaticLayer()
 : <a class="el" href="classantis__nav__costmap__2d_1_1StaticLayer.html#a70e84ba24984bba717c96452ffaac148">antis_nav_costmap_2d::StaticLayer</a>
 </li>
-<li>SteepFilter()
-: <a class="el" href="classeve__heuristics_1_1SteepFilter.html#ab941577cba46d44ca7096d517cd6867d">eve_heuristics::SteepFilter</a>
-</li>
 <li>stop()
 : <a class="el" href="classaimbot__hardware__interface_1_1HardwareInterface.html#ab3babd627179b6d5bca21f3771a05a14">aimbot_hardware_interface::HardwareInterface</a>
 , <a class="el" href="classantis__nav__costmap__2d_1_1Costmap2DROS.html#a2e0d59e41a65222baf85ab286b1e2a58">antis_nav_costmap_2d::Costmap2DROS</a>
+, <a class="el" href="classcsi__camera_1_1V4L2Driver.html#a062eab6ec0e46f1b39ecdbb8d96d37f6">csi_camera::V4L2Driver</a>
 , <a class="el" href="classdynamixel__hardware__interface_1_1DynamixelHardware.html#aee9a418341d528390288373aa60262a6">dynamixel_hardware_interface::DynamixelHardware</a>
 , <a class="el" href="classeve__hardware__interface_1_1HardwareInterface.html#a00c9be1ee6c8f88e7d277825fe35e820">eve_hardware_interface::HardwareInterface</a>
 , <a class="el" href="classgaemi0__g30__hardware__interface_1_1HardwareInterface.html#a091190e5c509027c042ed577e23a6966">gaemi0_g30_hardware_interface::HardwareInterface</a>
@@ -1409,6 +1546,15 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>stop_simple_mobile_path_callback()
 : <a class="el" href="classaimbot_1_1SimpleMobilePathPlanner.html#a5ff2b57ee4938a8e11001dfd039b6110">aimbot::SimpleMobilePathPlanner</a>
+</li>
+<li>stop_streaming()
+: <a class="el" href="classcsi__camera_1_1V4L2Driver.html#a1899994379c45d1a4b6c6f075b6f4a69">csi_camera::V4L2Driver</a>
+</li>
+<li>stop_streams()
+: <a class="el" href="classgemini2_1_1Gemini2Node.html#aa9f6cc153b55aa0a6e18cf6c20bff0e7">gemini2::Gemini2Node</a>
+</li>
+<li>stop_thread()
+: <a class="el" href="classperception__base_1_1PerceptionBase.html#a3759a7d4c66d66ff71c6e32b0450ac62">perception_base::PerceptionBase</a>
 </li>
 <li>stop_tree()
 : <a class="el" href="classcontrol__gui_1_1RosNode.html#a06fb80c8f9a887d9fc1101ff16276284">control_gui::RosNode</a>
@@ -1436,6 +1582,9 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 </li>
 <li>str_floor_to_zero_based_floor()
 : <a class="el" href="classm2m__controller_1_1ev__status_1_1EvStatus.html#af2cefdaf3466ac3317e976151dba7f81">m2m_controller.ev_status.EvStatus</a>
+</li>
+<li>StrictlySimple()
+: <a class="el" href="classClipperLib_1_1Clipper.html#a85aa82d75e0d7d1f380d2e96231d6aa3">ClipperLib::Clipper</a>
 </li>
 <li>string_direction()
 : <a class="el" href="classEvInfo.html#a76071812b5eeae4d05860612443dbe08">EvInfo</a>
@@ -1473,16 +1622,17 @@ $(document).ready(function(){initNavTree('functions_func_s.html',''); initResiza
 <li>success()
 : <a class="el" href="classaimbot__docking_1_1DockingManager.html#a51165f5b4636a3f2944baff8b35f631a">aimbot_docking::DockingManager</a>
 </li>
+<li>SwapPositionsInAEL()
+: <a class="el" href="classClipperLib_1_1ClipperBase.html#ab265485204a9964a6c636d96960ac333">ClipperLib::ClipperBase</a>
+</li>
+<li>SwapPositionsInSEL()
+: <a class="el" href="classClipperLib_1_1Clipper.html#ad6417bf319aa06bb06d8c1c3d9bfaee6">ClipperLib::Clipper</a>
+</li>
 <li>sync_joint_value()
 : <a class="el" href="classrm2__robot__handler_1_1RobotHandler.html#ad63f09ae5553d7303fc12e33891fbf92">rm2_robot_handler::RobotHandler</a>
 </li>
 <li>sync_setup()
 : <a class="el" href="classeve__robot__agent_1_1EveRobotAgent.html#a8165c4932a9e0247cfe0a82236f40eeb">eve_robot_agent::EveRobotAgent</a>
-</li>
-<li>synchronize_odom()
-: <a class="el" href="classOdomFusion_1_1OdomSyncBase.html#a3a499c53260a52dcbc69924a9400f9d4">OdomFusion::OdomSyncBase</a>
-, <a class="el" href="classOdomFusion_1_1OdomSystem.html#a4149e6ba5069d8a3fb7740b4608260d4">OdomFusion::OdomSystem</a>
-, <a class="el" href="classOdomFusion_1_1RapidMonitorOdomSync.html#a1c3efaab8e3ea6680ab2dec92aaf3eda">OdomFusion::RapidMonitorOdomSync</a>
 </li>
 <li>sys_cmd()
 : <a class="el" href="classEveAgentUtils.html#a2dcb00fd50258f07806df44a146b3799">EveAgentUtils</a>

@@ -1,7 +1,0 @@
-<map id="eve_robot_agent::EveRobotAgent::clear_costmap" name="eve_robot_agent::EveRobotAgent::clear_costmap">
-<area shape="rect" id="node1" title=" " alt="" coords="753,53,955,94"/>
-<area shape="rect" id="node2" href="$classeve__robot__agent_1_1EveRobotAgent.html#ad6bb0a855a9c929870bd25084bf25e74" title=" " alt="" coords="504,5,705,61"/>
-<area shape="rect" id="node5" href="$classeve__robot__agent_1_1EveRobotAgent.html#a39625c597d24a6f34333c5da32302db4" title=" " alt="" coords="504,85,705,141"/>
-<area shape="rect" id="node3" href="$classeve__robot__agent_1_1EveRobotAgent.html#a5e17457df469e397fdb0ea57a28a8213" title=" " alt="" coords="255,53,456,94"/>
-<area shape="rect" id="node4" href="$classeve__robot__agent_1_1EveRobotAgent.html#a770b949c1dc898dc2e3b326070c48262" title=" " alt="" coords="5,53,207,94"/>
-</map>

@@ -7,6 +7,7 @@ var functions_type =
     [ "e", "functions_type_e.html", null ],
     [ "f", "functions_type_f.html", null ],
     [ "g", "functions_type_g.html", null ],
+    [ "h", "functions_type_h.html", null ],
     [ "i", "functions_type_i.html", null ],
     [ "j", "functions_type_j.html", null ],
     [ "k", "functions_type_k.html", null ],
@@ -18,5 +19,6 @@ var functions_type =
     [ "s", "functions_type_s.html", null ],
     [ "t", "functions_type_t.html", null ],
     [ "u", "functions_type_u.html", null ],
+    [ "v", "functions_type_v.html", null ],
     [ "w", "functions_type_w.html", null ]
 ];

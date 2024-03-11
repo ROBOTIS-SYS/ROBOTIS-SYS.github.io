@@ -1,4 +1,0 @@
-<map id="antis_nav_costmap_2d::LayeredCostmap::getInscribedRadius" name="antis_nav_costmap_2d::LayeredCostmap::getInscribedRadius">
-<area shape="rect" id="node1" title="The radius of a circle centered at the origin of the robot which is just within all points and edges ..." alt="" coords="256,5,484,61"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a00983501071a9f1927dea8dfdd545ffd" title="LayeredCostmap calls this whenever the footprint there changes (via LayeredCostmap::setFootprint())...." alt="" coords="5,5,208,61"/>
-</map>

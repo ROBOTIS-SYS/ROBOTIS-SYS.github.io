@@ -1,4 +1,0 @@
-<map id="antis_nav_ev_rpp_controller_plugin::min_by" name="antis_nav_ev_rpp_controller_plugin::min_by">
-<area shape="rect" id="node1" title=" " alt="" coords="324,29,529,71"/>
-<area shape="rect" id="node2" href="$classantis__nav__ev__rpp__controller__plugin_1_1ElevatorRegulatedPurePursuitController.html#af55afaca2cab9415202a357ea62c1de5" title="Transforms global plan into same frame as pose, clips far away poses and possibly prunes passed poses..." alt="" coords="5,22,276,78"/>
-</map>

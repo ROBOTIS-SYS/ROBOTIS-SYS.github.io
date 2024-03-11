@@ -1,7 +1,0 @@
-<map id="antis_nav_costmap_2d::Costmap2DROS::resetLayers" name="antis_nav_costmap_2d::Costmap2DROS::resetLayers">
-<area shape="rect" id="node1" title="Reset each individual layer." alt="" coords="693,53,911,94"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a4af13795d64d6a18d33ebf33a78a040f" title=" " alt="" coords="475,45,645,101"/>
-<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a7f3aa3b7e6866015ad815e991affe140" title=" " alt="" coords="224,5,427,61"/>
-<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#afa7ce9e2dd66bb036888458be9bad573" title=" " alt="" coords="240,85,411,141"/>
-<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a492024f724ec41d25e5a837d47f242cd" title=" " alt="" coords="5,45,176,101"/>
-</map>

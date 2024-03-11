@@ -1,5 +1,0 @@
-<map id="antis_nav_controller_server::ControllerServer::publishGradientZeroVelocity" name="antis_nav_controller_server::ControllerServer::publishGradientZeroVelocity">
-<area shape="rect" id="node1" title=" " alt="" coords="469,5,685,61"/>
-<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1ControllerServer.html#a7c273dc391b2826f41aab125d00fcf55" title="FollowPath action server callback. Handles action server updates and spins server until goal is reach..." alt="" coords="237,5,421,61"/>
-<area shape="rect" id="node3" href="$classantis__nav__controller__server_1_1ControllerServer.html#a4109c5cea1be9e5bcaed2d0f2c6e4065" title="Configures controller parameters and member variables." alt="" coords="5,5,189,61"/>
-</map>

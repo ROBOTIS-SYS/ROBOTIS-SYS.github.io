@@ -1,0 +1,4 @@
+<map id="map_manager::FloorEstimationByAtmPressure::set_initial_pressure" name="map_manager::FloorEstimationByAtmPressure::set_initial_pressure">
+<area shape="rect" id="node1" title="초기 대기압을 설정하고 층의 상대 고도를 업데이트하는 함수입니다." alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node2" href="$classmap__manager_1_1FloorEstimationByAtmPressure.html#a0783be694aa9132d52f097d086b2bec9" title="초기 층에 대한 상대 고도를 설정하는 함수입니다." alt="" coords="280,5,507,61"/>
+</map>

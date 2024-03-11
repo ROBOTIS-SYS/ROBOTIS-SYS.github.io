@@ -1,4 +1,0 @@
-<map id="antis_nav_costmap_2d::Costmap2DROS::start" name="antis_nav_costmap_2d::Costmap2DROS::start">
-<area shape="rect" id="node1" title="Subscribes to sensor topics if necessary and starts costmap updates, can be called to restart the cos..." alt="" coords="271,5,441,47"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Costmap2DROS.html#a2be53bb0ce95cbe2f25f9cae395b0b2d" title=" " alt="" coords="5,5,223,47"/>
-</map>

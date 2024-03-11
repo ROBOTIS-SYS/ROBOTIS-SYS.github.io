@@ -1,6 +1,0 @@
-<map id="Xml::Encoding::CharactersReader::IsChar" name="Xml::Encoding::CharactersReader::IsChar">
-<area shape="rect" id="node1" title="Checks if character is allowed in XML document." alt="" coords="276,71,469,112"/>
-<area shape="rect" id="node2" href="$classXml_1_1Inspector.html#a530a6afcd293d33c1db22b1bb495bccc" title=" " alt="" coords="5,5,228,47"/>
-<area shape="rect" id="node3" href="$classXml_1_1Encoding_1_1Utf32BEStreamReader.html#a1727ce603e177a9811e2f2894fe4609e" title="Reads one Unicode character." alt="" coords="5,71,228,112"/>
-<area shape="rect" id="node4" href="$classXml_1_1Encoding_1_1Utf32LEStreamReader.html#acaf152c3f04a196887d7c36d6f1f4999" title="Reads one Unicode character." alt="" coords="6,136,227,177"/>
-</map>

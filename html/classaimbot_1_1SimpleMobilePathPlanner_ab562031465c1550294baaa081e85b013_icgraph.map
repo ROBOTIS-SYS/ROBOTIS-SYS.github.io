@@ -1,9 +1,0 @@
-<map id="aimbot::SimpleMobilePathPlanner::calc_vel" name="aimbot::SimpleMobilePathPlanner::calc_vel">
-<area shape="rect" id="node1" title=" " alt="" coords="1028,79,1223,120"/>
-<area shape="rect" id="node2" href="$classaimbot_1_1SimpleMobilePathPlanner.html#a55a6a4aab7af9a31223d9e05b25a73f9" title=" " alt="" coords="785,79,980,120"/>
-<area shape="rect" id="node3" href="$classaimbot_1_1SimpleMobilePathPlanner.html#a05dff6000ad8a6225e3bad97dc299c06" title=" " alt="" coords="543,13,737,55"/>
-<area shape="rect" id="node6" href="$classaimbot_1_1SimpleMobilePathPlanner.html#a94c8f4d984e8c82ec822e75ab1b2a995" title=" " alt="" coords="300,71,495,127"/>
-<area shape="rect" id="node7" href="$classaimbot_1_1SimpleMobilePathPlanner.html#a6c28829d12f289eb89574b5eaf6501bd" title=" " alt="" coords="543,140,737,181"/>
-<area shape="rect" id="node4" href="$classaimbot_1_1SimpleMobilePathPlanner.html#adeba00513fdb0886495c0f5668eecad6" title=" " alt="" coords="300,5,495,47"/>
-<area shape="rect" id="node5" href="$classaimbot_1_1SimpleMobilePathPlanner.html#ac04f6c1b1301739d4741cfbcd1d6eeff" title=" " alt="" coords="5,79,252,120"/>
-</map>

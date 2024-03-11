@@ -1,4 +1,0 @@
-<map id="antis_nav_costmap_2d::InflationLayer::enqueue" name="antis_nav_costmap_2d::InflationLayer::enqueue">
-<area shape="rect" id="node1" title="Given an index of a cell in the costmap, place it into a list pending for obstacle inflation." alt="" coords="263,5,447,47"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#add1a17ff163b12d7a86f5caed5281fc6" title="Actually update the underlying costmap, only within the bounds calculated during UpdateBounds()." alt="" coords="5,5,215,47"/>
-</map>

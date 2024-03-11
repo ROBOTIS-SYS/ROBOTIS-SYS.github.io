@@ -1,0 +1,4 @@
+<map id="csi_camera::CameraParam" name="csi_camera::CameraParam">
+<area shape="rect" id="node1" title="CSI 카메라의 연결 포트, 프레임 아이디, 외부 및 내부 파라미터 등 각종 정보를 담는 구조체" alt="" coords="5,124,203,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="75,5,133,32"/>
+</map>

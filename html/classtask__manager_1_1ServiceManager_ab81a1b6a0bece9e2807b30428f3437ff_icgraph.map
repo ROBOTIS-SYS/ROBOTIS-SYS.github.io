@@ -1,5 +1,0 @@
-<map id="task_manager::ServiceManager::remove_task_from_index_callback" name="task_manager::ServiceManager::remove_task_from_index_callback">
-<area shape="rect" id="node1" title="작업 삭제 콜백(작업 인덱스 기준)" alt="" coords="557,5,785,61"/>
-<area shape="rect" id="node2" href="$classtask__manager_1_1ServiceManager.html#a8e384d27edfab7cc2f5dd811dfe7653c" title="ROS 초기화 함수" alt="" coords="281,13,509,54"/>
-<area shape="rect" id="node3" href="$classtask__manager_1_1ServiceManager.html#a0df44eba50a2b64cd9216fa4b38d9068" title="ServiceManager 클래스 생성자" alt="" coords="5,13,233,54"/>
-</map>

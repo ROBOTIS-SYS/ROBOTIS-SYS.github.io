@@ -1,0 +1,13 @@
+<map id="ml_model::OcrDetection::boxes_from_bitmap" name="ml_model::OcrDetection::boxes_from_bitmap">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,185,145"/>
+<area shape="rect" id="node2" href="$classml__model_1_1OcrDetection.html#ac7290bc3c13a2bc707b0316b35bc946b" title=" " alt="" coords="233,5,413,47"/>
+<area shape="rect" id="node4" href="$classml__model_1_1OcrDetection.html#a86eb48d90545e36ad8952eec756c5e39" title=" " alt="" coords="233,71,413,112"/>
+<area shape="rect" id="node5" href="$classml__model_1_1OcrDetection.html#a31af14eee5d8c294dea1e86ae857f644" title=" " alt="" coords="233,136,413,177"/>
+<area shape="rect" id="node8" href="$classml__model_1_1OcrDetection.html#a5c8e71e0a76a94482db9d7b3e9cb4805" title=" " alt="" coords="233,201,413,243"/>
+<area shape="rect" id="node3" href="$classml__model_1_1OcrDetection.html#a5e63151e61712f45697383102625f468" title=" " alt="" coords="462,5,642,47"/>
+<area shape="rect" id="node6" href="$classml__model_1_1OcrDetection.html#a1dc058ff4b230f5ae022afb87cb22400" title=" " alt="" coords="462,71,642,112"/>
+<area shape="rect" id="node7" href="$classml__model_1_1OcrDetection.html#a1f515c2347cf93974d3119135b57e64d" title=" " alt="" coords="462,136,642,177"/>
+<area shape="rect" id="node9" href="$classClipperLib_1_1ClipperOffset.html#a0cd68e3690072f510924a5b25291043b" title=" " alt="" coords="461,201,643,243"/>
+<area shape="rect" id="node10" href="$classClipperLib_1_1ClipperOffset.html#ac591b25e483a52c99c3190a256ad4589" title=" " alt="" coords="461,267,643,308"/>
+<area shape="rect" id="node11" href="$classClipperLib_1_1Clipper.html#a2e4a15e6f79a5f583b42c9701b839e01" title=" " alt="" coords="691,267,832,308"/>
+</map>

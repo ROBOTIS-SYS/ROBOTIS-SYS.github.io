@@ -1,6 +1,0 @@
-<map id="antis_nav_lifecycle_manager::LifecycleManager::shutdownAllNodes" name="antis_nav_lifecycle_manager::LifecycleManager::shutdownAllNodes">
-<area shape="rect" id="node1" title="Support function for shutdown." alt="" coords="781,5,992,61"/>
-<area shape="rect" id="node2" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#abe584e9bfa71f796d5d01e4b573375c7" title="Deactivate, clean up and shut down all the managed nodes." alt="" coords="523,5,733,61"/>
-<area shape="rect" id="node3" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#ac66439b938cfc89015af4a9d1d233029" title="Lifecycle node manager callback function." alt="" coords="264,5,475,61"/>
-<area shape="rect" id="node4" href="$classantis__nav__lifecycle__manager_1_1LifecycleManager.html#a14288ee75094734e36bfb64e5d12e21a" title="A constructor for antis_nav_lifecycle_manager::LifecycleManager." alt="" coords="5,5,216,61"/>
-</map>

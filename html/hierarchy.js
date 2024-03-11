@@ -160,10 +160,13 @@ var hierarchy =
       [ "gaemi0_g30_hardware_interface::HardwareInterface", "classgaemi0__g30__hardware__interface_1_1HardwareInterface.html", null ]
     ] ],
     [ "map_manager::Boundary", "structmap__manager_1_1Boundary.html", null ],
-    [ "OdomFusion::BufferStates", "structOdomFusion_1_1BufferStates.html", null ],
+    [ "csi_camera::Buffer", "structcsi__camera_1_1Buffer.html", null ],
     [ "pressure_check_gui.ButterworthFilter", "classpressure__check__gui_1_1ButterworthFilter.html", null ],
+    [ "ButtonPose", "structButtonPose.html", null ],
     [ "map_manager::ButtonPose", "structmap__manager_1_1ButtonPose.html", null ],
     [ "CachedDistanceMap", "classCachedDistanceMap.html", null ],
+    [ "CameraGeometry", "classCameraGeometry.html", null ],
+    [ "csi_camera::CameraParam", "structcsi__camera_1_1CameraParam.html", null ],
     [ "Cell", "structCell.html", null ],
     [ "CellData", "classCellData.html", null ],
     [ "antis_nav_costmap_2d::CellData", "classantis__nav__costmap__2d_1_1CellData.html", null ],
@@ -206,9 +209,15 @@ var hierarchy =
     [ "aimbot_diff_drive_controller::Circle", "classaimbot__diff__drive__controller_1_1Circle.html", null ],
     [ "eve_diff_drive_controller::UltrasonicData::ClashResult", "structeve__diff__drive__controller_1_1UltrasonicData_1_1ClashResult.html", null ],
     [ "aimbot_diff_drive_controller::UltrasonicData::ClashResult", "structaimbot__diff__drive__controller_1_1UltrasonicData_1_1ClashResult.html", null ],
+    [ "ml_model::Classification", "classml__model_1_1Classification.html", null ],
     [ "antis_nav_costmap_2d::ClearCostmapService", "classantis__nav__costmap__2d_1_1ClearCostmapService.html", null ],
     [ "antis_nav_voxel_grid::VoxelGrid::ClearVoxel", "classantis__nav__voxel__grid_1_1VoxelGrid_1_1ClearVoxel.html", null ],
     [ "antis_nav_voxel_grid::VoxelGrid::ClearVoxelInMap", "classantis__nav__voxel__grid_1_1VoxelGrid_1_1ClearVoxelInMap.html", null ],
+    [ "ClipperLib::ClipperBase", "classClipperLib_1_1ClipperBase.html", [
+      [ "ClipperLib::Clipper", "classClipperLib_1_1Clipper.html", null ]
+    ] ],
+    [ "ClipperLib::ClipperOffset", "classClipperLib_1_1ClipperOffset.html", null ],
+    [ "cliff_detector::CmdVelTrajectory", "classcliff__detector_1_1CmdVelTrajectory.html", null ],
     [ "rm2_robot_model::Component", "classrm2__robot__model_1_1Component.html", null ],
     [ "ConditionNode", null, [
       [ "task_manager::CheckAroundGoalCondition", "classtask__manager_1_1CheckAroundGoalCondition.html", null ],
@@ -261,7 +270,6 @@ var hierarchy =
       [ "task_manager::WhileDoElseControl", "classtask__manager_1_1WhileDoElseControl.html", null ],
       [ "task_manager::WhileDoRecoveryControl", "classtask__manager_1_1WhileDoRecoveryControl.html", null ]
     ] ],
-    [ "eve_utils::CoordinateSpikeDetector", "classeve__utils_1_1CoordinateSpikeDetector.html", null ],
     [ "antis_nav_util::Costmap", "classantis__nav__util_1_1Costmap.html", null ],
     [ "antis_nav_costmap_2d::Costmap2D", "classantis__nav__costmap__2d_1_1Costmap2D.html", [
       [ "antis_nav_costmap_2d::CostmapLayer", "classantis__nav__costmap__2d_1_1CostmapLayer.html", [
@@ -275,12 +283,8 @@ var hierarchy =
     [ "antis_nav_costmap_2d::Costmap2DPublisher", "classantis__nav__costmap__2d_1_1Costmap2DPublisher.html", null ],
     [ "antis_nav_costmap_2d::CostmapSubscriber", "classantis__nav__costmap__2d_1_1CostmapSubscriber.html", null ],
     [ "antis_nav_costmap_2d::CostmapTopicCollisionChecker", "classantis__nav__costmap__2d_1_1CostmapTopicCollisionChecker.html", null ],
+    [ "gemini2::D2CViewer", "classgemini2_1_1D2CViewer.html", null ],
     [ "rm2_common::DataArray", "classrm2__common_1_1DataArray.html", null ],
-    [ "DataProviderInterface", null, [
-      [ "robotis::eve::RosDataProviderInterface", "classrobotis_1_1eve_1_1RosDataProviderInterface.html", [
-        [ "robotis::eve::RosOnlineDataProvider", "classrobotis_1_1eve_1_1RosOnlineDataProvider.html", null ]
-      ] ]
-    ] ],
     [ "DecoratorNode", null, [
       [ "task_manager::BlackboardInverseConditionNode< T >", "classtask__manager_1_1BlackboardInverseConditionNode.html", null ],
       [ "task_manager::BlackboardPostconditionComparisonNode< T >", "classtask__manager_1_1BlackboardPostconditionComparisonNode.html", null ],
@@ -288,26 +292,32 @@ var hierarchy =
       [ "task_manager::ROSDecoratorNode", "classtask__manager_1_1ROSDecoratorNode.html", null ],
       [ "task_manager::RunUntilFailureLimitDecorator", "classtask__manager_1_1RunUntilFailureLimitDecorator.html", null ]
     ] ],
+    [ "zed::Depth", "structzed_1_1Depth.html", null ],
     [ "antis_nav_common.launch.rewritten_yaml.DictItemReference", "classantis__nav__common_1_1launch_1_1rewritten__yaml_1_1DictItemReference.html", null ],
-    [ "DisplayBase", null, [
-      [ "robotis::eve::RosDisplayer", "classrobotis_1_1eve_1_1RosDisplayer.html", null ]
-    ] ],
     [ "map_manager::DividingLines", "classmap__manager_1_1DividingLines.html", null ],
     [ "map_manager::DockingStation", "structmap__manager_1_1DockingStation.html", null ],
     [ "map_manager::DoorPose", "structmap__manager_1_1DoorPose.html", null ],
+    [ "DoorStatus", "structDoorStatus.html", null ],
+    [ "ClipperLib::DoublePoint", "structClipperLib_1_1DoublePoint.html", null ],
     [ "pressure_check_gui.DrawGraph", "classpressure__check__gui_1_1DrawGraph.html", null ],
     [ "dynamixel_hardware_interface::DxlInfo", "structdynamixel__hardware__interface_1_1DxlInfo.html", null ],
     [ "dynamixel_hardware_interface::Dynamixel", "classdynamixel__hardware__interface_1_1Dynamixel.html", null ],
     [ "dynamixel_hardware_interface::DynamixelInfo", "classdynamixel__hardware__interface_1_1DynamixelInfo.html", null ],
-    [ "EKFEstimator", "classEKFEstimator.html", null ],
+    [ "trt_inference::Engine", "classtrt__inference_1_1Engine.html", null ],
+    [ "detector_lib::EstimatorStrategy", "classdetector__lib_1_1EstimatorStrategy.html", [
+      [ "detector_lib::BoundingBoxBasedEstimatorStrategy", "classdetector__lib_1_1BoundingBoxBasedEstimatorStrategy.html", null ],
+      [ "detector_lib::TemplateBasedEstimatorStrategy", "classdetector__lib_1_1TemplateBasedEstimatorStrategy.html", null ]
+    ] ],
     [ "EveAgentUtils", "classEveAgentUtils.html", null ],
     [ "eve_robot_agent::EveSystemManager", "classeve__robot__agent_1_1EveSystemManager.html", null ],
     [ "EvInfo", "classEvInfo.html", null ],
+    [ "EvObjects", "structEvObjects.html", null ],
     [ "map_manager::EvObjects", "structmap__manager_1_1EvObjects.html", null ],
     [ "EVRobotService", "classEVRobotService.html", null ],
     [ "EVState", "classEVState.html", null ],
     [ "m2m_controller.ev_status.EvStatus", "classm2m__controller_1_1ev__status_1_1EvStatus.html", null ],
     [ "exception", null, [
+      [ "ClipperLib::clipperException", "classClipperLib_1_1clipperException.html", null ],
       [ "rm2_robot_model::Joint::joint_type_exception", "classrm2__robot__model_1_1Joint_1_1joint__type__exception.html", null ]
     ] ],
     [ "task_manager::ExecutionTimer", "classtask__manager_1_1ExecutionTimer.html", null ],
@@ -317,13 +327,14 @@ var hierarchy =
     [ "rm2_kinematics_solver_modules::FKSolverModule", "classrm2__kinematics__solver__modules_1_1FKSolverModule.html", [
       [ "rm2_fk_solver_recursive::FkSolverRecursive", "classrm2__fk__solver__recursive_1_1FkSolverRecursive.html", null ]
     ] ],
-    [ "FlaggedMSG< F >", "structFlaggedMSG.html", null ],
     [ "antis_nav_util::LifecycleNode::floating_point_range", "structantis__nav__util_1_1LifecycleNode_1_1floating__point__range.html", null ],
     [ "map_manager::FloorEstimationByAtmPressure", "classmap__manager_1_1FloorEstimationByAtmPressure.html", null ],
     [ "antis_nav_costmap_2d::FootprintCollisionChecker< CostmapT >", "classantis__nav__costmap__2d_1_1FootprintCollisionChecker.html", null ],
     [ "antis_nav_costmap_2d::FootprintCollisionChecker< std::shared_ptr< antis_nav_costmap_2d::Costmap2D > >", "classantis__nav__costmap__2d_1_1FootprintCollisionChecker.html", null ],
     [ "antis_nav_costmap_2d::FootprintSubscriber", "classantis__nav__costmap__2d_1_1FootprintSubscriber.html", null ],
     [ "rm2_common::Frame", "classrm2__common_1_1Frame.html", null ],
+    [ "Frustum", "structFrustum.html", null ],
+    [ "gemini2::Gemini2Node", "classgemini2_1_1Gemini2Node.html", null ],
     [ "antis_nav_core::GlobalPlanner", "classantis__nav__core_1_1GlobalPlanner.html", [
       [ "antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner", "classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html", null ]
     ] ],
@@ -332,8 +343,12 @@ var hierarchy =
         [ "antis_nav_controller_server::StoppedGoalChecker", "classantis__nav__controller__server_1_1StoppedGoalChecker.html", null ]
       ] ]
     ] ],
+    [ "ml_model::GridAndStride", "structml__model_1_1GridAndStride.html", null ],
     [ "antis_nav_voxel_grid::VoxelGrid::GridOffset", "classantis__nav__voxel__grid_1_1VoxelGrid_1_1GridOffset.html", null ],
+    [ "HallLantern", "structHallLantern.html", null ],
     [ "dynamixel_hardware_interface::HandlerVarType_", "structdynamixel__hardware__interface_1_1HandlerVarType__.html", null ],
+    [ "difflib::has_bracket_operator< T >", "classdifflib_1_1has__bracket__operator.html", null ],
+    [ "difflib::has_bracket_operator< T >::hasnt_op", "structdifflib_1_1has__bracket__operator_1_1hasnt__op.html", null ],
     [ "hyundai_ev_controller.hyundai_ev_api.Hyundai_EV_api", "classhyundai__ev__controller_1_1hyundai__ev__api_1_1Hyundai__EV__api.html", [
       [ "hyundai_ev_controller.api_client_node.ApiClientNode", "classhyundai__ev__controller_1_1api__client__node_1_1ApiClientNode.html", null ],
       [ "hyundai_ev_controller.api_client_st7_node.ApiClientSt7Node", "classhyundai__ev__controller_1_1api__client__st7__node_1_1ApiClientSt7Node.html", null ],
@@ -343,16 +358,27 @@ var hierarchy =
       [ "gc_geometry_ik_solver::GcGeometryIkSolver", "classgc__geometry__ik__solver_1_1GcGeometryIkSolver.html", null ],
       [ "rm2_ik_solver_nr_jl::IkSolverNrJl", "classrm2__ik__solver__nr__jl_1_1IkSolverNrJl.html", null ]
     ] ],
+    [ "ILogger", null, [
+      [ "trt_inference::Logger", "classtrt__inference_1_1Logger.html", null ]
+    ] ],
+    [ "ImageProcessingWithCUDA", "classImageProcessingWithCUDA.html", null ],
+    [ "IndicatorStatus", "structIndicatorStatus.html", null ],
     [ "dynamixel_hardware_interface::IndirectInfo", "structdynamixel__hardware__interface_1_1IndirectInfo.html", null ],
     [ "rm2_common::Inertia", "classrm2__common_1_1Inertia.html", null ],
     [ "rm2_common::InertiaTensor", "classrm2__common_1_1InertiaTensor.html", null ],
     [ "Xml::InspectedAttribute< TStringType >", "classXml_1_1InspectedAttribute.html", null ],
     [ "Xml::Inspector< TCharactersWriter >", "classXml_1_1Inspector.html", null ],
     [ "antis_nav_util::LifecycleNode::integer_range", "structantis__nav__util_1_1LifecycleNode_1_1integer__range.html", null ],
+    [ "ClipperLib::IntersectNode", "structClipperLib_1_1IntersectNode.html", null ],
+    [ "ClipperLib::IntPoint", "structClipperLib_1_1IntPoint.html", null ],
+    [ "ClipperLib::IntRect", "structClipperLib_1_1IntRect.html", null ],
+    [ "difflib::is_hashable_sequence< T >", "classdifflib_1_1is__hashable__sequence.html", null ],
+    [ "difflib::is_standard_iterable< T >", "classdifflib_1_1is__standard__iterable.html", null ],
     [ "rm2_common::Jacobian", "classrm2__common_1_1Jacobian.html", null ],
     [ "rm2_kinematics_solver_modules::JacobianSolverModule", "classrm2__kinematics__solver__modules_1_1JacobianSolverModule.html", [
       [ "rm2_jacobian_solver_basic::JacobianSolverBasic", "classrm2__jacobian__solver__basic_1_1JacobianSolverBasic.html", null ]
     ] ],
+    [ "ClipperLib::Join", "structClipperLib_1_1Join.html", null ],
     [ "rm2_robot_model::Joint", "classrm2__robot__model_1_1Joint.html", null ],
     [ "rm2_common::JointValues", "classrm2__common_1_1JointValues.html", null ],
     [ "control_gui::KnownTarget", "structcontrol__gui_1_1KnownTarget.html", null ],
@@ -379,14 +405,14 @@ var hierarchy =
         [ "antis_nav_costmap_2d::Costmap2DROS", "classantis__nav__costmap__2d_1_1Costmap2DROS.html", null ],
         [ "antis_nav_planner_server::PlannerServer", "classantis__nav__planner__server_1_1PlannerServer.html", null ]
       ] ],
-      [ "map_manager::MapManager", "classmap__manager_1_1MapManager.html", null ],
-      [ "robotis::eve::KimeraVIOLifecycleNode", "classrobotis_1_1eve_1_1KimeraVIOLifecycleNode.html", null ]
+      [ "map_manager::MapManager", "classmap__manager_1_1MapManager.html", null ]
     ] ],
     [ "antis_nav_util::LifecycleServiceClient", "classantis__nav__util_1_1LifecycleServiceClient.html", null ],
     [ "rm2_common::Limit", "classrm2__common_1_1Limit.html", null ],
     [ "rm2_trajectory::LinearTrapezoidal", "classrm2__trajectory_1_1LinearTrapezoidal.html", null ],
     [ "antis_nav_util::LineIterator", "classantis__nav__util_1_1LineIterator.html", null ],
-    [ "ScanCov::LineParam", "classScanCov_1_1LineParam.html", null ],
+    [ "ClipperLib::LocalMinimum", "structClipperLib_1_1LocalMinimum.html", null ],
+    [ "ClipperLib::LocMinSorter", "structClipperLib_1_1LocMinSorter.html", null ],
     [ "rm2_filter::LowPassFilter", "classrm2__filter_1_1LowPassFilter.html", null ],
     [ "task_manager::LowPassFilter", "classtask__manager_1_1LowPassFilter.html", null ],
     [ "aimbot_docking::LowPassFilter", "classaimbot__docking_1_1LowPassFilter.html", null ],
@@ -415,58 +441,73 @@ var hierarchy =
       [ "antis_nav_lifecycle_manager::LifecycleManager", "classantis__nav__lifecycle__manager_1_1LifecycleManager.html", null ],
       [ "body_comm_module::BodyCommModule", "classbody__comm__module_1_1BodyCommModule.html", null ],
       [ "control_gui::RosNode", "classcontrol__gui_1_1RosNode.html", null ],
-      [ "depth_accuracy::DepthAccuracy", "classdepth__accuracy_1_1DepthAccuracy.html", null ],
       [ "dynamixel_hardware_interface::DynamixelHardware", "classdynamixel__hardware__interface_1_1DynamixelHardware.html", null ],
-      [ "EKFFusion::EKFFusion", "classEKFFusion_1_1EKFFusion.html", null ],
       [ "ElevatorController", "classElevatorController.html", null ],
       [ "eve_robot_agent::EveRobotAgent", "classeve__robot__agent_1_1EveRobotAgent.html", null ],
       [ "EVStateManager", "classEVStateManager.html", null ],
-      [ "LocalizationFusion", "classLocalizationFusion.html", null ],
       [ "manipulator_gui::RosNode", "classmanipulator__gui_1_1RosNode.html", null ],
       [ "MinimalSubscriber", "classMinimalSubscriber.html", null ],
       [ "motor_comm_module::MotorCommModule", "classmotor__comm__module_1_1MotorCommModule.html", [
         [ "aimbot_hardware_interface::HardwareInterface", "classaimbot__hardware__interface_1_1HardwareInterface.html", null ],
         [ "eve_hardware_interface::HardwareInterface", "classeve__hardware__interface_1_1HardwareInterface.html", null ]
       ] ],
-      [ "OdomFusion::OdomFusionNode", "classOdomFusion_1_1OdomFusionNode.html", null ],
-      [ "PoseErrorEvaluation::PoseErrorEvaluatorNode", "classPoseErrorEvaluation_1_1PoseErrorEvaluatorNode.html", null ],
+      [ "perception_base::PerceptionBase", "classperception__base_1_1PerceptionBase.html", [
+        [ "perception_base::DetectorBase", "classperception__base_1_1DetectorBase.html", [
+          [ "bell_detector::BellDetector", "classbell__detector_1_1BellDetector.html", null ],
+          [ "cliff_detector::CliffDetector", "classcliff__detector_1_1CliffDetector.html", null ],
+          [ "ev_button_detector::EvButtonDetector", "classev__button__detector_1_1EvButtonDetector.html", null ],
+          [ "ev_indicator_detector::EvIndicatorDetector", "classev__indicator__detector_1_1EvIndicatorDetector.html", null ],
+          [ "fms_pose_calculator::FMSPoseCalculator", "classfms__pose__calculator_1_1FMSPoseCalculator.html", null ],
+          [ "sp_button_detector::SpButtonDetector", "classsp__button__detector_1_1SpButtonDetector.html", null ]
+        ] ],
+        [ "perception_base::SensorBase", "classperception__base_1_1SensorBase.html", [
+          [ "csi_camera::CSICamera", "classcsi__camera_1_1CSICamera.html", null ],
+          [ "gemini2::Gemini2", "classgemini2_1_1Gemini2.html", null ],
+          [ "zed::ZED", "classzed_1_1ZED.html", null ]
+        ] ]
+      ] ],
+      [ "perception_manager::PerceptionManager", "classperception__manager_1_1PerceptionManager.html", null ],
       [ "robotis_agent::RobotisAgent", "classrobotis__agent_1_1RobotisAgent.html", null ],
       [ "RosNode", "classRosNode.html", null ],
       [ "task_manager::ServiceManager", "classtask__manager_1_1ServiceManager.html", null ],
       [ "task_manager::TaskManager", "classtask__manager_1_1TaskManager.html", null ],
       [ "TkeControllerNode", "classTkeControllerNode.html", null ]
     ] ],
+    [ "perception_manager::NodeParam", "structperception__manager_1_1NodeParam.html", null ],
     [ "antis_nav_util::NodeThread", "classantis__nav__util_1_1NodeThread.html", null ],
+    [ "difflib::is_hashable_sequence< T >::not_hashable", "structdifflib_1_1is__hashable__sequence_1_1not__hashable.html", null ],
+    [ "difflib::is_standard_iterable< T >::not_iterable", "structdifflib_1_1is__standard__iterable_1_1not__iterable.html", null ],
+    [ "ml_model::Object", "structml__model_1_1Object.html", null ],
     [ "map_manager::Object", "structmap__manager_1_1Object.html", null ],
+    [ "ml_model::ObjectDetection", "classml__model_1_1ObjectDetection.html", null ],
+    [ "ObjectDetectorOutputs", "structObjectDetectorOutputs.html", null ],
     [ "antis_nav_costmap_2d::Observation", "classantis__nav__costmap__2d_1_1Observation.html", null ],
     [ "antis_nav_costmap_2d::ObservationBuffer", "classantis__nav__costmap__2d_1_1ObservationBuffer.html", null ],
-    [ "eve_diff_drive_controller::Odometry", "classeve__diff__drive__controller_1_1Odometry.html", null ],
+    [ "ml_model::OcrDetection", "classml__model_1_1OcrDetection.html", null ],
+    [ "ml_model::OcrRecognition", "classml__model_1_1OcrRecognition.html", null ],
     [ "aimbot_diff_drive_controller::Odometry", "classaimbot__diff__drive__controller_1_1Odometry.html", null ],
+    [ "eve_diff_drive_controller::Odometry", "classeve__diff__drive__controller_1_1Odometry.html", null ],
     [ "gaemi0_g30_diff_drive_controller::Odometry", "classgaemi0__g30__diff__drive__controller_1_1Odometry.html", null ],
-    [ "eve_diff_drive_controller::EveDiffDriveController::OdometryParams", "structeve__diff__drive__controller_1_1EveDiffDriveController_1_1OdometryParams.html", null ],
     [ "aimbot_diff_drive_controller::AimbotDiffDriveController::OdometryParams", "structaimbot__diff__drive__controller_1_1AimbotDiffDriveController_1_1OdometryParams.html", null ],
+    [ "eve_diff_drive_controller::EveDiffDriveController::OdometryParams", "structeve__diff__drive__controller_1_1EveDiffDriveController_1_1OdometryParams.html", null ],
     [ "gaemi0_g30_diff_drive_controller::Gaemi0G30DiffDriveController::OdometryParams", "structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1OdometryParams.html", null ],
-    [ "OdomFusion::OdomFilterBase", "classOdomFusion_1_1OdomFilterBase.html", [
-      [ "OdomFusion::KalmanFilter2D", "classOdomFusion_1_1KalmanFilter2D.html", null ],
-      [ "OdomFusion::WeightedAverageFilter", "classOdomFusion_1_1WeightedAverageFilter.html", null ]
-    ] ],
-    [ "OdomFusion::OdomFilterFactory", "classOdomFusion_1_1OdomFilterFactory.html", null ],
     [ "antis_nav_util::OdomSmoother", "classantis__nav__util_1_1OdomSmoother.html", null ],
-    [ "OdomFusion::OdomSyncBase", "classOdomFusion_1_1OdomSyncBase.html", [
-      [ "OdomFusion::RapidMonitorOdomSync", "classOdomFusion_1_1RapidMonitorOdomSync.html", null ]
-    ] ],
-    [ "OdomFusion::OdomSyncFactory", "classOdomFusion_1_1OdomSyncFactory.html", null ],
-    [ "OdomFusion::OdomSystem", "classOdomFusion_1_1OdomSystem.html", null ],
     [ "option_sequence< T >", "structoption__sequence.html", null ],
+    [ "trt_inference::Options", "structtrt__inference_1_1Options.html", null ],
+    [ "ClipperLib::OutPt", "structClipperLib_1_1OutPt.html", null ],
+    [ "ClipperLib::OutRec", "structClipperLib_1_1OutRec.html", null ],
     [ "PacketHandler", "classPacketHandler.html", null ],
     [ "Panel", null, [
       [ "aimbot_rviz_plugin::AimbotBatteryPanel", "classaimbot__rviz__plugin_1_1AimbotBatteryPanel.html", null ],
       [ "aimbot_rviz_plugin::AimbotEvBtnDetectImagePanel", "classaimbot__rviz__plugin_1_1AimbotEvBtnDetectImagePanel.html", null ],
       [ "aimbot_rviz_plugin::AimbotTaskManagerPanel", "classaimbot__rviz__plugin_1_1AimbotTaskManagerPanel.html", null ]
     ] ],
+    [ "gemini2::Parameters", "classgemini2_1_1Parameters.html", null ],
+    [ "gemini2::ParametersBackend", "classgemini2_1_1ParametersBackend.html", null ],
     [ "aimbot_diff_drive_controller::SafetyFilter::Params", "structaimbot__diff__drive__controller_1_1SafetyFilter_1_1Params.html", null ],
     [ "eve_diff_drive_controller::SafetyFilter::Params", "structeve__diff__drive__controller_1_1SafetyFilter_1_1Params.html", null ],
     [ "aimbot_docking::PerceptionParams", "classaimbot__docking_1_1PerceptionParams.html", null ],
+    [ "detector_lib::PerceptionUtils", "classdetector__lib_1_1PerceptionUtils.html", null ],
     [ "pf_cluster_t", "structpf__cluster__t.html", null ],
     [ "pf_kdtree_node", "structpf__kdtree__node.html", null ],
     [ "pf_kdtree_t", "structpf__kdtree__t.html", null ],
@@ -477,11 +518,15 @@ var hierarchy =
     [ "aimbot_docking::PlanningTrackingParams", "classaimbot__docking_1_1PlanningTrackingParams.html", null ],
     [ "aimbot_docking::Point", "structaimbot__docking_1_1Point.html", null ],
     [ "antis_nav_ev_rpp_controller_plugin::Point", "structantis__nav__ev__rpp__controller__plugin_1_1Point.html", null ],
-    [ "robotis::eve::PointNormalUV", "structrobotis_1_1eve_1_1PointNormalUV.html", null ],
     [ "antis_nav_costmap_2d::Costmap2D::PolygonOutlineCells", "classantis__nav__costmap__2d_1_1Costmap2D_1_1PolygonOutlineCells.html", null ],
+    [ "ClipperLib::PolyNode", "classClipperLib_1_1PolyNode.html", [
+      [ "ClipperLib::PolyTree", "classClipperLib_1_1PolyTree.html", null ]
+    ] ],
     [ "PortHandler", "classPortHandler.html", null ],
-    [ "Pose2PlotViz2D", "structPose2PlotViz2D.html", null ],
+    [ "detector_lib::Pose", "structdetector__lib_1_1Pose.html", null ],
     [ "aimbot_docking::PoseAverage", "classaimbot__docking_1_1PoseAverage.html", null ],
+    [ "detector_lib::PoseEstimator", "classdetector__lib_1_1PoseEstimator.html", null ],
+    [ "PreUpperLabel", "structPreUpperLabel.html", null ],
     [ "antis_nav_core::ProgressChecker", "classantis__nav__core_1_1ProgressChecker.html", [
       [ "antis_nav_controller_server::SimpleProgressChecker", "classantis__nav__controller__server_1_1SimpleProgressChecker.html", null ]
     ] ],
@@ -539,19 +584,22 @@ var hierarchy =
       [ "PageWebcall", "classPageWebcall.html", null ],
       [ "PageWelcome", "classPageWelcome.html", null ]
     ] ],
+    [ "RecognizedText", "structRecognizedText.html", null ],
     [ "antis_nav_core::Recovery", "classantis__nav__core_1_1Recovery.html", null ],
-    [ "eve_utils::RingVector< T >", "classeve__utils_1_1RingVector.html", null ],
-    [ "eve_utils::RingVector< nav_msgs::msg::Odometry >", "classeve__utils_1_1RingVector.html", null ],
-    [ "eve_utils::RingVector< OdomFusion::TimeMatch< FlagOdom::SharedPtr, FlagOdom::SharedPtr > >", "classeve__utils_1_1RingVector.html", null ],
+    [ "detector_lib::Registration", "classdetector__lib_1_1Registration.html", null ],
+    [ "RegistrationCUDA", "classRegistrationCUDA.html", null ],
     [ "TkeControllerNode::RobotData", "structTkeControllerNode_1_1RobotData.html", null ],
     [ "rm2_robot_handler::RobotHandler", "classrm2__robot__handler_1_1RobotHandler.html", null ],
     [ "rm2_robot_model::RobotModel", "classrm2__robot__model_1_1RobotModel.html", null ],
     [ "aimbot_diff_drive_controller::RollingMeanAccumulator< T >", "classaimbot__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
-    [ "eve_diff_drive_controller::RollingMeanAccumulator< T >", "classeve__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
     [ "gaemi0_g30_diff_drive_controller::RollingMeanAccumulator< T >", "classgaemi0__g30__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
-    [ "gaemi0_g30_diff_drive_controller::RollingMeanAccumulator< double >", "classgaemi0__g30__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
-    [ "eve_diff_drive_controller::RollingMeanAccumulator< double >", "classeve__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
+    [ "eve_diff_drive_controller::RollingMeanAccumulator< T >", "classeve__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
     [ "aimbot_diff_drive_controller::RollingMeanAccumulator< double >", "classaimbot__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
+    [ "eve_diff_drive_controller::RollingMeanAccumulator< double >", "classeve__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
+    [ "gaemi0_g30_diff_drive_controller::RollingMeanAccumulator< double >", "classgaemi0__g30__diff__drive__controller_1_1RollingMeanAccumulator.html", null ],
+    [ "zed::ROSParam", "structzed_1_1ROSParam.html", null ],
+    [ "gemini2::ROSParam", "structgemini2_1_1ROSParam.html", null ],
+    [ "cliff_detector::ROSParams", "structcliff__detector_1_1ROSParams.html", null ],
     [ "task_manager::RosTreeNode", "classtask__manager_1_1RosTreeNode.html", [
       [ "task_manager::AddPrefixSuffixAction", "classtask__manager_1_1AddPrefixSuffixAction.html", null ],
       [ "task_manager::AddTaskAction", "classtask__manager_1_1AddTaskAction.html", null ],
@@ -696,9 +744,9 @@ var hierarchy =
     [ "dynamixel_hardware_interface::RWItemList", "structdynamixel__hardware__interface_1_1RWItemList.html", null ],
     [ "aimbot_diff_drive_controller::SafetyFilter", "classaimbot__diff__drive__controller_1_1SafetyFilter.html", null ],
     [ "eve_diff_drive_controller::SafetyFilter", "classeve__diff__drive__controller_1_1SafetyFilter.html", null ],
-    [ "ScanCov::ScanCovariance", "classScanCov_1_1ScanCovariance.html", null ],
-    [ "PoseErrorEvaluation::Score", "structPoseErrorEvaluation_1_1Score.html", null ],
     [ "map_manager::Sector", "classmap__manager_1_1Sector.html", null ],
+    [ "ml_model::Segmentation", "classml__model_1_1Segmentation.html", null ],
+    [ "difflib::SequenceMatcher< T >", "classdifflib_1_1SequenceMatcher.html", null ],
     [ "antis_nav_util::ServiceClient< ServiceT >", "classantis__nav__util_1_1ServiceClient.html", null ],
     [ "antis_nav_util::ServiceClient< antis_nav_msgs::srv::ClearEntireCostmap >", "classantis__nav__util_1_1ServiceClient.html", [
       [ "antis_nav_util::ClearEntirelyCostmapServiceClient", "classantis__nav__util_1_1ClearEntirelyCostmapServiceClient.html", null ]
@@ -709,10 +757,9 @@ var hierarchy =
     [ "map_manager::SimpleMapServer", "classmap__manager_1_1SimpleMapServer.html", null ],
     [ "rm2_trajectory::SingleTrapezoidal", "classrm2__trajectory_1_1SingleTrapezoidal.html", null ],
     [ "gaemi0_g30_diff_drive_controller::SpeedLimiter", "classgaemi0__g30__diff__drive__controller_1_1SpeedLimiter.html", null ],
-    [ "aimbot_diff_drive_controller::SpeedLimiter", "classaimbot__diff__drive__controller_1_1SpeedLimiter.html", null ],
     [ "eve_diff_drive_controller::SpeedLimiter", "classeve__diff__drive__controller_1_1SpeedLimiter.html", null ],
+    [ "aimbot_diff_drive_controller::SpeedLimiter", "classaimbot__diff__drive__controller_1_1SpeedLimiter.html", null ],
     [ "StatusCheckRequest", "classStatusCheckRequest.html", null ],
-    [ "eve_heuristics::SteepFilter", "classeve__heuristics_1_1SteepFilter.html", null ],
     [ "Substitution", null, [
       [ "antis_nav_common.launch.has_node_params.HasNodeParams", "classantis__nav__common_1_1launch_1_1has__node__params_1_1HasNodeParams.html", null ],
       [ "antis_nav_common.launch.replace_string.ReplaceString", "classantis__nav__common_1_1launch_1_1replace__string_1_1ReplaceString.html", null ],
@@ -730,28 +777,30 @@ var hierarchy =
       [ "task_manager::SetBlackboardFromEnvAction", "classtask__manager_1_1SetBlackboardFromEnvAction.html", null ]
     ] ],
     [ "rm2_common::TaskValues", "classrm2__common_1_1TaskValues.html", null ],
+    [ "ClipperLib::TEdge", "structClipperLib_1_1TEdge.html", null ],
     [ "Test", null, [
       [ "TestAimbotDiffDriveController", "classTestAimbotDiffDriveController.html", null ],
       [ "TestEveDiffDriveController", "classTestEveDiffDriveController.html", null ],
       [ "TestGaemi0G30DiffDriveController", "classTestGaemi0G30DiffDriveController.html", null ]
     ] ],
+    [ "cliff_detector::TFParmas", "structcliff__detector_1_1TFParmas.html", null ],
     [ "rm2_common::TimeBaseDeque< Values >", "classrm2__common_1_1TimeBaseDeque.html", null ],
     [ "rm2_common::TimeBaseDeque< JointValues >", "classrm2__common_1_1TimeBaseDeque.html", null ],
-    [ "OdomFusion::TimeMatch< T0, T1 >", "structOdomFusion_1_1TimeMatch.html", null ],
     [ "motor_comm_module::MotorCommModule::TOF", "structmotor__comm__module_1_1MotorCommModule_1_1TOF.html", null ],
+    [ "detector_lib::TrjPoint", "structdetector__lib_1_1TrjPoint.html", null ],
     [ "rm2_common::Twist", "classrm2__common_1_1Twist.html", null ],
-    [ "eve_diff_drive_controller::UltrasonicData", "classeve__diff__drive__controller_1_1UltrasonicData.html", null ],
     [ "aimbot_diff_drive_controller::UltrasonicData", "classaimbot__diff__drive__controller_1_1UltrasonicData.html", null ],
-    [ "eve_diff_drive_controller::EveDiffDriveController::UltrasonicHandle", "structeve__diff__drive__controller_1_1EveDiffDriveController_1_1UltrasonicHandle.html", null ],
+    [ "eve_diff_drive_controller::UltrasonicData", "classeve__diff__drive__controller_1_1UltrasonicData.html", null ],
     [ "aimbot_diff_drive_controller::AimbotDiffDriveController::UltrasonicHandle", "structaimbot__diff__drive__controller_1_1AimbotDiffDriveController_1_1UltrasonicHandle.html", null ],
-    [ "eve_diff_drive_controller::SafetyFilter::UltrasonicRawData", "structeve__diff__drive__controller_1_1SafetyFilter_1_1UltrasonicRawData.html", null ],
+    [ "eve_diff_drive_controller::EveDiffDriveController::UltrasonicHandle", "structeve__diff__drive__controller_1_1EveDiffDriveController_1_1UltrasonicHandle.html", null ],
     [ "aimbot_diff_drive_controller::SafetyFilter::UltrasonicRawData", "structaimbot__diff__drive__controller_1_1SafetyFilter_1_1UltrasonicRawData.html", null ],
+    [ "eve_diff_drive_controller::SafetyFilter::UltrasonicRawData", "structeve__diff__drive__controller_1_1SafetyFilter_1_1UltrasonicRawData.html", null ],
+    [ "un", "unionun.html", null ],
+    [ "UsbHubPowerControl", "classUsbHubPowerControl.html", null ],
     [ "Xml::Encoding::Utf16Writer", "classXml_1_1Encoding_1_1Utf16Writer.html", null ],
     [ "Xml::Encoding::Utf32Writer", "classXml_1_1Encoding_1_1Utf32Writer.html", null ],
     [ "Xml::Encoding::Utf8Writer", "classXml_1_1Encoding_1_1Utf8Writer.html", null ],
-    [ "V", null, [
-      [ "rm2_common::StampedValue< V >", "structrm2__common_1_1StampedValue.html", null ]
-    ] ],
+    [ "csi_camera::V4L2Driver", "classcsi__camera_1_1V4L2Driver.html", null ],
     [ "antis_nav_amcl::VariableLogger", "classantis__nav__amcl_1_1VariableLogger.html", null ],
     [ "rm2_common::Vector", "classrm2__common_1_1Vector.html", null ],
     [ "rm2_filter::VectorLowPassFilter", "classrm2__filter_1_1VectorLowPassFilter.html", null ],
@@ -761,20 +810,20 @@ var hierarchy =
       [ "rm2_trajectory::TaskMinimumJerk", "classrm2__trajectory_1_1TaskMinimumJerk.html", null ],
       [ "rm2_trajectory::TaskTrapezoidal", "classrm2__trajectory_1_1TaskTrapezoidal.html", null ]
     ] ],
-    [ "Visualizer3D", null, [
-      [ "robotis::eve::RosVisualizer", "classrobotis_1_1eve_1_1RosVisualizer.html", null ]
-    ] ],
+    [ "zed::Video", "structzed_1_1Video.html", null ],
+    [ "detector_lib::Visualizer", "classdetector__lib_1_1Visualizer.html", null ],
     [ "antis_nav_voxel_grid::VoxelGrid", "classantis__nav__voxel__grid_1_1VoxelGrid.html", null ],
     [ "VoxelGrid", "classVoxelGrid.html", null ],
     [ "antis_nav_util::Waypoint", "classantis__nav__util_1_1Waypoint.html", null ],
     [ "aimbot_docking::Waypoint", "classaimbot__docking_1_1Waypoint.html", null ],
     [ "eve_diff_drive_controller::EveDiffDriveController::WheelHandle", "structeve__diff__drive__controller_1_1EveDiffDriveController_1_1WheelHandle.html", null ],
-    [ "aimbot_diff_drive_controller::AimbotDiffDriveController::WheelHandle", "structaimbot__diff__drive__controller_1_1AimbotDiffDriveController_1_1WheelHandle.html", null ],
     [ "gaemi0_g30_diff_drive_controller::Gaemi0G30DiffDriveController::WheelHandle", "structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1WheelHandle.html", null ],
+    [ "aimbot_diff_drive_controller::AimbotDiffDriveController::WheelHandle", "structaimbot__diff__drive__controller_1_1AimbotDiffDriveController_1_1WheelHandle.html", null ],
     [ "eve_diff_drive_controller::EveDiffDriveController::WheelParams", "structeve__diff__drive__controller_1_1EveDiffDriveController_1_1WheelParams.html", null ],
     [ "aimbot_diff_drive_controller::AimbotDiffDriveController::WheelParams", "structaimbot__diff__drive__controller_1_1AimbotDiffDriveController_1_1WheelParams.html", null ],
     [ "gaemi0_g30_diff_drive_controller::Gaemi0G30DiffDriveController::WheelParams", "structgaemi0__g30__diff__drive__controller_1_1Gaemi0G30DiffDriveController_1_1WheelParams.html", null ],
     [ "rm2_common::Wrench", "classrm2__common_1_1Wrench.html", null ],
+    [ "zed::ZEDParam", "structzed_1_1ZEDParam.html", null ],
     [ "antis_nav_voxel_grid::VoxelGrid::ZOffset", "classantis__nav__voxel__grid_1_1VoxelGrid_1_1ZOffset.html", null ],
     [ "aimbot_docking::Zone", "structaimbot__docking_1_1Zone.html", null ],
     [ "Enum", null, [

@@ -1,6 +1,0 @@
-<map id="rm2_robot_model::RobotModel::get_dof" name="rm2_robot_model::RobotModel::get_dof">
-<area shape="rect" id="node1" title=" " alt="" coords="256,93,479,134"/>
-<area shape="rect" id="node2" href="$classrm2__jacobian__solver__basic_1_1JacobianSolverBasic.html#a7b0ff6c75ef99bc86bc4c86915b0b8a6" title=" " alt="" coords="5,5,208,61"/>
-<area shape="rect" id="node3" href="$classrm2__robot__handler_1_1RobotHandler.html#a8f875c36c6e00bac799d20bc95ef845c" title=" " alt="" coords="27,85,186,141"/>
-<area shape="rect" id="node4" href="$classrm2__robot__handler_1_1RobotHandler.html#acb48ca24754c1e8668cfe2ba48353f66" title=" " alt="" coords="29,165,185,221"/>
-</map>

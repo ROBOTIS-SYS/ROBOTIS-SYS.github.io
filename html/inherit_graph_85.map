@@ -1,31 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,689,84,716"/>
-<area shape="rect" id="node2" href="$classcontrol__gui_1_1SubWindowForm.html" title=" " alt="" coords="135,5,345,32"/>
-<area shape="rect" id="node3" href="$classcontrol__gui_1_1WebWindowForm.html" title=" " alt="" coords="132,56,348,83"/>
-<area shape="rect" id="node4" href="$classPageArrived.html" title=" " alt="" coords="189,107,291,133"/>
-<area shape="rect" id="node5" href="$classPageArrivedDocent.html" title=" " alt="" coords="167,157,313,184"/>
-<area shape="rect" id="node6" href="$classPageArrivedSwingDoor.html" title=" " alt="" coords="155,208,325,235"/>
-<area shape="rect" id="node7" href="$classPageArrivedTray.html" title=" " alt="" coords="175,259,305,285"/>
-<area shape="rect" id="node8" href="$classPageBooting.html" title=" " alt="" coords="188,309,292,336"/>
-<area shape="rect" id="node9" href="$classPageCallWaiting.html" title=" " alt="" coords="175,360,305,387"/>
-<area shape="rect" id="node10" href="$classPageCheckTray.html" title=" " alt="" coords="179,411,301,437"/>
-<area shape="rect" id="node11" href="$classPageCheckTraySwingDoor.html" title=" " alt="" coords="144,461,336,488"/>
-<area shape="rect" id="node12" href="$classPageCheckTrayTray.html" title=" " alt="" coords="165,512,315,539"/>
-<area shape="rect" id="node13" href="$classPageChooseServiceType.html" title=" " alt="" coords="150,563,330,589"/>
-<area shape="rect" id="node14" href="$classPageDeliveryStart.html" title=" " alt="" coords="170,613,310,640"/>
-<area shape="rect" id="node15" href="$classPageFloorInfo.html" title=" " alt="" coords="184,664,296,691"/>
-<area shape="rect" id="node16" href="$classPageInfo.html" title=" " alt="" coords="201,715,279,741"/>
-<area shape="rect" id="node17" href="$classPageInputDelivery.html" title=" " alt="" coords="169,765,311,792"/>
-<area shape="rect" id="node18" href="$classPageInputDeliveryDrawer.html" title=" " alt="" coords="145,816,335,843"/>
-<area shape="rect" id="node19" href="$classPageInputDeliverySwingDoor.html" title=" " alt="" coords="134,867,346,893"/>
-<area shape="rect" id="node20" href="$classPageInputDeliveryTray.html" title=" " alt="" coords="155,917,325,944"/>
-<area shape="rect" id="node21" href="$classPageInputDocent.html" title=" " alt="" coords="173,968,307,995"/>
-<area shape="rect" id="node22" href="$classPageInputPassNumber.html" title=" " alt="" coords="155,1019,325,1045"/>
-<area shape="rect" id="node23" href="$classPageLanguage.html" title=" " alt="" coords="181,1069,299,1096"/>
-<area shape="rect" id="node24" href="$classPageStartGoBack.html" title=" " alt="" coords="173,1120,307,1147"/>
-<area shape="rect" id="node25" href="$classPageWaiting.html" title=" " alt="" coords="188,1171,292,1197"/>
-<area shape="rect" id="node26" href="$classPageWaitingWith.html" title=" " alt="" coords="173,1221,307,1248"/>
-<area shape="rect" id="node27" href="$classPageWarning.html" title=" " alt="" coords="186,1272,294,1299"/>
-<area shape="rect" id="node28" href="$classPageWebcall.html" title=" " alt="" coords="187,1323,293,1349"/>
-<area shape="rect" id="node29" href="$classPageWelcome.html" title=" " alt="" coords="183,1373,297,1400"/>
+<area shape="rect" id="node1" href="$structcliff__detector_1_1ROSParams.html" title=" " alt="" coords="5,5,197,32"/>
 </map>

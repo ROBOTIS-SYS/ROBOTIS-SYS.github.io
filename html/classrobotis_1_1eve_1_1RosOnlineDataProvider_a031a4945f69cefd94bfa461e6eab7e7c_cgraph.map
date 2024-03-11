@@ -1,5 +1,0 @@
-<map id="robotis::eve::RosOnlineDataProvider::spin" name="robotis::eve::RosOnlineDataProvider::spin">
-<area shape="rect" id="node1" title="spin Runs the ros online data provider. Parallel mode: starts async spinners, and returns true unless..." alt="" coords="5,39,209,80"/>
-<area shape="rect" id="node2" href="$classrobotis_1_1eve_1_1RosOnlineDataProvider.html#a9b00196c3f4c147fc442dd601ec14558" title="parallelSpin Runs the dataprovider in parallel mode. It just starts the asynchronous spinners and the..." alt="" coords="257,5,461,47"/>
-<area shape="rect" id="node3" href="$classrobotis_1_1eve_1_1RosOnlineDataProvider.html#adb41aa6143f5a6b5a92621213e8c9972" title="sequentialSpin Runs the dataprovider in sequential mode. It calls the callbacks in the dedicated IMU ..." alt="" coords="257,71,461,112"/>
-</map>

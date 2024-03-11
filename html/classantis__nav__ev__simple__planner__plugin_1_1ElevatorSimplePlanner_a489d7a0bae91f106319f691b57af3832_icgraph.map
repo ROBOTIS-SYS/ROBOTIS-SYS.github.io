@@ -1,4 +1,0 @@
-<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::on_parameter_event_callback" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::on_parameter_event_callback">
-<area shape="rect" id="node1" title="client to change the parameter value by request" alt="" coords="285,5,517,76"/>
-<area shape="rect" id="node2" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#a3ffae8b1c2122c8ce66027b6039d5c0c" title="Configuring plugin." alt="" coords="5,13,237,69"/>
-</map>

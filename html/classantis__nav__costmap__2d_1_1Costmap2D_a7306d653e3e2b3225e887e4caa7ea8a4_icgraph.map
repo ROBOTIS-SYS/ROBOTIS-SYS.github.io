@@ -1,5 +1,0 @@
-<map id="antis_nav_costmap_2d::Costmap2D::copyMapRegion" name="antis_nav_costmap_2d::Costmap2D::copyMapRegion">
-<area shape="rect" id="node1" title="Copy a region of a source map into a destination map." alt="" coords="497,5,716,47"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#adea987c19f545c8763a7fd95de3ca63b" title="Move the origin of the costmap to a new location.... keeping data when it can." alt="" coords="256,5,449,47"/>
-<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1VoxelLayer.html#af0924f39ff3d0a3120e15abe4f88d9d9" title="This is called by the LayeredCostmap to poll this plugin as to how much of the costmap it needs to up..." alt="" coords="5,5,208,47"/>
-</map>

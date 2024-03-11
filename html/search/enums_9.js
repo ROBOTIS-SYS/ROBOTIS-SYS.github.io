@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['loglevel_12778',['LogLevel',['../classcontrol__gui_1_1RosNode.html#a381bd8e298bf6be0011b6545bd0b8f5c',1,'control_gui::RosNode']]]
+  ['knockmotionstate_14744',['KnockMotionState',['../namespacegc__knock__control.html#a5634acf73e6cab07c1a327eb5ef2c863',1,'gc_knock_control::KnockMotionState()'],['../namespacegc__knock__control__with__imu.html#a5596bb7effc122b9fcd8a2af5cad3260',1,'gc_knock_control_with_imu::KnockMotionState()']]]
 ];

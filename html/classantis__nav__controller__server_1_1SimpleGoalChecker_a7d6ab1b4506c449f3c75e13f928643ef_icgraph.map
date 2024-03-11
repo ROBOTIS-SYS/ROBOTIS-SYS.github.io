@@ -1,4 +1,0 @@
-<map id="antis_nav_controller_server::SimpleGoalChecker::isGoalReached" name="antis_nav_controller_server::SimpleGoalChecker::isGoalReached">
-<area shape="rect" id="node1" title="Check whether the goal should be considered reached." alt="" coords="267,5,472,61"/>
-<area shape="rect" id="node2" href="$classantis__nav__controller__server_1_1StoppedGoalChecker.html#a756e661fe83e67734d6f2d51d1c50741" title="Check whether the goal should be considered reached." alt="" coords="5,5,219,61"/>
-</map>

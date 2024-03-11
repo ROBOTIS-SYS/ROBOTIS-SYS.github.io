@@ -1,7 +1,0 @@
-<map id="antis_nav_costmap_2d::InflationLayer::computeCost" name="antis_nav_costmap_2d::InflationLayer::computeCost">
-<area shape="rect" id="node1" title="Given a distance, compute a cost." alt="" coords="784,43,999,84"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a017cc7299b7a65baa61cdfee5345dd17" title=" " alt="" coords="504,43,736,84"/>
-<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a44e9cc1429c2e365af72039463f600f4" title="Implement this to make this layer match the size of the parent costmap." alt="" coords="257,5,453,47"/>
-<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#a00983501071a9f1927dea8dfdd545ffd" title="LayeredCostmap calls this whenever the footprint there changes (via LayeredCostmap::setFootprint())...." alt="" coords="253,71,456,127"/>
-<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1InflationLayer.html#af895028e2bee28ebfed160fbbe45762b" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="5,5,205,47"/>
-</map>

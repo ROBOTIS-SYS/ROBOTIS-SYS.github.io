@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['voxelstatus_12808',['VoxelStatus',['../namespaceantis__nav__voxel__grid.html#a0b7e43aad23e0e4bce1d6fbbf3930f29',1,'antis_nav_voxel_grid']]]
+  ['ultrasonicerror_14772',['UltrasonicError',['../classmotor__comm__module_1_1MotorCommModule.html#af5e5e3db08b406c214aa6587bbeb85f7',1,'motor_comm_module::MotorCommModule::UltrasonicError()'],['../classmotor__comm__module_1_1MotorCommModule.html#af5e5e3db08b406c214aa6587bbeb85f7',1,'motor_comm_module::MotorCommModule::UltrasonicError()']]]
 ];

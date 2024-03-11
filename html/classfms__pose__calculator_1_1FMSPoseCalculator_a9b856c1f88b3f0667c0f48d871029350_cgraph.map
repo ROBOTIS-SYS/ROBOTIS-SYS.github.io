@@ -1,0 +1,12 @@
+<map id="fms_pose_calculator::FMSPoseCalculator::fms_robot_agent_callback" name="fms_pose_calculator::FMSPoseCalculator::fms_robot_agent_callback">
+<area shape="rect" id="node1" title=" " alt="" coords="5,259,207,315"/>
+<area shape="rect" id="node2" href="$classCameraGeometry.html#a7f67f071bf122cb0326fa96a4d758934" title="스테레오 카메라의 베이스 거리를 반환" alt="" coords="281,5,447,47"/>
+<area shape="rect" id="node3" href="$classCameraGeometry.html#a14d9427a9fb0ab7fa214ccb773f23fe0" title="카메라의 초점거리를 반환" alt="" coords="281,71,447,112"/>
+<area shape="rect" id="node4" href="$classCameraGeometry.html#ab0cc1a92b02bdcedb9b2d384b586591d" title="카메라의 영상 크기를 반환" alt="" coords="281,136,447,177"/>
+<area shape="rect" id="node5" href="$classCameraGeometry.html#a360498d177768d5cdb74507ccfaae481" title="카메라의 x축 주점을 반환" alt="" coords="281,201,447,243"/>
+<area shape="rect" id="node6" href="$classCameraGeometry.html#a692bfe199731180d683537abea58cb98" title="카메라의 y축 주점을 반환" alt="" coords="281,267,447,308"/>
+<area shape="rect" id="node7" href="$classCameraGeometry.html#af66a0979c8af15a0e7c633b25501cfb7" title="카메라 좌표계와 로봇 좌표계 사이의 회전 행렬 반환" alt="" coords="281,332,447,373"/>
+<area shape="rect" id="node8" href="$classCameraGeometry.html#a1099e99bb9b7a8d5ff6da73fa47d78f8" title="클래스의 인스턴스 주소를 반환" alt="" coords="281,397,447,439"/>
+<area shape="rect" id="node9" href="$structButtonPose.html#a42df6c4b4b595599ba1546262cc84493" title=" " alt="" coords="297,463,431,490"/>
+<area shape="rect" id="node10" href="$classCameraGeometry.html#a7c8bc436357a190424e206dfd9641870" title="스테레오 영상의 대응점과 각 카메라의 투영 행렬을 이용하여 3D 좌표점을 선형 방적식을 통해 복원하고 이를 반환" alt="" coords="255,514,473,541"/>
+</map>

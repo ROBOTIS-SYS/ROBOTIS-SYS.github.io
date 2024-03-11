@@ -1,8 +1,0 @@
-<map id="control_gui::RosNode::clear_costmap" name="control_gui::RosNode::clear_costmap">
-<area shape="rect" id="node1" title=" " alt="" coords="643,71,803,112"/>
-<area shape="rect" id="node2" href="$classcontrol__gui_1_1RosNode.html#a2cbd36fa1f3cc0a53d7f34fa292139ef" title=" " alt="" coords="435,5,595,47"/>
-<area shape="rect" id="node5" href="$classcontrol__gui_1_1RosNode.html#aafb9710c364a084d7927fe5fcf990886" title=" " alt="" coords="435,71,595,112"/>
-<area shape="rect" id="node6" href="$classcontrol__gui_1_1RosNode.html#a370af776bfba521dda460c21a1b37077" title=" " alt="" coords="213,100,387,141"/>
-<area shape="rect" id="node3" href="$classcontrol__gui_1_1RosNode.html#a03b15e45a2f30a60fc523835ea9f148d" title=" " alt="" coords="220,5,380,47"/>
-<area shape="rect" id="node4" href="$classcontrol__gui_1_1RosNode.html#af54772b0689f19a12477bddf088dbdf1" title=" " alt="" coords="5,5,165,47"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::calc_simple_path" name="antis_nav_ev_simple_planner_plugin::ElevatorSimplePlanner::calc_simple_path">
-<area shape="rect" id="node1" title="generate a path connecting path segments" alt="" coords="285,5,517,61"/>
-<area shape="rect" id="node2" href="$classantis__nav__ev__simple__planner__plugin_1_1ElevatorSimplePlanner.html#ad1f3af5a7b9ec9c994f6515ea2e4e5db" title="Creating a plan from start and goal poses." alt="" coords="5,5,237,61"/>
-</map>

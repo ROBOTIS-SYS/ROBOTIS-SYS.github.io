@@ -1,0 +1,22 @@
+<map id="ml_model::OcrDetection::post_processing" name="ml_model::OcrDetection::post_processing">
+<area shape="rect" id="node1" title=" " alt="" coords="5,332,185,373"/>
+<area shape="rect" id="node2" href="$classml__model_1_1OcrDetection.html#a7557d5af62e9bd78958d4788cfe08254" title=" " alt="" coords="233,136,413,177"/>
+<area shape="rect" id="node13" href="$classml__model_1_1OcrDetection.html#aad804598a51d26d6d1e3ad5ee4baeee7" title=" " alt="" coords="233,332,413,373"/>
+<area shape="rect" id="node18" href="$classml__model_1_1OcrDetection.html#afc1167bb5e0d8051fd96d1e4b8275bcd" title=" " alt="" coords="233,429,413,471"/>
+<area shape="rect" id="node3" href="$classml__model_1_1OcrDetection.html#ac7290bc3c13a2bc707b0316b35bc946b" title=" " alt="" coords="469,5,649,47"/>
+<area shape="rect" id="node5" href="$classml__model_1_1OcrDetection.html#a86eb48d90545e36ad8952eec756c5e39" title=" " alt="" coords="469,71,649,112"/>
+<area shape="rect" id="node6" href="$classml__model_1_1OcrDetection.html#a31af14eee5d8c294dea1e86ae857f644" title=" " alt="" coords="469,136,649,177"/>
+<area shape="rect" id="node9" href="$classml__model_1_1OcrDetection.html#a5c8e71e0a76a94482db9d7b3e9cb4805" title=" " alt="" coords="469,201,649,243"/>
+<area shape="rect" id="node4" href="$classml__model_1_1OcrDetection.html#a5e63151e61712f45697383102625f468" title=" " alt="" coords="705,5,885,47"/>
+<area shape="rect" id="node7" href="$classml__model_1_1OcrDetection.html#a1dc058ff4b230f5ae022afb87cb22400" title=" " alt="" coords="705,71,885,112"/>
+<area shape="rect" id="node8" href="$classml__model_1_1OcrDetection.html#a1f515c2347cf93974d3119135b57e64d" title=" " alt="" coords="705,136,885,177"/>
+<area shape="rect" id="node10" href="$classClipperLib_1_1ClipperOffset.html#a0cd68e3690072f510924a5b25291043b" title=" " alt="" coords="704,201,885,243"/>
+<area shape="rect" id="node11" href="$classClipperLib_1_1ClipperOffset.html#ac591b25e483a52c99c3190a256ad4589" title=" " alt="" coords="704,267,885,308"/>
+<area shape="rect" id="node12" href="$classClipperLib_1_1Clipper.html#a2e4a15e6f79a5f583b42c9701b839e01" title=" " alt="" coords="933,267,1075,308"/>
+<area shape="rect" id="node14" href="$classml__model_1_1OcrDetection.html#a1d82ea8e8ff7425aa6f1e598b367f9bf" title=" " alt="" coords="469,267,649,308"/>
+<area shape="rect" id="node15" href="$classml__model_1_1OcrDetection.html#a66459021211aadba910c8ac1c3972722" title=" " alt="" coords="469,332,649,373"/>
+<area shape="rect" id="node16" href="$classml__model_1_1OcrDetection.html#a0bd63f6feaa9f9d04855bc2fa1cd4e80" title=" " alt="" coords="461,397,656,439"/>
+<area shape="rect" id="node17" href="$classml__model_1_1OcrDetection.html#a63e1c3985347a1d215686bbea9d3c8df" title=" " alt="" coords="705,397,885,439"/>
+<area shape="rect" id="node19" href="$classml__model_1_1OcrDetection.html#af62674e8d638e3f2900d7490638f3d6c" title=" " alt="" coords="469,463,649,504"/>
+<area shape="rect" id="node20" href="$classml__model_1_1OcrDetection.html#a4a41a231856413bf6b5075a48b73cfcb" title=" " alt="" coords="705,463,885,504"/>
+</map>

@@ -1,4 +1,0 @@
-<map id="Xml::Inspector::Reset" name="Xml::Inspector::Reset">
-<area shape="rect" id="node1" title="Removes the association with the source and resets the state of Inspector object." alt="" coords="237,5,399,32"/>
-<area shape="rect" id="node2" href="$classXml_1_1Inspector.html#ae54fa4de8dbce7d59addcc4566b346ca" title="Initializes a new instance of the Inspector class with the specified file path." alt="" coords="5,5,189,32"/>
-</map>

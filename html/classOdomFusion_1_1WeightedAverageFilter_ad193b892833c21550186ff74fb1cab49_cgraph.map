@@ -1,7 +1,0 @@
-<map id="OdomFusion::WeightedAverageFilter::optimize_graph" name="OdomFusion::WeightedAverageFilter::optimize_graph">
-<area shape="rect" id="node1" title=" " alt="" coords="5,104,232,145"/>
-<area shape="rect" id="node2" href="$classeve__utils_1_1RingVector.html#a3f250ba34967efdce916a139b91da6e4" title=" " alt="" coords="307,5,467,47"/>
-<area shape="rect" id="node3" href="$classOdomFusion_1_1OdomFilterBase.html#ab8b6f6aedf58425f76c8fbd2c36266a2" title=" " alt="" coords="280,71,495,112"/>
-<area shape="rect" id="node4" href="$classeve__utils_1_1RingVector.html#a8dcc98fa8161630e901be25329f026f9" title=" " alt="" coords="307,136,467,177"/>
-<area shape="rect" id="node5" href="$classOdomFusion_1_1OdomFilterBase.html#a0e25deb6ccdc4d4fff1c372f60e51a9e" title=" " alt="" coords="280,201,495,243"/>
-</map>

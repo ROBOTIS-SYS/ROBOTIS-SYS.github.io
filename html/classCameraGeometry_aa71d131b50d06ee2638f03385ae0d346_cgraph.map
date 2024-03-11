@@ -1,0 +1,6 @@
+<map id="CameraGeometry::create_frustum" name="CameraGeometry::create_frustum">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$classCameraGeometry.html#ad7cc6b923e895c097d3c80a02b73f256" title="카메라의 외부 파라미터를 반환" alt="" coords="240,5,407,47"/>
+<area shape="rect" id="node3" href="$classCameraGeometry.html#ab0cc1a92b02bdcedb9b2d384b586591d" title="카메라의 영상 크기를 반환" alt="" coords="240,71,407,112"/>
+<area shape="rect" id="node4" href="$classCameraGeometry.html#a993497a3121bbe6dde2555e1ef09a3b1" title="카메라의 투영 행렬 반환" alt="" coords="240,136,407,177"/>
+</map>

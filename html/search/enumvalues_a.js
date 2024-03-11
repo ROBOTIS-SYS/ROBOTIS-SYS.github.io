@@ -1,5 +1,19 @@
 var searchData=
 [
-  ['kalman_5ffilter_5f2d_12959',['KALMAN_FILTER_2D',['../namespaceOdomFusion.html#a7933755c35befa57356d876d65cb3fcba9281d098f14001ae4c00416bae4472e2',1,'OdomFusion']]],
-  ['knocking_12960',['Knocking',['../namespacegc__knock__control.html#a5634acf73e6cab07c1a327eb5ef2c863afd218cc0779a3b4df43e7cae1f1bda0c',1,'gc_knock_control::Knocking()'],['../namespacegc__knock__control__with__imu.html#a5596bb7effc122b9fcd8a2af5cad3260afd218cc0779a3b4df43e7cae1f1bda0c',1,'gc_knock_control_with_imu::Knocking()']]]
+  ['kdeviceconnected_14935',['kDeviceConnected',['../namespacegemini2.html#add06a7e92e72ec345af6be5b425d2d5da38c398a09749065ddd8835e6818b99b8',1,'gemini2']]],
+  ['kdevicecountupdate_14936',['kDeviceCountUpdate',['../namespacegemini2.html#add06a7e92e72ec345af6be5b425d2d5da2c392bc36b109083c0a3af479c5f1814',1,'gemini2']]],
+  ['kdevicedisconnected_14937',['kDeviceDisconnected',['../namespacegemini2.html#add06a7e92e72ec345af6be5b425d2d5da8b056c4a45fafc0a8791dd221e0b771a',1,'gemini2']]],
+  ['knocking_14938',['Knocking',['../namespacegc__knock__control.html#a5634acf73e6cab07c1a327eb5ef2c863afd218cc0779a3b4df43e7cae1f1bda0c',1,'gc_knock_control::Knocking()'],['../namespacegc__knock__control__with__imu.html#a5596bb7effc122b9fcd8a2af5cad3260afd218cc0779a3b4df43e7cae1f1bda0c',1,'gc_knock_control_with_imu::Knocking()']]],
+  ['koasispipedatatypeaudiopcm16be_14939',['kOasisPipeDataTypeAudioPCM16BE',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826ab25ff95a381be3eee059520313b15aa7',1,'oasis']]],
+  ['koasispipedatatypeaudiopcm16le_14940',['kOasisPipeDataTypeAudioPCM16LE',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826ad1cbc8813ed825d3808aa110cd17296a',1,'oasis']]],
+  ['koasispipedatatypevideoargb_14941',['kOasisPipeDataTypeVideoARGB',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826aaee8559042ff0263e618809816503e31',1,'oasis']]],
+  ['koasispipedatatypevideobgra_14942',['kOasisPipeDataTypeVideoBGRA',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826a34b1c00b44d947f0bbb2704c7f03df56',1,'oasis']]],
+  ['koasispipedatatypevideonv12_14943',['kOasisPipeDataTypeVideoNV12',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826aa02a1b618a026d3ce255d63cf182f101',1,'oasis']]],
+  ['koasispipedatatypevideonv21_14944',['kOasisPipeDataTypeVideoNV21',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826a6e3ee9469bc657c93714a4d294dd631d',1,'oasis']]],
+  ['koasispipedatatypevideoyuv420_14945',['kOasisPipeDataTypeVideoYUV420',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826a7f98481f1c9298dffa1650fa438521d1',1,'oasis']]],
+  ['koasispipedatatypevideoyuyv_14946',['kOasisPipeDataTypeVideoYUYV',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826a7c5b58e8c155efb419cfb1a0083c37ca',1,'oasis']]],
+  ['koasispipedatatypevideoyvu420_14947',['kOasisPipeDataTypeVideoYVU420',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826a848dfca18cd6833d6b3e4ed8322ef354',1,'oasis']]],
+  ['koasispipedatatypevideoyvyu_14948',['kOasisPipeDataTypeVideoYVYU',['../namespaceoasis.html#a8f4377effb47b9591e87794e183fe826ae6ed831fd63c0ca0c4ea642d209473b5',1,'oasis']]],
+  ['kotherdeviceconnected_14949',['kOtherDeviceConnected',['../namespacegemini2.html#add06a7e92e72ec345af6be5b425d2d5da7095c51a8773ff7d8e6d819b4ee90dc1',1,'gemini2']]],
+  ['kotherdevicedisconnected_14950',['kOtherDeviceDisconnected',['../namespacegemini2.html#add06a7e92e72ec345af6be5b425d2d5daa94b8944fb62d5cc45a10f0c04291d7d',1,'gemini2']]]
 ];

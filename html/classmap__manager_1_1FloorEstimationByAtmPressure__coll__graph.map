@@ -1,0 +1,4 @@
+<map id="map_manager::FloorEstimationByAtmPressure" name="map_manager::FloorEstimationByAtmPressure">
+<area shape="rect" id="node1" title="대기압을 이용하여 층을 추정하는 클래스입니다." alt="" coords="5,124,232,165"/>
+<area shape="rect" id="node2" title=" " alt="" coords="89,5,148,32"/>
+</map>

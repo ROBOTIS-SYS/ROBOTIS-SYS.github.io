@@ -1,6 +1,0 @@
-<map id="manipulator_gui::RosNode::gc_push_target_result_callback" name="manipulator_gui::RosNode::gc_push_target_result_callback">
-<area shape="rect" id="node1" title=" " alt="" coords="745,5,940,61"/>
-<area shape="rect" id="node2" href="$classmanipulator__gui_1_1RosNode.html#a2ef4a53d6ba82aaeb9846abf2271007e" title="BT action &#45; gc push target action." alt="" coords="491,13,697,54"/>
-<area shape="rect" id="node3" href="$classmanipulator__gui_1_1RosNode.html#a6dd67938fba8b81512405d300a620b53" title=" " alt="" coords="248,13,443,54"/>
-<area shape="rect" id="node4" href="$classmanipulator__gui_1_1RosNode.html#abd400bdecf5af577b2589e2acdcaca69" title="BT action &#45; tracking action." alt="" coords="5,13,200,54"/>
-</map>

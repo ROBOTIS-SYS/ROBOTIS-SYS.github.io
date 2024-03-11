@@ -1,0 +1,4 @@
+<map id="map_manager::FloorEstimationByAtmPressure::initialize" name="map_manager::FloorEstimationByAtmPressure::initialize">
+<area shape="rect" id="node1" title="층 추정을 초기화하는 함수입니다. 층의 고도를 YAML 파일에서 로드하고 대기압 토픽을 구독합니다." alt="" coords="5,13,232,54"/>
+<area shape="rect" id="node2" href="$classmap__manager_1_1FloorEstimationByAtmPressure.html#a0783be694aa9132d52f097d086b2bec9" title="초기 층에 대한 상대 고도를 설정하는 함수입니다." alt="" coords="280,5,507,61"/>
+</map>

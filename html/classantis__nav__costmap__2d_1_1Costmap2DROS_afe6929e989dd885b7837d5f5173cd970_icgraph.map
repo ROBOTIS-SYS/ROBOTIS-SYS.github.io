@@ -1,8 +1,0 @@
-<map id="antis_nav_costmap_2d::Costmap2DROS::getCostmap" name="antis_nav_costmap_2d::Costmap2DROS::getCostmap">
-<area shape="rect" id="node1" title="Return a pointer to the &quot;master&quot; costmap which receives updates from all the layers." alt="" coords="693,44,913,85"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#aa9ac953de1d14d3c8646b7e68346990b" title=" " alt="" coords="475,37,645,93"/>
-<area shape="rect" id="node4" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a492024f724ec41d25e5a837d47f242cd" title=" " alt="" coords="5,37,176,93"/>
-<area shape="rect" id="node5" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a4af13795d64d6a18d33ebf33a78a040f" title=" " alt="" coords="475,117,645,173"/>
-<area shape="rect" id="node3" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#a7f3aa3b7e6866015ad815e991affe140" title=" " alt="" coords="224,37,427,93"/>
-<area shape="rect" id="node6" href="$classantis__nav__costmap__2d_1_1ClearCostmapService.html#afa7ce9e2dd66bb036888458be9bad573" title=" " alt="" coords="240,117,411,173"/>
-</map>

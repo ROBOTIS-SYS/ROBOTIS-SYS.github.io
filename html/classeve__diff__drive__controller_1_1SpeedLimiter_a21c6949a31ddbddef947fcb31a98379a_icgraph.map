@@ -1,5 +1,0 @@
-<map id="eve_diff_drive_controller::SpeedLimiter::limit_acceleration" name="eve_diff_drive_controller::SpeedLimiter::limit_acceleration">
-<area shape="rect" id="node1" title="Limit the acceleration." alt="" coords="469,13,711,54"/>
-<area shape="rect" id="node2" href="$classeve__diff__drive__controller_1_1SpeedLimiter.html#ab89f258fae29038a1b042620d0cec117" title="Limit the velocity and acceleration." alt="" coords="237,13,421,54"/>
-<area shape="rect" id="node3" href="$classeve__diff__drive__controller_1_1EveDiffDriveController.html#a3a8cc4bff4196f5d20a50cd650e1f25b" title=" " alt="" coords="5,5,189,61"/>
-</map>

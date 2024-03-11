@@ -1,7 +1,0 @@
-<map id="antis_nav_planner_server::PlannerServer::publishPlan" name="antis_nav_planner_server::PlannerServer::publishPlan">
-<area shape="rect" id="node1" title="Publish a path for visualization purposes." alt="" coords="583,79,787,120"/>
-<area shape="rect" id="node2" href="$classantis__nav__planner__server_1_1PlannerServer.html#a181c64db436c766dce51daf84e3b3ee6" title="The action server callback which calls planner to get the path from start to goal." alt="" coords="293,5,508,47"/>
-<area shape="rect" id="node4" href="$classantis__nav__planner__server_1_1PlannerServer.html#a85a985e3c0c191e4379a140415e506aa" title="The action server callback which calls planner to get the path through goals." alt="" coords="267,71,535,127"/>
-<area shape="rect" id="node5" href="$classantis__nav__planner__server_1_1PlannerServer.html#a75f3dc7f9c3e8dc3048aa650c14c39c5" title="The action server callback which calls planner to get the path from a pose to another pose." alt="" coords="267,151,535,207"/>
-<area shape="rect" id="node3" href="$classantis__nav__planner__server_1_1PlannerServer.html#a518d5731ff93e426cee3d9b61d240740" title="Configure member variables and initializes planner." alt="" coords="5,79,219,120"/>
-</map>

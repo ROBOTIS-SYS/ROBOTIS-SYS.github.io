@@ -1,0 +1,11 @@
+<map id="detector_lib::Visualizer::get_closest_patch_image" name="detector_lib::Visualizer::get_closest_patch_image">
+<area shape="rect" id="node1" title=" " alt="" coords="5,202,200,243"/>
+<area shape="rect" id="node2" href="$classdetector__lib_1_1Visualizer.html#aca8e6524c0d242223b6eee187d9be226" title=" " alt="" coords="248,5,441,61"/>
+<area shape="rect" id="node4" href="$classCameraGeometry.html#a1099e99bb9b7a8d5ff6da73fa47d78f8" title="클래스의 인스턴스 주소를 반환" alt="" coords="489,78,656,119"/>
+<area shape="rect" id="node5" href="$classdetector__lib_1_1Visualizer.html#acc5ccddca44e2083605b377dead00296" title=" " alt="" coords="259,137,430,178"/>
+<area shape="rect" id="node6" href="$classdetector__lib_1_1Visualizer.html#a6c87df00748b50b4d6895c4372aa1811" title=" " alt="" coords="259,202,430,243"/>
+<area shape="rect" id="node7" href="$classCameraGeometry.html#a993497a3121bbe6dde2555e1ef09a3b1" title="카메라의 투영 행렬 반환" alt="" coords="261,267,428,309"/>
+<area shape="rect" id="node8" href="$classCameraGeometry.html#af66a0979c8af15a0e7c633b25501cfb7" title="카메라 좌표계와 로봇 좌표계 사이의 회전 행렬 반환" alt="" coords="261,333,428,374"/>
+<area shape="rect" id="node9" href="$classCameraGeometry.html#a2d5ba9598e03a64c3e3c417c15261dd0" title="투영 행렬을 이용하여 카메라 영상 평면에 입력된 좌표점들을 투영하고, 투영점들을 반환" alt="" coords="249,398,440,439"/>
+<area shape="rect" id="node3" href="$classCameraGeometry.html#ab0cc1a92b02bdcedb9b2d384b586591d" title="카메라의 영상 크기를 반환" alt="" coords="489,13,656,54"/>
+</map>

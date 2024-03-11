@@ -1,8 +1,0 @@
-<map id="task_manager::ServiceManager::publish_tree_status" name="task_manager::ServiceManager::publish_tree_status">
-<area shape="rect" id="node1" title=" " alt="" coords="833,39,1061,80"/>
-<area shape="rect" id="node2" href="$classtask__manager_1_1ServiceManager.html#a9be6284eef3692954e602eede9e03a7b" title="작업(Task) 수행 함수" alt="" coords="557,5,785,47"/>
-<area shape="rect" id="node5" href="$classtask__manager_1_1ServiceManager.html#a8f70bfcd2f6f59c11d28a6b42fef1fe4" title=" " alt="" coords="557,71,785,112"/>
-<area shape="rect" id="node3" href="$classtask__manager_1_1ServiceManager.html#a8adbd116cc261d80eaf02f1def03f402" title=" " alt="" coords="281,5,509,47"/>
-<area shape="rect" id="node4" href="$classtask__manager_1_1ServiceManager.html#a0df44eba50a2b64cd9216fa4b38d9068" title="ServiceManager 클래스 생성자" alt="" coords="5,5,233,47"/>
-<area shape="rect" id="node6" href="$classtask__manager_1_1ServiceManager.html#a5ef1d6d2ea4e302e1c884500ade608c6" title="service manager 기본 수행 트리 동작" alt="" coords="281,71,509,112"/>
-</map>

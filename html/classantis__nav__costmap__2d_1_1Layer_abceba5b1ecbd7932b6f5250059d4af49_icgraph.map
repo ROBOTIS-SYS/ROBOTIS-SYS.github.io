@@ -1,4 +1,0 @@
-<map id="antis_nav_costmap_2d::Layer::onInitialize" name="antis_nav_costmap_2d::Layer::onInitialize">
-<area shape="rect" id="node1" title="This is called at the end of initialize(). Override to implement subclass&#45;specific initialization." alt="" coords="224,5,395,47"/>
-<area shape="rect" id="node2" href="$classantis__nav__costmap__2d_1_1Layer.html#ab3b0a3667b088798e1752bd035dbc62b" title=" " alt="" coords="5,5,176,47"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="eve_diff_drive_controller::Odometry::resetOdometry" name="eve_diff_drive_controller::Odometry::resetOdometry">
-<area shape="rect" id="node1" title=" " alt="" coords="504,93,704,134"/>
-<area shape="rect" id="node2" href="$classeve__diff__drive__controller_1_1EveDiffDriveController.html#af9fd4e86a5b6e3f61e4a4f05b6c40109" title=" " alt="" coords="237,93,456,134"/>
-<area shape="rect" id="node3" href="$classeve__diff__drive__controller_1_1EveDiffDriveController.html#ab21689b2de564c849559ed9428958981" title=" " alt="" coords="5,5,189,61"/>
-<area shape="rect" id="node4" href="$classeve__diff__drive__controller_1_1EveDiffDriveController.html#ace4dd0e38f23e2aac37318ec13e73bc8" title=" " alt="" coords="5,85,189,141"/>
-<area shape="rect" id="node5" href="$classeve__diff__drive__controller_1_1EveDiffDriveController.html#a69915ff87e3fc60b9d764b5720014380" title=" " alt="" coords="5,165,189,221"/>
-</map>
